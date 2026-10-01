@@ -1,0 +1,39 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasContestAudio"
+    },
+    {
+      "t": "A",
+      "v": "contest",
+      "n": "ContestAudio"
+    },
+    {
+      "t": "S",
+      "v": "Le champion du Midwest ",
+      "n": "ContestText"
+    },
+    {
+      "t": "S",
+      "v": "le Midwest ",
+      "n": "GameText"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasResponseAudio"
+    },
+    {
+      "t": "A",
+      "v": "response",
+      "n": "ResponseAudio"
+    },
+    {
+      "t": "S",
+      "v": "C'est une victoire, vous pariez. ",
+      "n": "ResponseText"
+    }
+  ]
+}

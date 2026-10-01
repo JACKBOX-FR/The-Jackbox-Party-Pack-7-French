@@ -1,0 +1,39 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasContestAudio"
+    },
+    {
+      "t": "A",
+      "v": "contest",
+      "n": "ContestAudio"
+    },
+    {
+      "t": "S",
+      "v": "Le champion du besoin d’un temps mort ",
+      "n": "ContestText"
+    },
+    {
+      "t": "S",
+      "v": "Besoin d'un temps mort ",
+      "n": "GameText"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasResponseAudio"
+    },
+    {
+      "t": "A",
+      "v": "response",
+      "n": "ResponseAudio"
+    },
+    {
+      "t": "S",
+      "v": "Maintenant, va réfléchir à ce que tu as fait ! ",
+      "n": "ResponseText"
+    }
+  ]
+}

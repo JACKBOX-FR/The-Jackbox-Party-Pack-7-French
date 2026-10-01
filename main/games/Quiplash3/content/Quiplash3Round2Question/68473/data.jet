@@ -1,0 +1,44 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Keywords"
+    },
+    {
+      "t": "A",
+      "v": "response",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponseText"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPromptAudio"
+    },
+    {
+      "t": "A",
+      "v": "prompt",
+      "n": "PromptAudio"
+    },
+    {
+      "t": "S",
+      "v": "Quelle est la partie la plus difficile de combattre une poupée tueuse ? ",
+      "n": "PromptText"
+    },
+    {
+      "t": "S",
+      "v": "Ça fait mal à la valeur de revente|C'est vraiment, vraiment effrayant|c'est peut-être une parodie d'une poupée tueuse ",
+      "n": "SafetyQuips"
+    }
+  ]
+}

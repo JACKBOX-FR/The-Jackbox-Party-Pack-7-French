@@ -1,0 +1,29 @@
+{
+  "fields": [
+    {
+      "t": "S",
+      "v": "ferme ",
+      "n": "Password"
+    },
+    {
+      "t": "S",
+      "v": "lieu",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "facile",
+      "n": "Difficulty"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "ForbiddenWords"
+    },
+    {
+      "t": "S",
+      "v": "a farm|the farm",
+      "n": "AlternateSpellings"
+    }
+  ]
+}

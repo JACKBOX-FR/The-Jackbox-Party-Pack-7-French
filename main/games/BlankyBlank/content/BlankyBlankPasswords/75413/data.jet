@@ -1,0 +1,34 @@
+{
+  "fields": [
+    {
+      "t": "S",
+      "v": "Suisse ",
+      "n": "Password"
+    },
+    {
+      "t": "S",
+      "v": "lieu",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "pays",
+      "n": "Subcategory"
+    },
+    {
+      "t": "S",
+      "v": "moyen",
+      "n": "Difficulty"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "ForbiddenWords"
+    },
+    {
+      "t": "S",
+      "v": "Suisse|Suisse|Suisse|Suisse|Suisse|Suisse|Suisse|Confédération suisse|La Confédération suisse ",
+      "n": "AlternateSpellings"
+    }
+  ]
+}

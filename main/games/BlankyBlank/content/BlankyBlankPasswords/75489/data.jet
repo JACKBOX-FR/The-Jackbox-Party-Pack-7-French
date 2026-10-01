@@ -1,0 +1,34 @@
+{
+  "fields": [
+    {
+      "t": "S",
+      "v": "Méchantes filles ",
+      "n": "Password"
+    },
+    {
+      "t": "S",
+      "v": "histoire",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "film",
+      "n": "Subcategory"
+    },
+    {
+      "t": "S",
+      "v": "difficile",
+      "n": "Difficulty"
+    },
+    {
+      "t": "S",
+      "v": "mean|girl",
+      "n": "ForbiddenWords"
+    },
+    {
+      "t": "S",
+      "v": "Méchante fille | Méchantes filles | Méchante fille ",
+      "n": "AlternateSpellings"
+    }
+  ]
+}

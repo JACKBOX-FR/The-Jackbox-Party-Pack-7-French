@@ -1,0 +1,34 @@
+{
+  "fields": [
+    {
+      "t": "S",
+      "v": "Neil Gaiman ",
+      "n": "Password"
+    },
+    {
+      "t": "S",
+      "v": "personne",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "auteur",
+      "n": "Subcategory"
+    },
+    {
+      "t": "S",
+      "v": "difficile",
+      "n": "Difficulty"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "ForbiddenWords"
+    },
+    {
+      "t": "S",
+      "v": "Gaiman|Neil Gayman|Neil Gaymen|Neil Gaimen|Neil Richard Gaiman|Neal Gaiman|Neale Gaiman|Neal Gayman|Neal Gaimen ",
+      "n": "AlternateSpellings"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "fields": [
+    {
+      "t": "S",
+      "v": "toast à l'avocat ",
+      "n": "Password"
+    },
+    {
+      "t": "S",
+      "v": "chose",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "comestible",
+      "n": "Subcategory"
+    },
+    {
+      "t": "S",
+      "v": "facile",
+      "n": "Difficulty"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "ForbiddenWords"
+    },
+    {
+      "t": "S",
+      "v": "toast à l'avocat|toast à l'avocat|toast à l'avicado ",
+      "n": "AlternateSpellings"
+    }
+  ]
+}

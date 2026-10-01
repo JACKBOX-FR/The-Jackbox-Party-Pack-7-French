@@ -1,0 +1,34 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasContestAudio"
+    },
+    {
+      "t": "A",
+      "v": "contest",
+      "n": "ContestAudio"
+    },
+    {
+      "t": "S",
+      "v": "Le champion des draps bruts ",
+      "n": "ContestText"
+    },
+    {
+      "t": "S",
+      "v": "Draps bruts ",
+      "n": "GameText"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasResponseAudio"
+    },
+    {
+      "t": "A",
+      "v": "response",
+      "n": "ResponseAudio"
+    }
+  ]
+}

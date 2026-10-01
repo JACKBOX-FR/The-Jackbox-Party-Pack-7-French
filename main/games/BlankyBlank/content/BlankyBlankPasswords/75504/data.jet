@@ -1,0 +1,34 @@
+{
+  "fields": [
+    {
+      "t": "S",
+      "v": "Alexandre le Grand ",
+      "n": "Password"
+    },
+    {
+      "t": "S",
+      "v": "personne",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "historique",
+      "n": "Subcategory"
+    },
+    {
+      "t": "S",
+      "v": "difficile",
+      "n": "Difficulty"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "ForbiddenWords"
+    },
+    {
+      "t": "S",
+      "v": "Alexandre|Alexandre III de Macédoine|Alexandre le Grand|Alexandrar|Alex le Grand|Alexandre III|Alexandre III|Alexandre le Troisième|Alexandre le troisième ",
+      "n": "AlternateSpellings"
+    }
+  ]
+}

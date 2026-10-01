@@ -1,0 +1,34 @@
+{
+  "fields": [
+    {
+      "t": "S",
+      "v": "Bois de tigre ",
+      "n": "Password"
+    },
+    {
+      "t": "S",
+      "v": "personne",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "athlète",
+      "n": "Subcategory"
+    },
+    {
+      "t": "S",
+      "v": "facile",
+      "n": "Difficulty"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "ForbiddenWords"
+    },
+    {
+      "t": "S",
+      "v": "Bois|Tigre|Bois d'Eldrick Tont \"Tiger\"|Bois d'Eldrick|Bois d'Eldrick Tong|Bois de tigre|Bois de tigres|Bois de tigres ",
+      "n": "AlternateSpellings"
+    }
+  ]
+}

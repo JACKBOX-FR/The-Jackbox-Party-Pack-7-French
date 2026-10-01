@@ -1,0 +1,44 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "S",
+      "v": "<PRONOUN> beer | beer|<PRONOUN> beers | beers|<PRONOUN> booze | booze|<PRONOUN> alcohol | alcohol|<PRONOUN> liquor | liquor|<PRONOUN> wine | wine|<PRONOUN> whiskey | whiskey|<PRONOUN> scotch | scotch|<PRONOUN> tequila | tequila|<PRONOUN> gin | gin|<PRONOUN> vodka | vodka",
+      "n": "Keywords"
+    },
+    {
+      "t": "A",
+      "v": "response",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "t": "S",
+      "v": "Well, if that doesn’t put him in the Christmas spirit, nothing will.",
+      "n": "KeywordResponseText"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPromptAudio"
+    },
+    {
+      "t": "A",
+      "v": "prompt",
+      "n": "PromptAudio"
+    },
+    {
+      "t": "S",
+      "v": "Premièrement, le Grinch a volé Noël. Mais il est allé trop loin quand il a volé <BLANK>",
+      "n": "PromptText"
+    },
+    {
+      "t": "S",
+      "v": "Nos cœurs|Fête de l'Arbre|mon identité",
+      "n": "SafetyQuips"
+    }
+  ]
+}

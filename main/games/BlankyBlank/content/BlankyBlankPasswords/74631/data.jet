@@ -1,0 +1,34 @@
+{
+  "fields": [
+    {
+      "t": "S",
+      "v": "Le magnifique Gatsby ",
+      "n": "Password"
+    },
+    {
+      "t": "S",
+      "v": "histoire",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "boove",
+      "n": "Subcategory"
+    },
+    {
+      "t": "S",
+      "v": "moyen",
+      "n": "Difficulty"
+    },
+    {
+      "t": "S",
+      "v": "great",
+      "n": "ForbiddenWords"
+    },
+    {
+      "t": "S",
+      "v": "Gatsby le magnifique|Gatsby|Le Great Gasby|Great Gasby|Le Great Gatby|Great Gatby ",
+      "n": "AlternateSpellings"
+    }
+  ]
+}

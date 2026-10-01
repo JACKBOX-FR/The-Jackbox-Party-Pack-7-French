@@ -1,0 +1,39 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasContestAudio"
+    },
+    {
+      "t": "A",
+      "v": "contest",
+      "n": "ContestAudio"
+    },
+    {
+      "t": "S",
+      "v": "Le champion d'être pourri ",
+      "n": "ContestText"
+    },
+    {
+      "t": "S",
+      "v": "Être pourri ",
+      "n": "GameText"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasResponseAudio"
+    },
+    {
+      "t": "A",
+      "v": "response",
+      "n": "ResponseAudio"
+    },
+    {
+      "t": "S",
+      "v": "Quelle est cette odeur ? ",
+      "n": "ResponseText"
+    }
+  ]
+}

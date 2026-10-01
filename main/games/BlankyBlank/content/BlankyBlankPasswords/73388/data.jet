@@ -1,0 +1,34 @@
+{
+  "fields": [
+    {
+      "t": "S",
+      "v": "La Belle et la Bête ",
+      "n": "Password"
+    },
+    {
+      "t": "S",
+      "v": "histoire",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "film d'animation",
+      "n": "Subcategory"
+    },
+    {
+      "t": "S",
+      "v": "facile",
+      "n": "Difficulty"
+    },
+    {
+      "t": "S",
+      "v": "beast",
+      "n": "ForbiddenWords"
+    },
+    {
+      "t": "S",
+      "v": "La Belle et la Bête ",
+      "n": "AlternateSpellings"
+    }
+  ]
+}

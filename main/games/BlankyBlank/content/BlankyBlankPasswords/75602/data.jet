@@ -1,0 +1,34 @@
+{
+  "fields": [
+    {
+      "t": "S",
+      "v": "Golden Retriever ",
+      "n": "Password"
+    },
+    {
+      "t": "S",
+      "v": "chose",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "animal",
+      "n": "Subcategory"
+    },
+    {
+      "t": "S",
+      "v": "facile",
+      "n": "Difficulty"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "ForbiddenWords"
+    },
+    {
+      "t": "S",
+      "v": "Retriever jaune|Gold Retriever|Golden Retreiver|Gold Retreiver ",
+      "n": "AlternateSpellings"
+    }
+  ]
+}

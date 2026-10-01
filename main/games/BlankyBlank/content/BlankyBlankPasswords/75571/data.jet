@@ -1,0 +1,34 @@
+{
+  "fields": [
+    {
+      "t": "S",
+      "v": "crevette ",
+      "n": "Password"
+    },
+    {
+      "t": "S",
+      "v": "chose",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "comestible",
+      "n": "Subcategory"
+    },
+    {
+      "t": "S",
+      "v": "facile",
+      "n": "Difficulty"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "ForbiddenWords"
+    },
+    {
+      "t": "S",
+      "v": "crevettes|cocktail de crevettes|cocktail de crevettes ",
+      "n": "AlternateSpellings"
+    }
+  ]
+}

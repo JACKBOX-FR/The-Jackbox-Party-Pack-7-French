@@ -1,0 +1,34 @@
+{
+  "fields": [
+    {
+      "t": "S",
+      "v": "Rudolph le renne au nez rouge ",
+      "n": "Password"
+    },
+    {
+      "t": "S",
+      "v": "personne",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "fictif",
+      "n": "Subcategory"
+    },
+    {
+      "t": "S",
+      "v": "difficile",
+      "n": "Difficulty"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "ForbiddenWords"
+    },
+    {
+      "t": "S",
+      "v": "Rudolph|Rudolph le renne|Renne au nez rouge|rudolph le renne au nez rouge|rudolph le renne au nez rouge|renne au nez rouge|renne au nez rouge|renne rudolph ",
+      "n": "AlternateSpellings"
+    }
+  ]
+}

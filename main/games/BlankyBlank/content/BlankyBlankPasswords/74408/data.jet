@@ -1,0 +1,34 @@
+{
+  "fields": [
+    {
+      "t": "S",
+      "v": "Le tour du monde en quatre-vingts jours ",
+      "n": "Password"
+    },
+    {
+      "t": "S",
+      "v": "histoire",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "livre",
+      "n": "Subcategory"
+    },
+    {
+      "t": "S",
+      "v": "difficile",
+      "n": "Difficulty"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "ForbiddenWords"
+    },
+    {
+      "t": "S",
+      "v": "Autour du monde|Autour du monde en 80 jours|80 jours|Autour du monde en huit jours|Quatre-vingts jours autour du monde|Quatre-vingts jours|80 jours autour du monde|Autour du monde en 8 jours",
+      "n": "AlternateSpellings"
+    }
+  ]
+}

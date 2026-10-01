@@ -1,0 +1,44 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "S",
+      "v": "farting|passing wind|tooting",
+      "n": "Keywords"
+    },
+    {
+      "t": "A",
+      "v": "response",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "t": "S",
+      "v": "Privacy, Please. I’m Farting. Ingenious!",
+      "n": "KeywordResponseText"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPromptAudio"
+    },
+    {
+      "t": "A",
+      "v": "prompt",
+      "n": "PromptAudio"
+    },
+    {
+      "t": "S",
+      "v": "Idée pour un panneau de chambre d'hôtel amélioré : \"Confidentialité, s'il vous plaît. Je suis <VIDE>\"",
+      "n": "PromptText"
+    },
+    {
+      "t": "S",
+      "v": "vomir dans les toilettes|Travestisme|timide devant les femmes de ménage ",
+      "n": "SafetyQuips"
+    }
+  ]
+}

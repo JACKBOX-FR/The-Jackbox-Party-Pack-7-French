@@ -1,0 +1,39 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasContestAudio"
+    },
+    {
+      "t": "A",
+      "v": "contest",
+      "n": "ContestAudio"
+    },
+    {
+      "t": "S",
+      "v": "Le champion des motels bon marché ",
+      "n": "ContestText"
+    },
+    {
+      "t": "S",
+      "v": "Motels bon marché ",
+      "n": "GameText"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasResponseAudio"
+    },
+    {
+      "t": "A",
+      "v": "response",
+      "n": "ResponseAudio"
+    },
+    {
+      "t": "S",
+      "v": "Vous ne voulez pas voir cela sous une lumière noire ! ",
+      "n": "ResponseText"
+    }
+  ]
+}

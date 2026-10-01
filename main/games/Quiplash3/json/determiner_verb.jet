@@ -1,0 +1,18 @@
+{
+    "payload":[
+        { "determiner": "ayant" },
+        { "determiner": "avoir un" },
+        { "determiner": "boire" },
+        { "determiner": "boire un" },
+        { "determiner": "vouloir" },
+        { "determiner": "vouloir un" },
+        { "determiner": "avoir besoin" },
+        { "determiner": "ayant besoin d'un" },
+        { "determiner": "fringale" },
+        { "determiner": "envie d'un" },
+        { "determiner": "tomber" },
+        { "determiner": "abattre un" },
+        { "determiner": "gourmande" },
+        { "determiner": "engloutissant un" }
+    ]
+}

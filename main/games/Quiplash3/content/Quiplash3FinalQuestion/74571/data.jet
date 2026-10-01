@@ -1,0 +1,44 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Keywords"
+    },
+    {
+      "t": "A",
+      "v": "response",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponseText"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPromptAudio"
+    },
+    {
+      "t": "A",
+      "v": "prompt",
+      "n": "PromptAudio"
+    },
+    {
+      "t": "S",
+      "v": "Trois requêtes frustrantes qu'un captcha de site Web peut faire pour prouver que vous n'êtes pas un robot ",
+      "n": "PromptText"
+    },
+    {
+      "t": "S",
+      "v": "trouver tous les bus|trouver tous les passages pour piétons|trouver le sens de la vie|trouver toutes les voitures|trouver tous les lampadaires|trouver le véritable amour|lire les lettres|lire les chiffres|lire Le Voleur de foudre ",
+      "n": "SafetyQuips"
+    }
+  ]
+}

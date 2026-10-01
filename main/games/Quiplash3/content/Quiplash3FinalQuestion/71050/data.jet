@@ -1,0 +1,44 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Keywords"
+    },
+    {
+      "t": "A",
+      "v": "response",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponseText"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPromptAudio"
+    },
+    {
+      "t": "A",
+      "v": "prompt",
+      "n": "PromptAudio"
+    },
+    {
+      "t": "S",
+      "v": "Les trois principales choses sur lesquelles tes parents t'ont menti ",
+      "n": "PromptText"
+    },
+    {
+      "t": "S",
+      "v": "drogues|alcool|bonheur|comment ils se sont rencontrés|comment vous avez été conçu|combien a coûté la voiture|leur voyage au Nouveau-Mexique|l'OVNI|d'où vous venez ",
+      "n": "SafetyQuips"
+    }
+  ]
+}

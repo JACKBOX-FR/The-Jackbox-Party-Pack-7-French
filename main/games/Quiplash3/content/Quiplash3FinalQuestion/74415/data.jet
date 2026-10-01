@@ -1,0 +1,44 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Keywords"
+    },
+    {
+      "t": "A",
+      "v": "response",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponseText"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPromptAudio"
+    },
+    {
+      "t": "A",
+      "v": "prompt",
+      "n": "PromptAudio"
+    },
+    {
+      "t": "S",
+      "v": "Les trois avantages de vivre sur un bateau pirate ",
+      "n": "PromptText"
+    },
+    {
+      "t": "S",
+      "v": "nourriture gratuite|bijoux gratuits|accès aux canons|air salin|eau salée|sel, en général|perroquet gratuit|boulets de canon gratuits|malédictions occasionnelles ",
+      "n": "SafetyQuips"
+    }
+  ]
+}

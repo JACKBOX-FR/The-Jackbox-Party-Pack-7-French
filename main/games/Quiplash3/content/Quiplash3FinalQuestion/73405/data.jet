@@ -1,0 +1,44 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Keywords"
+    },
+    {
+      "t": "A",
+      "v": "response",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponseText"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPromptAudio"
+    },
+    {
+      "t": "A",
+      "v": "prompt",
+      "n": "PromptAudio"
+    },
+    {
+      "t": "S",
+      "v": "Les trois choses les plus inefficaces à écrire sur le sable pour signaler un avion de sauvetage ",
+      "n": "PromptText"
+    },
+    {
+      "t": "S",
+      "v": "Ça va|Bien|Merci|Get|Outta|Ici|Besoin de billets pour Lolla|Demandez-moi à propos de mon étudiant d'honneur|Continuez à passer une bonne journée ",
+      "n": "SafetyQuips"
+    }
+  ]
+}

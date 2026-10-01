@@ -1,0 +1,34 @@
+{
+  "fields": [
+    {
+      "t": "S",
+      "v": "saxophone ",
+      "n": "Password"
+    },
+    {
+      "t": "S",
+      "v": "chose",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "choses",
+      "n": "Subcategory"
+    },
+    {
+      "t": "S",
+      "v": "facile",
+      "n": "Difficulty"
+    },
+    {
+      "t": "S",
+      "v": "phone",
+      "n": "ForbiddenWords"
+    },
+    {
+      "t": "S",
+      "v": "sax|sax alto|sax bari|saxaphone|saxophones|saxaphones|le sax|saxophone alto|saxophone bari|sax ténor|saxophone ténor ",
+      "n": "AlternateSpellings"
+    }
+  ]
+}

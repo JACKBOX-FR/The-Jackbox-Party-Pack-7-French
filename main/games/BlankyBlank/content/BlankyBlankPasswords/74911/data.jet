@@ -1,0 +1,34 @@
+{
+  "fields": [
+    {
+      "t": "S",
+      "v": "Pac-Man ",
+      "n": "Password"
+    },
+    {
+      "t": "S",
+      "v": "personne",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "fictif",
+      "n": "Subcategory"
+    },
+    {
+      "t": "S",
+      "v": "difficile",
+      "n": "Difficulty"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "ForbiddenWords"
+    },
+    {
+      "t": "S",
+      "v": "Pac Man|PacMan|Mme. Pac-Man | Mme. Pac-Man|Packman ",
+      "n": "AlternateSpellings"
+    }
+  ]
+}

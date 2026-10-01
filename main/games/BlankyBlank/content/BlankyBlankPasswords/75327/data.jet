@@ -1,0 +1,34 @@
+{
+  "fields": [
+    {
+      "t": "S",
+      "v": "Le côté lointain ",
+      "n": "Password"
+    },
+    {
+      "t": "S",
+      "v": "histoire",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "bande dessinée",
+      "n": "Subcategory"
+    },
+    {
+      "t": "S",
+      "v": "moyen",
+      "n": "Difficulty"
+    },
+    {
+      "t": "S",
+      "v": "far|side",
+      "n": "ForbiddenWords"
+    },
+    {
+      "t": "S",
+      "v": "Côté lointain",
+      "n": "AlternateSpellings"
+    }
+  ]
+}

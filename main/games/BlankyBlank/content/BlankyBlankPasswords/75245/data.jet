@@ -1,0 +1,34 @@
+{
+  "fields": [
+    {
+      "t": "S",
+      "v": "La vie d'un insecte ",
+      "n": "Password"
+    },
+    {
+      "t": "S",
+      "v": "histoire",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "film d'animation",
+      "n": "Subcategory"
+    },
+    {
+      "t": "S",
+      "v": "moyen",
+      "n": "Difficulty"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "ForbiddenWords"
+    },
+    {
+      "t": "S",
+      "v": "La vie des insectes|La vie des insectes|Une vie des insectes|Une vie des insectes|La vie des insectes|La vie des insectes|La vie des insectes|La vie des insectes ",
+      "n": "AlternateSpellings"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "fields": [
+    {
+      "t": "S",
+      "v": "RuPaul ",
+      "n": "Password"
+    },
+    {
+      "t": "S",
+      "v": "personne",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "célébrité",
+      "n": "Subcategory"
+    },
+    {
+      "t": "S",
+      "v": "moyen",
+      "n": "Difficulty"
+    },
+    {
+      "t": "S",
+      "v": "supermodel",
+      "n": "ForbiddenWords"
+    },
+    {
+      "t": "S",
+      "v": "Ru Paul|RuPaul André Charles|RooPaul|Roo Paul|RuePaul|Rue Paul ",
+      "n": "AlternateSpellings"
+    }
+  ]
+}

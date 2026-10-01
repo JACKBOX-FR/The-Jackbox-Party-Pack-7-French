@@ -1,0 +1,44 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Keywords"
+    },
+    {
+      "t": "A",
+      "v": "response",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponseText"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPromptAudio"
+    },
+    {
+      "t": "A",
+      "v": "prompt",
+      "n": "PromptAudio"
+    },
+    {
+      "t": "S",
+      "v": "La meilleure façon de convaincre les clients de la restauration rapide d'obtenir un repas de qualité ",
+      "n": "PromptText"
+    },
+    {
+      "t": "S",
+      "v": "chaque dollar aide un orphelin | parler sexy au volant | avoir un Hulk-out ",
+      "n": "SafetyQuips"
+    }
+  ]
+}

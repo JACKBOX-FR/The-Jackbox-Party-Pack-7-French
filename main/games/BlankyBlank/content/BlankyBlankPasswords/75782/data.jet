@@ -1,0 +1,34 @@
+{
+  "fields": [
+    {
+      "t": "S",
+      "v": "hoverboard ",
+      "n": "Password"
+    },
+    {
+      "t": "S",
+      "v": "chose",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "jouet",
+      "n": "Subcategory"
+    },
+    {
+      "t": "S",
+      "v": "moyen",
+      "n": "Difficulty"
+    },
+    {
+      "t": "S",
+      "v": "board|hover",
+      "n": "ForbiddenWords"
+    },
+    {
+      "t": "S",
+      "v": "hover board|un hover board|un hoverboard|hoverboards|hover boards|scooter auto-équilibré|scooter auto-équilibré|scooter auto-équilibré ",
+      "n": "AlternateSpellings"
+    }
+  ]
+}

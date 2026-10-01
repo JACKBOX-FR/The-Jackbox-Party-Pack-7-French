@@ -1,0 +1,44 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Keywords"
+    },
+    {
+      "t": "A",
+      "v": "response",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponseText"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPromptAudio"
+    },
+    {
+      "t": "A",
+      "v": "prompt",
+      "n": "PromptAudio"
+    },
+    {
+      "t": "S",
+      "v": "Décrivez le modèle de couverture sur le calendrier «Medieval Hunks of 1506» ",
+      "n": "PromptText"
+    },
+    {
+      "t": "S",
+      "v": "Da Vinci en string|un forgeron et son enclume|un mec avec un arc long ",
+      "n": "SafetyQuips"
+    }
+  ]
+}

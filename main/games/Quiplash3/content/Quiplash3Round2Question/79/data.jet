@@ -1,0 +1,44 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Keywords"
+    },
+    {
+      "t": "A",
+      "v": "response",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponseText"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPromptAudio"
+    },
+    {
+      "t": "A",
+      "v": "prompt",
+      "n": "PromptAudio"
+    },
+    {
+      "t": "S",
+      "v": "Quelque chose que vous ne voudriez jamais entendre crier dans la cuisine d'un restaurant ",
+      "n": "PromptText"
+    },
+    {
+      "t": "S",
+      "v": "C'est lâche !!!|Il n'est là que depuis une heure, tout va bien|C'est quoi ce burger dont tu parles ? ",
+      "n": "SafetyQuips"
+    }
+  ]
+}

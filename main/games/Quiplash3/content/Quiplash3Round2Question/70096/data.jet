@@ -1,0 +1,44 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Keywords"
+    },
+    {
+      "t": "A",
+      "v": "response",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponseText"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPromptAudio"
+    },
+    {
+      "t": "A",
+      "v": "prompt",
+      "n": "PromptAudio"
+    },
+    {
+      "t": "S",
+      "v": "Quelle est la ligne la plus fluide qu’un jardinier puisse proposer lors de la soirée des célibataires ? ",
+      "n": "PromptText"
+    },
+    {
+      "t": "S",
+      "v": "Vous êtes déjà allé à Eden ? Je l'ai fait.|J'élimine les terribles dattes|Je promets que je suis une plante vivace ",
+      "n": "SafetyQuips"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "fields": [
+    {
+      "t": "S",
+      "v": "crème solaire ",
+      "n": "Password"
+    },
+    {
+      "t": "S",
+      "v": "chose",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "facile",
+      "n": "Difficulty"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "ForbiddenWords"
+    },
+    {
+      "t": "S",
+      "v": "sunblock|suntan lotion|sun screen|sun lotion|sunning lotion|sun block|sun tan totion",
+      "n": "AlternateSpellings"
+    }
+  ]
+}

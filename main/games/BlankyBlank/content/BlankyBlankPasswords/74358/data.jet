@@ -1,0 +1,34 @@
+{
+  "fields": [
+    {
+      "t": "S",
+      "v": "Princesse Leia ",
+      "n": "Password"
+    },
+    {
+      "t": "S",
+      "v": "personne",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "fictif",
+      "n": "Subcategory"
+    },
+    {
+      "t": "S",
+      "v": "moyen",
+      "n": "Difficulty"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "ForbiddenWords"
+    },
+    {
+      "t": "S",
+      "v": "Leia|Leia Organa|Princesse Leia Organa|Leia Skywalker|Princesse Leia Skywalker|Général Leia|Général Leia Organa|Général Organa|Laia|Princesse Laia",
+      "n": "AlternateSpellings"
+    }
+  ]
+}

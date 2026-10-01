@@ -1,0 +1,44 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "S",
+      "v": "beer|beeer|beer!|booze|boooze|booze!",
+      "n": "Keywords"
+    },
+    {
+      "t": "A",
+      "v": "response",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "t": "S",
+      "v": "Oh, you just hate to see that with livestock. It’s “udderly” sad. (rimshot followed by drunken moo)",
+      "n": "KeywordResponseText"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPromptAudio"
+    },
+    {
+      "t": "A",
+      "v": "prompt",
+      "n": "PromptAudio"
+    },
+    {
+      "t": "S",
+      "v": "La vache meugle. La vache ivre va <BLANK>",
+      "n": "PromptText"
+    },
+    {
+      "t": "S",
+      "v": "Éloignez-vous de mon chemin, Janet !|Commandons Domino's|Allons nous donner des pourboires ! ",
+      "n": "SafetyQuips"
+    }
+  ]
+}

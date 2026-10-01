@@ -1,0 +1,44 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Keywords"
+    },
+    {
+      "t": "A",
+      "v": "response",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponseText"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPromptAudio"
+    },
+    {
+      "t": "A",
+      "v": "prompt",
+      "n": "PromptAudio"
+    },
+    {
+      "t": "S",
+      "v": "Une manière géniale de tromper la technologie de reconnaissance faciale ",
+      "n": "PromptText"
+    },
+    {
+      "t": "S",
+      "v": "fausses moustaches de haute qualité | marcher vite | investir dans la technologie d'élimination du visage ",
+      "n": "SafetyQuips"
+    }
+  ]
+}

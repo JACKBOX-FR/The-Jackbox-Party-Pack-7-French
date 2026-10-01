@@ -1,0 +1,44 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "S",
+      "v": "<PRONOUN> dunno | dunno|<PRONOUN> don't know | don't know|<PRONOUN> nothing | nothing|<PRONOUN> nothin | nothin|<PRONOUN> nuthin | nuthin|who cares|this is stupid|this is dumb|this is lame|<PRONOUN> no idea | no idea|<PRONOUN> no clue | no clue|<PRONOUN> don't care | don't care",
+      "n": "Keywords"
+    },
+    {
+      "t": "A",
+      "v": "response",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "t": "S",
+      "v": "Well that’s just a... A-plus effort. A-plus on your part. Thank you. Thank you so much. (explosion, glass shattering)",
+      "n": "KeywordResponseText"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPromptAudio"
+    },
+    {
+      "t": "A",
+      "v": "prompt",
+      "n": "PromptAudio"
+    },
+    {
+      "t": "S",
+      "v": "Quelle est la chose la moins utile que vous puissiez faire en aidant quelqu’un à désamorcer une bombe ? ",
+      "n": "PromptText"
+    },
+    {
+      "t": "S",
+      "v": "mangez des chips très croustillantes | entraînez-vous à fabriquer des animaux en ballon | continuez à dire \"coupez simplement le fil bleu\" ",
+      "n": "SafetyQuips"
+    }
+  ]
+}

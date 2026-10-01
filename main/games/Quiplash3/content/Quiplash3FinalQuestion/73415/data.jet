@@ -1,0 +1,44 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Keywords"
+    },
+    {
+      "t": "A",
+      "v": "response",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponseText"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPromptAudio"
+    },
+    {
+      "t": "A",
+      "v": "prompt",
+      "n": "PromptAudio"
+    },
+    {
+      "t": "S",
+      "v": "Soyons positifs ! Nommez trois choses que vous attendez avec impatience ! ",
+      "n": "PromptText"
+    },
+    {
+      "t": "S",
+      "v": "Quiplash 4|Quiplash 5|Quiplash : Les montagnes russes|des vacances à la plage|une margarita|extraire du sable de mes chaussettes|le prochain film de super-héros|à moins qu'il ne soit stupide|ce sera probablement stupide ",
+      "n": "SafetyQuips"
+    }
+  ]
+}

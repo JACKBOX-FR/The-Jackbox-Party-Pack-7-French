@@ -1,0 +1,44 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Keywords"
+    },
+    {
+      "t": "A",
+      "v": "response",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponseText"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPromptAudio"
+    },
+    {
+      "t": "A",
+      "v": "prompt",
+      "n": "PromptAudio"
+    },
+    {
+      "t": "S",
+      "v": "Conseil de sécurité pour le conducteur : Il est déconseillé de conduire un véhicule à moteur et <BLANK> en même temps. ",
+      "n": "PromptText"
+    },
+    {
+      "t": "S",
+      "v": "faire une cure de jouvence complète|faire du vélo|faire une petite sieste ",
+      "n": "SafetyQuips"
+    }
+  ]
+}

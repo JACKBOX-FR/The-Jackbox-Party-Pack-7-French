@@ -1,0 +1,44 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Keywords"
+    },
+    {
+      "t": "A",
+      "v": "response",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponseText"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPromptAudio"
+    },
+    {
+      "t": "A",
+      "v": "prompt",
+      "n": "PromptAudio"
+    },
+    {
+      "t": "S",
+      "v": "Un crossover de bande dessinée que vous paieriez bien trop cher pour voir au cinéma ",
+      "n": "PromptText"
+    },
+    {
+      "t": "S",
+      "v": "Ant-Man contre Batman | Les Quatre Fantastiques rencontrent Jésus ",
+      "n": "SafetyQuips"
+    }
+  ]
+}

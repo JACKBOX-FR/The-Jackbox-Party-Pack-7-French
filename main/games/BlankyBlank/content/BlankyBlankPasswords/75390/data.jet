@@ -1,0 +1,34 @@
+{
+  "fields": [
+    {
+      "t": "S",
+      "v": "L'homme de la musique ",
+      "n": "Password"
+    },
+    {
+      "t": "S",
+      "v": "histoire",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "comédie",
+      "n": "Subcategory"
+    },
+    {
+      "t": "S",
+      "v": "moyen",
+      "n": "Difficulty"
+    },
+    {
+      "t": "S",
+      "v": "music",
+      "n": "ForbiddenWords"
+    },
+    {
+      "t": "S",
+      "v": "Homme de musique ",
+      "n": "AlternateSpellings"
+    }
+  ]
+}

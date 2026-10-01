@@ -1,0 +1,44 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Keywords"
+    },
+    {
+      "t": "A",
+      "v": "response",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponseText"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPromptAudio"
+    },
+    {
+      "t": "A",
+      "v": "prompt",
+      "n": "PromptAudio"
+    },
+    {
+      "t": "S",
+      "v": "Trois choses que vous trouverez dans n'importe quel sac banane ",
+      "n": "PromptText"
+    },
+    {
+      "t": "S",
+      "v": "crème solaire | chewing-gum à la menthe | zéro dignité | lunettes de soleil | bonbons durs | une carte du parc à thème | lotion | plus de lotion | même. plus. lotion. ",
+      "n": "SafetyQuips"
+    }
+  ]
+}

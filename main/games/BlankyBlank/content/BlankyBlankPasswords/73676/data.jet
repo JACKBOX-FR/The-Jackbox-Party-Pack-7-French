@@ -1,0 +1,34 @@
+{
+  "fields": [
+    {
+      "t": "S",
+      "v": "Comment le Grinch a volé Noël ",
+      "n": "Password"
+    },
+    {
+      "t": "S",
+      "v": "histoire",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "livre",
+      "n": "Subcategory"
+    },
+    {
+      "t": "S",
+      "v": "facile",
+      "n": "Difficulty"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "ForbiddenWords"
+    },
+    {
+      "t": "S",
+      "v": "Grinch qui a volé Noël|Le Grinch|Grinch|Le Grinch a volé Noël|Le Grinch a volé Noël|Le Grinch qui a volé Noël|Comment le Grinch a volé Noël ! ",
+      "n": "AlternateSpellings"
+    }
+  ]
+}

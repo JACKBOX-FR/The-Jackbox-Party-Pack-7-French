@@ -1,0 +1,34 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasContestAudio"
+    },
+    {
+      "t": "A",
+      "v": "contest",
+      "n": "ContestAudio"
+    },
+    {
+      "t": "S",
+      "v": "Le champion de « Savez-vous qui est mon père ? ",
+      "n": "ContestText"
+    },
+    {
+      "t": "S",
+      "v": "\" Savez-vous qui est mon père ? \" ",
+      "n": "GameText"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasResponseAudio"
+    },
+    {
+      "t": "A",
+      "v": "response",
+      "n": "ResponseAudio"
+    }
+  ]
+}

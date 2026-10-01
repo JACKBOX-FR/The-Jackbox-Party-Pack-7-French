@@ -1,0 +1,44 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Keywords"
+    },
+    {
+      "t": "A",
+      "v": "response",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponseText"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPromptAudio"
+    },
+    {
+      "t": "A",
+      "v": "prompt",
+      "n": "PromptAudio"
+    },
+    {
+      "t": "S",
+      "v": "Trois modèles de voitures Chevrolet rappelés parce qu’ils étaient « trop géniaux » ",
+      "n": "PromptText"
+    },
+    {
+      "t": "S",
+      "v": "La fusée|Le marteau|Le surcompensateur|Le bijou|Le diamant|La Super Camaro|La bonne voiture|La meilleure voiture|La meilleure voiture ",
+      "n": "SafetyQuips"
+    }
+  ]
+}

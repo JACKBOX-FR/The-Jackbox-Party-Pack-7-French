@@ -1,0 +1,34 @@
+{
+  "fields": [
+    {
+      "t": "S",
+      "v": "Chuck E. Fromage ",
+      "n": "Password"
+    },
+    {
+      "t": "S",
+      "v": "lieu",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "marque",
+      "n": "Subcategory"
+    },
+    {
+      "t": "S",
+      "v": "moyen",
+      "n": "Difficulty"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "ForbiddenWords"
+    },
+    {
+      "t": "S",
+      "v": "Chucky Cheese|Chucky E Cheese|Chuck E Cheese|Chucky Cheese's|Chuck E Cheese's ",
+      "n": "AlternateSpellings"
+    }
+  ]
+}

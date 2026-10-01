@@ -1,0 +1,44 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Keywords"
+    },
+    {
+      "t": "A",
+      "v": "response",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponseText"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPromptAudio"
+    },
+    {
+      "t": "A",
+      "v": "prompt",
+      "n": "PromptAudio"
+    },
+    {
+      "t": "S",
+      "v": "Trois choses sur votre liste de choses à faire si vous pouviez passer la journée avec Albert Einstein ",
+      "n": "PromptText"
+    },
+    {
+      "t": "S",
+      "v": "va à la pêche | joue aux échecs | demande-lui de te construire un vaisseau spatial | parle de la vie | parle du cosmos | prends de jolies photos Insta ",
+      "n": "SafetyQuips"
+    }
+  ]
+}

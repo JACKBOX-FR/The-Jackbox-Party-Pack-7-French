@@ -1,0 +1,39 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasContestAudio"
+    },
+    {
+      "t": "A",
+      "v": "contest",
+      "n": "ContestAudio"
+    },
+    {
+      "t": "S",
+      "v": "Le champion de toujours courir avec 5 minutes de retard ",
+      "n": "ContestText"
+    },
+    {
+      "t": "S",
+      "v": "Toujours en retard de 5 minutes ",
+      "n": "GameText"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasResponseAudio"
+    },
+    {
+      "t": "A",
+      "v": "response",
+      "n": "ResponseAudio"
+    },
+    {
+      "t": "S",
+      "v": "Ils sont toujours dans les délais, voire en retard. ",
+      "n": "ResponseText"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "fields": [
+    {
+      "t": "S",
+      "v": "Jouets \"R\" Nous ",
+      "n": "Password"
+    },
+    {
+      "t": "S",
+      "v": "lieu",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "marque",
+      "n": "Subcategory"
+    },
+    {
+      "t": "S",
+      "v": "facile",
+      "n": "Difficulty"
+    },
+    {
+      "t": "S",
+      "v": "toy",
+      "n": "ForbiddenWords"
+    },
+    {
+      "t": "S",
+      "v": "Toys R Us|Les jouets sont nous|Toysrus|Toy r us|Toys R' Us|Toys-R-Us|Toy R Us|Les jouets sont nous|toyrus ",
+      "n": "AlternateSpellings"
+    }
+  ]
+}

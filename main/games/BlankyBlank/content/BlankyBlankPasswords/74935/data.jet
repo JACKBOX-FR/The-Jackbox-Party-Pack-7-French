@@ -1,0 +1,34 @@
+{
+  "fields": [
+    {
+      "t": "S",
+      "v": "Jus de Beetle ",
+      "n": "Password"
+    },
+    {
+      "t": "S",
+      "v": "personne",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "fictif",
+      "n": "Subcategory"
+    },
+    {
+      "t": "S",
+      "v": "facile",
+      "n": "Difficulty"
+    },
+    {
+      "t": "S",
+      "v": "juicy",
+      "n": "ForbiddenWords"
+    },
+    {
+      "t": "S",
+      "v": "bételgeuse ",
+      "n": "AlternateSpellings"
+    }
+  ]
+}

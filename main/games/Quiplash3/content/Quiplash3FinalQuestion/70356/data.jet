@@ -1,0 +1,44 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Keywords"
+    },
+    {
+      "t": "A",
+      "v": "response",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponseText"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPromptAudio"
+    },
+    {
+      "t": "A",
+      "v": "prompt",
+      "n": "PromptAudio"
+    },
+    {
+      "t": "S",
+      "v": "Trois noms de cocktails inutilement explicites ",
+      "n": "PromptText"
+    },
+    {
+      "t": "S",
+      "v": "téton super beurré | la dame nue | le \"Je veux du sexe\" et le tonique | mégots et soda | seins-ahol | harvey wallbanger partie II | sexe et soda | bière érotique | le wienertini ",
+      "n": "SafetyQuips"
+    }
+  ]
+}

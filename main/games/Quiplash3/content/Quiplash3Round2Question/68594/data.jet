@@ -1,0 +1,44 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "S",
+      "v": "Hi, I'm Schmitty|Schmitty|Shmitty|Smitty|Schmittie|Shmittie|Smittie|Hi I'm Schmitty|Hi I'm Shmitty|Hi I'm Smitty|Hi I'm Schmittie|Hi I'm Shmittie",
+      "n": "Keywords"
+    },
+    {
+      "t": "A",
+      "v": "response",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "t": "S",
+      "v": "You know it’s funny, you’d think that would work, but I’ve tried it and surprisingly it really backfired.",
+      "n": "KeywordResponseText"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPromptAudio"
+    },
+    {
+      "t": "A",
+      "v": "prompt",
+      "n": "PromptAudio"
+    },
+    {
+      "t": "S",
+      "v": "Vous voulez de l'attention ? Allez dans un bar pour célibataires en portant un t-shirt qui dit \"<BLANK>\" ",
+      "n": "PromptText"
+    },
+    {
+      "t": "S",
+      "v": "boissons offertes !|ta mère me détesterait|garantie de remboursement ",
+      "n": "SafetyQuips"
+    }
+  ]
+}

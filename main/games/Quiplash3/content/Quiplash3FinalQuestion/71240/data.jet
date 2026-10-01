@@ -1,0 +1,44 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Keywords"
+    },
+    {
+      "t": "A",
+      "v": "response",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponseText"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPromptAudio"
+    },
+    {
+      "t": "A",
+      "v": "prompt",
+      "n": "PromptAudio"
+    },
+    {
+      "t": "S",
+      "v": "Les trois étapes pour retirer chirurgicalement votre propre appendice ",
+      "n": "PromptText"
+    },
+    {
+      "t": "S",
+      "v": "Trouvez votre couteau à steak le plus tranchant|Avalez une bouteille de whisky|Marmonnez \"il n'y a rien\"|Fouillez dans vos tripes|Extirpez votre appendice|Réalisez que c'était votre rate|Lisez un livre|Poulet|J'espère que tout s'arrangera ",
+      "n": "SafetyQuips"
+    }
+  ]
+}

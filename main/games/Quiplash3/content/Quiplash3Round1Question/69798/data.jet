@@ -1,0 +1,44 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Keywords"
+    },
+    {
+      "t": "A",
+      "v": "response",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponseText"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPromptAudio"
+    },
+    {
+      "t": "A",
+      "v": "prompt",
+      "n": "PromptAudio"
+    },
+    {
+      "t": "S",
+      "v": "Un cadeau pour lequel ton beau-père a vraiment fait de son mieux... alors sois gentil ",
+      "n": "PromptText"
+    },
+    {
+      "t": "S",
+      "v": "bracelets d'amitié | participez à un match de basket-ball, vous serez assis en silence devant des jouets Hott Wheelz hors marque ",
+      "n": "SafetyQuips"
+    }
+  ]
+}

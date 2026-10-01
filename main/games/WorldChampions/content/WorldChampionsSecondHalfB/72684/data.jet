@@ -1,0 +1,34 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasContestAudio"
+    },
+    {
+      "t": "A",
+      "v": "contest",
+      "n": "ContestAudio"
+    },
+    {
+      "t": "S",
+      "v": "Le champion de la douceur une fois que vous avez appris à les connaître ",
+      "n": "ContestText"
+    },
+    {
+      "t": "S",
+      "v": "Être gentil une fois que vous apprenez à les connaître ",
+      "n": "GameText"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasResponseAudio"
+    },
+    {
+      "t": "A",
+      "v": "response",
+      "n": "ResponseAudio"
+    }
+  ]
+}

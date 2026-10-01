@@ -1,0 +1,34 @@
+{
+  "fields": [
+    {
+      "t": "S",
+      "v": "Loi et ordre ",
+      "n": "Password"
+    },
+    {
+      "t": "S",
+      "v": "histoire",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "tv",
+      "n": "Subcategory"
+    },
+    {
+      "t": "S",
+      "v": "moyen",
+      "n": "Difficulty"
+    },
+    {
+      "t": "S",
+      "v": "law",
+      "n": "ForbiddenWords"
+    },
+    {
+      "t": "S",
+      "v": "Loi et ordre|Ordre public|Loi et ordre : intention criminelle|Loi et ordre : Unité spéciale d'aide aux victimes|Loi et ordre : Royaume-Uni ",
+      "n": "AlternateSpellings"
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Keywords"
+    },
+    {
+      "t": "A",
+      "v": "response",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponseText"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPromptAudio"
+    },
+    {
+      "t": "A",
+      "v": "prompt",
+      "n": "PromptAudio"
+    },
+    {
+      "t": "S",
+      "v": "Une ligne de pick-up solide pour un joueur de hockey ",
+      "n": "PromptText"
+    },
+    {
+      "t": "S",
+      "v": "Tu es mon seul objectif ce soir|Tu aimes la glace ?|tu peux me contrôler à tout moment ",
+      "n": "SafetyQuips"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "fields": [
+    {
+      "t": "S",
+      "v": "Blanche Neige et les Sept Nains ",
+      "n": "Password"
+    },
+    {
+      "t": "S",
+      "v": "histoire",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "film d'animation",
+      "n": "Subcategory"
+    },
+    {
+      "t": "S",
+      "v": "facile",
+      "n": "Difficulty"
+    },
+    {
+      "t": "S",
+      "v": "princess",
+      "n": "ForbiddenWords"
+    },
+    {
+      "t": "S",
+      "v": "Blanche-Neige|Blanche-Neige et les 7 nains|Blanche-Neige et les sept nains|Blanche-Neige et les 7 nains|Les sept nains|Les 7 nains|Les sept nains|Les 7 nains|Blanche-Neige et les sept nains|Blanche-Neige sept nains ",
+      "n": "AlternateSpellings"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "fields": [
+    {
+      "t": "S",
+      "v": "Dave Chappelle ",
+      "n": "Password"
+    },
+    {
+      "t": "S",
+      "v": "personne",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "célébrité",
+      "n": "Subcategory"
+    },
+    {
+      "t": "S",
+      "v": "moyen",
+      "n": "Difficulty"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "ForbiddenWords"
+    },
+    {
+      "t": "S",
+      "v": "Chapelle|David Chapelle|Dave Chapelle|Dave Chapelle|Dave Chappele|Dave Chappell|Dave Chapel|Dave Chappel|Dave Chapell ",
+      "n": "AlternateSpellings"
+    }
+  ]
+}

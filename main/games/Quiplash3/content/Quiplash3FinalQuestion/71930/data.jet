@@ -1,0 +1,44 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Keywords"
+    },
+    {
+      "t": "A",
+      "v": "response",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponseText"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPromptAudio"
+    },
+    {
+      "t": "A",
+      "v": "prompt",
+      "n": "PromptAudio"
+    },
+    {
+      "t": "S",
+      "v": "Les trois choses que tu vois juste avant de mourir ",
+      "n": "PromptText"
+    },
+    {
+      "t": "S",
+      "v": "quelqu'un qui montre du doigt|un oiseau gigantesque|des oisillons affamés|un ange|Elvis|Dieu et Il est fou|votre enfance|votre âge adulte|les gens que vous avez déçus ",
+      "n": "SafetyQuips"
+    }
+  ]
+}

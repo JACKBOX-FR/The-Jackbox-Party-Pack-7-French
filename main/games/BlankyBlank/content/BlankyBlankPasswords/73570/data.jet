@@ -1,0 +1,29 @@
+{
+  "fields": [
+    {
+      "t": "S",
+      "v": "zoo ",
+      "n": "Password"
+    },
+    {
+      "t": "S",
+      "v": "lieu",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "facile",
+      "n": "Difficulty"
+    },
+    {
+      "t": "S",
+      "v": "animal",
+      "n": "ForbiddenWords"
+    },
+    {
+      "t": "S",
+      "v": "the zoo|a zoo|zoos",
+      "n": "AlternateSpellings"
+    }
+  ]
+}

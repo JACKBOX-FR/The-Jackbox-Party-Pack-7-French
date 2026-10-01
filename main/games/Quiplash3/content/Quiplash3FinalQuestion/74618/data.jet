@@ -1,0 +1,44 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Keywords"
+    },
+    {
+      "t": "A",
+      "v": "response",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponseText"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPromptAudio"
+    },
+    {
+      "t": "A",
+      "v": "prompt",
+      "n": "PromptAudio"
+    },
+    {
+      "t": "S",
+      "v": "Trois choses que tu dirais à un loup déguisé en ta grand-mère ",
+      "n": "PromptText"
+    },
+    {
+      "t": "S",
+      "v": "quelles grosses pattes tu as|est-ce que tu hurles ?|que s'est-il passé sur le tapis ?|quels grands yeux tu as|quelles grandes oreilles tu as|est-ce une carcasse de cerf ?|quels grands yeux tu as|quelles grandes oreilles tu as|quelles grosses puces tu as ",
+      "n": "SafetyQuips"
+    }
+  ]
+}

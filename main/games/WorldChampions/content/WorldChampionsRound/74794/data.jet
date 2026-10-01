@@ -1,0 +1,39 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasContestAudio"
+    },
+    {
+      "t": "A",
+      "v": "contest",
+      "n": "ContestAudio"
+    },
+    {
+      "t": "S",
+      "v": "Le champion de l'enfant secret de <ANYPLAYER> ",
+      "n": "ContestText"
+    },
+    {
+      "t": "S",
+      "v": "L'enfant secret de <ANYPLAYER> ",
+      "n": "GameText"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasResponseAudio"
+    },
+    {
+      "t": "A",
+      "v": "response",
+      "n": "ResponseAudio"
+    },
+    {
+      "t": "S",
+      "v": "Un prodige de la descendance ! ",
+      "n": "ResponseText"
+    }
+  ]
+}

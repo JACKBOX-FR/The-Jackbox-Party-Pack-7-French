@@ -1,0 +1,34 @@
+{
+  "fields": [
+    {
+      "t": "S",
+      "v": "Transformateurs ",
+      "n": "Password"
+    },
+    {
+      "t": "S",
+      "v": "histoire",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "film",
+      "n": "Subcategory"
+    },
+    {
+      "t": "S",
+      "v": "facile",
+      "n": "Difficulty"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "ForbiddenWords"
+    },
+    {
+      "t": "S",
+      "v": "Transformateur|La vengeance des morts|L'obscurité de la lune|L'âge de l'extinction|Le dernier chevalier|Bumblebee|Les transformateurs|Transformers : la vengeance des morts|Transformers : l'obscurité de la lune|Transformers : le dernier chevalier|Transformers : l'ère de l'extinction ",
+      "n": "AlternateSpellings"
+    }
+  ]
+}

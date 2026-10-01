@@ -1,0 +1,34 @@
+{
+  "fields": [
+    {
+      "t": "S",
+      "v": "Wile E. Coyote ",
+      "n": "Password"
+    },
+    {
+      "t": "S",
+      "v": "personne",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "fictif",
+      "n": "Subcategory"
+    },
+    {
+      "t": "S",
+      "v": "difficile",
+      "n": "Difficulty"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "ForbiddenWords"
+    },
+    {
+      "t": "S",
+      "v": "Wily Coyote|Wiley Coyote|Wiley Cyote|Wile E Coyote|Pendant que E. Coyote|le Coyote|Pendant que Coyote|Pendant que E Coyote|Whiley Coyote|le cyote ",
+      "n": "AlternateSpellings"
+    }
+  ]
+}

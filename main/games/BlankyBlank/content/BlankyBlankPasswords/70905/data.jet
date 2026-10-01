@@ -1,0 +1,34 @@
+{
+  "fields": [
+    {
+      "t": "S",
+      "v": "Reine Elsa ",
+      "n": "Password"
+    },
+    {
+      "t": "S",
+      "v": "personne",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "fictif",
+      "n": "Subcategory"
+    },
+    {
+      "t": "S",
+      "v": "moyen",
+      "n": "Difficulty"
+    },
+    {
+      "t": "S",
+      "v": "frozen|cold",
+      "n": "ForbiddenWords"
+    },
+    {
+      "t": "S",
+      "v": "Elsa|Princesse Elsa|Elsa d'Arendelle|Reine Elsa d'Arendelle|Elsa de Frozen|Ellsa|Alsa ",
+      "n": "AlternateSpellings"
+    }
+  ]
+}

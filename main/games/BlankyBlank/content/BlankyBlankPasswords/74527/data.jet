@@ -1,0 +1,34 @@
+{
+  "fields": [
+    {
+      "t": "S",
+      "v": "Chicago ",
+      "n": "Password"
+    },
+    {
+      "t": "S",
+      "v": "lieu",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "ville",
+      "n": "Subcategory"
+    },
+    {
+      "t": "S",
+      "v": "moyen",
+      "n": "Difficulty"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "ForbiddenWords"
+    },
+    {
+      "t": "S",
+      "v": "Chi|Chi City|Chi town|La deuxième ville|La ville venteuse|Ville venteuse|Deuxième ville|Chitown|Chicago|Chicago, Illinois|Chicago IL|Chicago Illinois|Chicago, Illinois",
+      "n": "AlternateSpellings"
+    }
+  ]
+}

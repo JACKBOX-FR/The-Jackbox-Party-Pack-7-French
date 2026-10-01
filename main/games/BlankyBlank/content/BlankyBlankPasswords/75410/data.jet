@@ -1,0 +1,34 @@
+{
+  "fields": [
+    {
+      "t": "S",
+      "v": "M. Propre ",
+      "n": "Password"
+    },
+    {
+      "t": "S",
+      "v": "personne",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "mascotte",
+      "n": "Subcategory"
+    },
+    {
+      "t": "S",
+      "v": "moyen",
+      "n": "Difficulty"
+    },
+    {
+      "t": "S",
+      "v": "clean",
+      "n": "ForbiddenWords"
+    },
+    {
+      "t": "S",
+      "v": "monsieur propre | monsieur propre ",
+      "n": "AlternateSpellings"
+    }
+  ]
+}

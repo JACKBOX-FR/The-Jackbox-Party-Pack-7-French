@@ -1,0 +1,44 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Keywords"
+    },
+    {
+      "t": "A",
+      "v": "response",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponseText"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPromptAudio"
+    },
+    {
+      "t": "A",
+      "v": "prompt",
+      "n": "PromptAudio"
+    },
+    {
+      "t": "S",
+      "v": "Tu veux gagner le Kentucky Derby ? Les meilleurs entraîneurs de chevaux ne laissent jamais leurs chevaux <BLANK>, <BLANK> ou <BLANK> ",
+      "n": "PromptText"
+    },
+    {
+      "t": "S",
+      "v": "boire de l'alcool | manger des cheeseburgers | s'abonner à Netflix | prendre de grands tours | commencer tard | parier sur les autres chevaux | devenir arrogant | parler smack | croire son propre battage médiatique ",
+      "n": "SafetyQuips"
+    }
+  ]
+}

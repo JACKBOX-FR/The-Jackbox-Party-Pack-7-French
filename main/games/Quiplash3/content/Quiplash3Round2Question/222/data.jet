@@ -1,0 +1,44 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Keywords"
+    },
+    {
+      "t": "A",
+      "v": "response",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponseText"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPromptAudio"
+    },
+    {
+      "t": "A",
+      "v": "prompt",
+      "n": "PromptAudio"
+    },
+    {
+      "t": "S",
+      "v": "Vous pouvez dire que vous êtes un enfant du milieu parce que vous <BLANK> ",
+      "n": "PromptText"
+    },
+    {
+      "t": "S",
+      "v": "Faire de la comédie d'improvisation | pleurer beaucoup | répondre aux chaînes de lettres ",
+      "n": "SafetyQuips"
+    }
+  ]
+}

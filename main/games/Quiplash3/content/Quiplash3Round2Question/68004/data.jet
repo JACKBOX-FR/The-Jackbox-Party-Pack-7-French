@@ -1,0 +1,44 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Keywords"
+    },
+    {
+      "t": "A",
+      "v": "response",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponseText"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPromptAudio"
+    },
+    {
+      "t": "A",
+      "v": "prompt",
+      "n": "PromptAudio"
+    },
+    {
+      "t": "S",
+      "v": "Le quiz de personnalité BuzzFeed refuse de publier ",
+      "n": "PromptText"
+    },
+    {
+      "t": "S",
+      "v": "Quel pain au levain raté êtes-vous ?|De quelle manière allez-VOUS renverser le gouvernement ?|Quelle carte du Saint Graal correspond le mieux à votre personnalité ? ",
+      "n": "SafetyQuips"
+    }
+  ]
+}

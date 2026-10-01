@@ -1,0 +1,44 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "S",
+      "v": "poos|poops|turds|poohs|poo poos|poo-poos|pooh poohs|pooh-poohs",
+      "n": "Keywords"
+    },
+    {
+      "t": "A",
+      "v": "response",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "t": "S",
+      "v": "It goes without saying, but that means you’re (bleep) out of luck.",
+      "n": "KeywordResponseText"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPromptAudio"
+    },
+    {
+      "t": "A",
+      "v": "prompt",
+      "n": "PromptAudio"
+    },
+    {
+      "t": "S",
+      "v": "Vous savez que le billet à gratter de la loterie ne rapportera pas grand-chose lorsque l'objectif est d'en obtenir trois <BLANK>",
+      "n": "PromptText"
+    },
+    {
+      "t": "S",
+      "v": "mégots de cigarettes|chaussettes trouées|noyaux de cerises ",
+      "n": "SafetyQuips"
+    }
+  ]
+}

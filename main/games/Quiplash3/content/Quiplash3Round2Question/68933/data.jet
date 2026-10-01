@@ -1,0 +1,44 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Keywords"
+    },
+    {
+      "t": "A",
+      "v": "response",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponseText"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPromptAudio"
+    },
+    {
+      "t": "A",
+      "v": "prompt",
+      "n": "PromptAudio"
+    },
+    {
+      "t": "S",
+      "v": "Une façon à l'ancienne de remonter le moral de votre ami après une rupture ",
+      "n": "PromptText"
+    },
+    {
+      "t": "S",
+      "v": "roule-la dans un tonneau dans la rivière | fais-lui un gâteau avec de la poudre à canon et des haricots | remonte à cheval, littéralement ",
+      "n": "SafetyQuips"
+    }
+  ]
+}

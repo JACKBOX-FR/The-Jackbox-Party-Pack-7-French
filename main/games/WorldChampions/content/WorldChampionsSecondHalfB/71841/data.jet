@@ -1,0 +1,34 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasContestAudio"
+    },
+    {
+      "t": "A",
+      "v": "contest",
+      "n": "ContestAudio"
+    },
+    {
+      "t": "S",
+      "v": "Le champion de la mise en danger imprudente ",
+      "n": "ContestText"
+    },
+    {
+      "t": "S",
+      "v": "Mise en danger imprudente ",
+      "n": "GameText"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasResponseAudio"
+    },
+    {
+      "t": "A",
+      "v": "response",
+      "n": "ResponseAudio"
+    }
+  ]
+}

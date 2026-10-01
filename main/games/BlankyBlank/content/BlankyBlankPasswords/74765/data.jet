@@ -1,0 +1,34 @@
+{
+  "fields": [
+    {
+      "t": "S",
+      "v": "Tom Coin ",
+      "n": "Password"
+    },
+    {
+      "t": "S",
+      "v": "personne",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "fictif",
+      "n": "Subcategory"
+    },
+    {
+      "t": "S",
+      "v": "difficile",
+      "n": "Difficulty"
+    },
+    {
+      "t": "S",
+      "v": "animal|crossing",
+      "n": "ForbiddenWords"
+    },
+    {
+      "t": "S",
+      "v": "Coin|Tanukichi|Tom Nokk|Tom Nock",
+      "n": "AlternateSpellings"
+    }
+  ]
+}

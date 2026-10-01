@@ -1,0 +1,34 @@
+{
+  "fields": [
+    {
+      "t": "S",
+      "v": "Ville de Gotham ",
+      "n": "Password"
+    },
+    {
+      "t": "S",
+      "v": "lieu",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "fictif",
+      "n": "Subcategory"
+    },
+    {
+      "t": "S",
+      "v": "difficile",
+      "n": "Difficulty"
+    },
+    {
+      "t": "S",
+      "v": "city",
+      "n": "ForbiddenWords"
+    },
+    {
+      "t": "S",
+      "v": "Gotham|Ville de Gotham|Gothom|Gothom City ",
+      "n": "AlternateSpellings"
+    }
+  ]
+}

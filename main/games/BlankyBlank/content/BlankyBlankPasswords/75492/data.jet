@@ -1,0 +1,34 @@
+{
+  "fields": [
+    {
+      "t": "S",
+      "v": "Joe Di Maggio ",
+      "n": "Password"
+    },
+    {
+      "t": "S",
+      "v": "personne",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "athlète",
+      "n": "Subcategory"
+    },
+    {
+      "t": "S",
+      "v": "difficile",
+      "n": "Difficulty"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "ForbiddenWords"
+    },
+    {
+      "t": "S",
+      "v": "Joe D|Joe Di Maggio|The Yankee Clipper|Joltin' Joe|Joltin Joe|DiMaggio|Joe deemaggio|deemaggio ",
+      "n": "AlternateSpellings"
+    }
+  ]
+}

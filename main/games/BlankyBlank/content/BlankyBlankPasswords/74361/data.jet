@@ -1,0 +1,29 @@
+{
+  "fields": [
+    {
+      "t": "S",
+      "v": "Bob l'éponge ",
+      "n": "Password"
+    },
+    {
+      "t": "S",
+      "v": "personne",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "facile",
+      "n": "Difficulty"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "ForbiddenWords"
+    },
+    {
+      "t": "S",
+      "v": "Spongebob Square Pants|Sponge Bob Square Pants|Spongebob|Sponge Bob Squarepants|Spongebob Squarepants",
+      "n": "AlternateSpellings"
+    }
+  ]
+}

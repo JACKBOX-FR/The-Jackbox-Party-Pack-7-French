@@ -1,0 +1,34 @@
+{
+  "fields": [
+    {
+      "t": "S",
+      "v": "Le pistolet nu ",
+      "n": "Password"
+    },
+    {
+      "t": "S",
+      "v": "histoire",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "film",
+      "n": "Subcategory"
+    },
+    {
+      "t": "S",
+      "v": "moyen",
+      "n": "Difficulty"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "ForbiddenWords"
+    },
+    {
+      "t": "S",
+      "v": "Arme nue|L'arme nue|Arme nue|L'arme nue : À partir des fichiers de l'équipe de police !|À partir des fichiers de l'équipe de police !|À partir des fichiers de l'équipe de police|L'arme nue À partir des fichiers de l'équipe de police|Équipe de police à arme nue|Escouade de police|L'équipe de police à arme nue ",
+      "n": "AlternateSpellings"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "fields": [
+    {
+      "t": "S",
+      "v": "Meurtre, a-t-elle écrit ",
+      "n": "Password"
+    },
+    {
+      "t": "S",
+      "v": "histoire",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "tv",
+      "n": "Subcategory"
+    },
+    {
+      "t": "S",
+      "v": "difficile",
+      "n": "Difficulty"
+    },
+    {
+      "t": "S",
+      "v": "murder",
+      "n": "ForbiddenWords"
+    },
+    {
+      "t": "S",
+      "v": "Meurtre qu'elle a écrit | Meurtre. Elle a écrit|Meurtre qu'elle a roté",
+      "n": "AlternateSpellings"
+    }
+  ]
+}

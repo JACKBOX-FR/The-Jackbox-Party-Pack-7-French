@@ -1,0 +1,44 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Keywords"
+    },
+    {
+      "t": "A",
+      "v": "response",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponseText"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPromptAudio"
+    },
+    {
+      "t": "A",
+      "v": "prompt",
+      "n": "PromptAudio"
+    },
+    {
+      "t": "S",
+      "v": "Quelque chose que vous pourriez entendre dans la Batcave ",
+      "n": "PromptText"
+    },
+    {
+      "t": "S",
+      "v": "Robin, vous êtes de nouveau puni. Maître Wayne, vous traquez du sang sur le tapis. Les chauves-souris ne me dérangent même pas. ",
+      "n": "SafetyQuips"
+    }
+  ]
+}

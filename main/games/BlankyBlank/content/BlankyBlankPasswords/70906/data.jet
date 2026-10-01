@@ -1,0 +1,34 @@
+{
+  "fields": [
+    {
+      "t": "S",
+      "v": "Georges Jetson ",
+      "n": "Password"
+    },
+    {
+      "t": "S",
+      "v": "personne",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "fictif",
+      "n": "Subcategory"
+    },
+    {
+      "t": "S",
+      "v": "difficile",
+      "n": "Difficulty"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "ForbiddenWords"
+    },
+    {
+      "t": "S",
+      "v": "George J Jetson|George J. Jetson|M. Jetson|M. Jetson|Monsieur Jetson|Papa Jetson|Papa Jetsons|Le père de Jetson|Le père Jetson|Le père Jetson ",
+      "n": "AlternateSpellings"
+    }
+  ]
+}

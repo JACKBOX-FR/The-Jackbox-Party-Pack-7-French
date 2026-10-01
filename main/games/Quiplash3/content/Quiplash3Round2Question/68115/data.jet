@@ -1,0 +1,44 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Keywords"
+    },
+    {
+      "t": "A",
+      "v": "response",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponseText"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPromptAudio"
+    },
+    {
+      "t": "A",
+      "v": "prompt",
+      "n": "PromptAudio"
+    },
+    {
+      "t": "S",
+      "v": "Un bon signe que votre partenaire vous trompe avec un bonhomme de neige ",
+      "n": "PromptText"
+    },
+    {
+      "t": "S",
+      "v": "Nouveaux embouts givrés|Carottes dans leur sac|Collier taché de charbon ",
+      "n": "SafetyQuips"
+    }
+  ]
+}

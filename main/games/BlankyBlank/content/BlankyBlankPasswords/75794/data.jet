@@ -1,0 +1,34 @@
+{
+  "fields": [
+    {
+      "t": "S",
+      "v": "bâton lumineux ",
+      "n": "Password"
+    },
+    {
+      "t": "S",
+      "v": "chose",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "choses",
+      "n": "Subcategory"
+    },
+    {
+      "t": "S",
+      "v": "moyen",
+      "n": "Difficulty"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "ForbiddenWords"
+    },
+    {
+      "t": "S",
+      "v": "bâton lumineux|bracelet lumineux|bracelet néon|un bâton lumineux|bâtons lumineux|bâtons lumineux|bâton lumineux au néon|bâton lumineux au néon|bâtons lumineux au néon|bâtons lumineux au néon|un bâton lumineux au néon|un bâton lumineux au néon ",
+      "n": "AlternateSpellings"
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Keywords"
+    },
+    {
+      "t": "A",
+      "v": "response",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponseText"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPromptAudio"
+    },
+    {
+      "t": "A",
+      "v": "prompt",
+      "n": "PromptAudio"
+    },
+    {
+      "t": "S",
+      "v": "Les trois seules choses dans la vie qui valent la peine de s'énerver ",
+      "n": "PromptText"
+    },
+    {
+      "t": "S",
+      "v": "sports|taxes|légers changements pour les super-héros|un combat sur Twitter|le gouvernement|la similitude des numéros 1 et 2|temps froid|temps chaud|il n'y a que la météo pour parler ",
+      "n": "SafetyQuips"
+    }
+  ]
+}

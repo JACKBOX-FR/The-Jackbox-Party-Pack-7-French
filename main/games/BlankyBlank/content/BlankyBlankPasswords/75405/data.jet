@@ -1,0 +1,34 @@
+{
+  "fields": [
+    {
+      "t": "S",
+      "v": "Voitures ",
+      "n": "Password"
+    },
+    {
+      "t": "S",
+      "v": "histoire",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "film d'animation",
+      "n": "Subcategory"
+    },
+    {
+      "t": "S",
+      "v": "facile",
+      "n": "Difficulty"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "ForbiddenWords"
+    },
+    {
+      "t": "S",
+      "v": "Voiture|La voiture|Les voitures|Cars 2|Cars 3|Cars II|Cars III|Pixar Cars|Pixar's Cars|Pixars Cars|Cars Franchise|Cars Pixar ",
+      "n": "AlternateSpellings"
+    }
+  ]
+}

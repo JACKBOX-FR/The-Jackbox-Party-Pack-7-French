@@ -1,0 +1,34 @@
+{
+  "fields": [
+    {
+      "t": "S",
+      "v": "Isaac Newton ",
+      "n": "Password"
+    },
+    {
+      "t": "S",
+      "v": "personne",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "historique",
+      "n": "Subcategory"
+    },
+    {
+      "t": "S",
+      "v": "moyen",
+      "n": "Difficulty"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "ForbiddenWords"
+    },
+    {
+      "t": "S",
+      "v": "Newton|Monsieur Isaac Newton|Monsieur Newton|Isac Newton|Isic Newton|Isack Newton|Isaac Newten|Isaac Newtin|Newten|Isaac Newt|Newtin ",
+      "n": "AlternateSpellings"
+    }
+  ]
+}

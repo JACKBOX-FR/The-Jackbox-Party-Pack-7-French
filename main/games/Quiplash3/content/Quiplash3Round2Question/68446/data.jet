@@ -1,0 +1,44 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Keywords"
+    },
+    {
+      "t": "A",
+      "v": "response",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponseText"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPromptAudio"
+    },
+    {
+      "t": "A",
+      "v": "prompt",
+      "n": "PromptAudio"
+    },
+    {
+      "t": "S",
+      "v": "Je dois cacher un trésor dans un endroit où <ANYPLAYER> ne regardera jamais. Où doit-il aller ? ",
+      "n": "PromptText"
+    },
+    {
+      "t": "S",
+      "v": "cloué à la porte d'entrée|sous un très gros buisson|à l'intérieur d'une salade du jardin ",
+      "n": "SafetyQuips"
+    }
+  ]
+}

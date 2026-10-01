@@ -1,0 +1,34 @@
+{
+  "fields": [
+    {
+      "t": "S",
+      "v": "New Jersey ",
+      "n": "Password"
+    },
+    {
+      "t": "S",
+      "v": "lieu",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "état",
+      "n": "Subcategory"
+    },
+    {
+      "t": "S",
+      "v": "difficile",
+      "n": "Difficulty"
+    },
+    {
+      "t": "S",
+      "v": "new|jersey",
+      "n": "ForbiddenWords"
+    },
+    {
+      "t": "S",
+      "v": "Jersey|New Jersey|NJ|Jersy|The Garden State ",
+      "n": "AlternateSpellings"
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Keywords"
+    },
+    {
+      "t": "A",
+      "v": "response",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponseText"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPromptAudio"
+    },
+    {
+      "t": "A",
+      "v": "prompt",
+      "n": "PromptAudio"
+    },
+    {
+      "t": "S",
+      "v": "Les trois principales recherches Internet du pays, probablement ",
+      "n": "PromptText"
+    },
+    {
+      "t": "S",
+      "v": "célibataires dans ma région|célibataires en dehors de ma région|un chat me rendra-t-il heureux ?|les ovnis sont-ils réels|Bigfoot est-il réel|suis-je réel|comment jongler|comment jongler avec les tronçonneuses|salles d'urgence à proximité ",
+      "n": "SafetyQuips"
+    }
+  ]
+}

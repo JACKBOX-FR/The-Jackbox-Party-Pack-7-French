@@ -1,0 +1,34 @@
+{
+  "fields": [
+    {
+      "t": "S",
+      "v": "Les Chroniques de Narnia ",
+      "n": "Password"
+    },
+    {
+      "t": "S",
+      "v": "histoire",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "livre",
+      "n": "Subcategory"
+    },
+    {
+      "t": "S",
+      "v": "facile",
+      "n": "Difficulty"
+    },
+    {
+      "t": "S",
+      "v": "lion|witch|wardrobe",
+      "n": "ForbiddenWords"
+    },
+    {
+      "t": "S",
+      "v": "Narnia|Le Lion, la Sorcière et l'Armoire|Le Lion, la Sorcière et l'Armoire|Chroniques de Narnia|Le Lion, la Sorcière et l'Armoire|Les Chroniques de Narnia|Chroniques de Narnia ",
+      "n": "AlternateSpellings"
+    }
+  ]
+}

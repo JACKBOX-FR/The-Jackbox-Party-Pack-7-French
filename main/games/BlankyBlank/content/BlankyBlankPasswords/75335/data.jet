@@ -1,0 +1,34 @@
+{
+  "fields": [
+    {
+      "t": "S",
+      "v": "L'étrange cas de Benjamin Button ",
+      "n": "Password"
+    },
+    {
+      "t": "S",
+      "v": "histoire",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "film",
+      "n": "Subcategory"
+    },
+    {
+      "t": "S",
+      "v": "moyen",
+      "n": "Difficulty"
+    },
+    {
+      "t": "S",
+      "v": "curious",
+      "n": "ForbiddenWords"
+    },
+    {
+      "t": "S",
+      "v": "Benjamin Button|Benji Butts|Etrange cas de Benjamin Button|Ben Button|Etrange affaire|Le cas mystérieux de Benjamin Button|Cas mystérieux de Benjamin Button ",
+      "n": "AlternateSpellings"
+    }
+  ]
+}

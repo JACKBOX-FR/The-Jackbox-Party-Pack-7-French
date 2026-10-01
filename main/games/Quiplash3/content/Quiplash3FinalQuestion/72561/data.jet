@@ -1,0 +1,44 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Keywords"
+    },
+    {
+      "t": "A",
+      "v": "response",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponseText"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPromptAudio"
+    },
+    {
+      "t": "A",
+      "v": "prompt",
+      "n": "PromptAudio"
+    },
+    {
+      "t": "S",
+      "v": "Les trois choses qu’il faut éviter de manger pour vivre dix ans de plus ",
+      "n": "PromptText"
+    },
+    {
+      "t": "S",
+      "v": "poison|uranium|curieusement, porter un toast|vos mots|vos sentiments|mais surtout vos sentiments|verre|métal|tout ce qui est du \"poulet frit\" ",
+      "n": "SafetyQuips"
+    }
+  ]
+}

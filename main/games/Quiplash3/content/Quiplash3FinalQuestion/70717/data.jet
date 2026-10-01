@@ -1,0 +1,44 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Keywords"
+    },
+    {
+      "t": "A",
+      "v": "response",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponseText"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPromptAudio"
+    },
+    {
+      "t": "A",
+      "v": "prompt",
+      "n": "PromptAudio"
+    },
+    {
+      "t": "S",
+      "v": "Trois choses qui n'arrivent généralement qu'après 3 heures du matin ",
+      "n": "PromptText"
+    },
+    {
+      "t": "S",
+      "v": "commandes de dîner en fin de soirée|œufs gras|brûlures d'estomac|les vampires retournent dans les cryptes|les loups-garous commencent à se transformer|les momies font juste leur truc|les rues se calment|les entreprises ferment|les rats paaaaaartaaaay ",
+      "n": "SafetyQuips"
+    }
+  ]
+}

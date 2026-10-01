@@ -1,0 +1,34 @@
+{
+  "fields": [
+    {
+      "t": "S",
+      "v": "Le projet Blair Witch ",
+      "n": "Password"
+    },
+    {
+      "t": "S",
+      "v": "histoire",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "film",
+      "n": "Subcategory"
+    },
+    {
+      "t": "S",
+      "v": "moyen",
+      "n": "Difficulty"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "ForbiddenWords"
+    },
+    {
+      "t": "S",
+      "v": "Projet Blair Witch|Blair Witch|La sorcière Blair|Le projet Blaire Witch|Projet Blaire Witch|Blaire Witch|La sorcière Blaire ",
+      "n": "AlternateSpellings"
+    }
+  ]
+}

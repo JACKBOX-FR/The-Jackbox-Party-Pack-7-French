@@ -1,0 +1,44 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "S",
+      "v": "<PRONOUN> fart | fart|<ARTICLE> fart | fart|<PRONOUN> farts | farts|<PRONOUN> gas | gas",
+      "n": "Keywords"
+    },
+    {
+      "t": "A",
+      "v": "response",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "t": "S",
+      "v": "For everyone’s sake, I hope that it’s an outdoor candle.",
+      "n": "KeywordResponseText"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPromptAudio"
+    },
+    {
+      "t": "A",
+      "v": "prompt",
+      "n": "PromptAudio"
+    },
+    {
+      "t": "S",
+      "v": "S'ils faisaient une bougie de votre vie, elle sentirait <BLANK> ",
+      "n": "PromptText"
+    },
+    {
+      "t": "S",
+      "v": "Doritos d'un jour|dépression chronique|carburant pour les joueurs ",
+      "n": "SafetyQuips"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "fields": [
+    {
+      "t": "S",
+      "v": "Reine Elizabeth ",
+      "n": "Password"
+    },
+    {
+      "t": "S",
+      "v": "personne",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "leader",
+      "n": "Subcategory"
+    },
+    {
+      "t": "S",
+      "v": "facile",
+      "n": "Difficulty"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "ForbiddenWords"
+    },
+    {
+      "t": "S",
+      "v": "La Reine|La Reine d'Angleterre|Reine d'Angleterre|Reine Elizabeth II|Elizabeth|La Reine d'Angleterre|Elizabeth II",
+      "n": "AlternateSpellings"
+    }
+  ]
+}

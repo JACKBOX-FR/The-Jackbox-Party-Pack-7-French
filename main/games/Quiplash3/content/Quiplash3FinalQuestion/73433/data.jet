@@ -1,0 +1,44 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Keywords"
+    },
+    {
+      "t": "A",
+      "v": "response",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponseText"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPromptAudio"
+    },
+    {
+      "t": "A",
+      "v": "prompt",
+      "n": "PromptAudio"
+    },
+    {
+      "t": "S",
+      "v": "Les trois choses dont vous avez besoin pour démarrer votre nouvelle société ",
+      "n": "PromptText"
+    },
+    {
+      "t": "S",
+      "v": "boucher|boulanger|vendeur de chandeliers|Tom Hanks|Fils de Tom Hanks|Guy Fieri|argent|quelques biens|Reconnaissance de l'ONU ",
+      "n": "SafetyQuips"
+    }
+  ]
+}

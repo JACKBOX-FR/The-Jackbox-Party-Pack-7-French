@@ -1,0 +1,44 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Keywords"
+    },
+    {
+      "t": "A",
+      "v": "response",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponseText"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPromptAudio"
+    },
+    {
+      "t": "A",
+      "v": "prompt",
+      "n": "PromptAudio"
+    },
+    {
+      "t": "S",
+      "v": "Les trois pires matériaux avec lesquels les Trois Petits Cochons auraient pu construire leurs maisons ",
+      "n": "PromptText"
+    },
+    {
+      "t": "S",
+      "v": "papier|feuilles|bacon|sacs en plastique|uranium|faire semblant de briques|papier mâché|pudding|amour ",
+      "n": "SafetyQuips"
+    }
+  ]
+}

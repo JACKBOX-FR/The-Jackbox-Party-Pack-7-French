@@ -1,0 +1,44 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Keywords"
+    },
+    {
+      "t": "A",
+      "v": "response",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponseText"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPromptAudio"
+    },
+    {
+      "t": "A",
+      "v": "prompt",
+      "n": "PromptAudio"
+    },
+    {
+      "t": "S",
+      "v": "Un commentaire qui n'a JAMAIS été fait sur internet ",
+      "n": "PromptText"
+    },
+    {
+      "t": "S",
+      "v": "Je suis d'accord avec tout ce qui est écrit dans cet article|Je suis heureux d'avoir tort !|Je n'ai pas d'opinion. ",
+      "n": "SafetyQuips"
+    }
+  ]
+}

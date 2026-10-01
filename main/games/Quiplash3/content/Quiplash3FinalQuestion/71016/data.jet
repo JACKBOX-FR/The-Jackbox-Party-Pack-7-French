@@ -1,0 +1,44 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Keywords"
+    },
+    {
+      "t": "A",
+      "v": "response",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponseText"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPromptAudio"
+    },
+    {
+      "t": "A",
+      "v": "prompt",
+      "n": "PromptAudio"
+    },
+    {
+      "t": "S",
+      "v": "Trois choses dont tous les historiens se souviendront du 21e siècle ",
+      "n": "PromptText"
+    },
+    {
+      "t": "S",
+      "v": "Twitter se bat|hard seltzer|le soulèvement des robots|La Terre en ruine|l'installation de Mars|Mars en ruine|la fin du baseball|la fin du hockey|l'émergence du hockball ",
+      "n": "SafetyQuips"
+    }
+  ]
+}

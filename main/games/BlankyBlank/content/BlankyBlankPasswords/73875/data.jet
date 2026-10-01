@@ -1,0 +1,34 @@
+{
+  "fields": [
+    {
+      "t": "S",
+      "v": "Quand Harry rencontre Sally... ",
+      "n": "Password"
+    },
+    {
+      "t": "S",
+      "v": "histoire",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "film",
+      "n": "Subcategory"
+    },
+    {
+      "t": "S",
+      "v": "difficile",
+      "n": "Difficulty"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "ForbiddenWords"
+    },
+    {
+      "t": "S",
+      "v": "Quand Harry a rencontré Sally|Harry a rencontré Sally|Quand Harry a rencontré Salley|Harry a rencontré Salley|Quand Harry a rencontré Sallie|Harry a rencontré Sallie ",
+      "n": "AlternateSpellings"
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Keywords"
+    },
+    {
+      "t": "A",
+      "v": "response",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponseText"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPromptAudio"
+    },
+    {
+      "t": "A",
+      "v": "prompt",
+      "n": "PromptAudio"
+    },
+    {
+      "t": "S",
+      "v": "Les trois choses les plus souvent entendues sur les lieux de travail nus ",
+      "n": "PromptText"
+    },
+    {
+      "t": "S",
+      "v": "tu ne peux pas emprunter ma chaise|monte le chauffage|comment as-tu volé une agrafeuse ?|on portait la même chose !|c'est décontracté vendredi|où est le désinfectant ? ",
+      "n": "SafetyQuips"
+    }
+  ]
+}

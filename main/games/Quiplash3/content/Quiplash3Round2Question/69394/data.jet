@@ -1,0 +1,44 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Keywords"
+    },
+    {
+      "t": "A",
+      "v": "response",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponseText"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPromptAudio"
+    },
+    {
+      "t": "A",
+      "v": "prompt",
+      "n": "PromptAudio"
+    },
+    {
+      "t": "S",
+      "v": "Un signe que votre partenaire amoureux est en réalité un épouvantail ",
+      "n": "PromptText"
+    },
+    {
+      "t": "S",
+      "v": "leurs baisers sont super irritants|ils portent toujours ce bâton|il n'y a pas de corbeaux dans ta chambre ",
+      "n": "SafetyQuips"
+    }
+  ]
+}

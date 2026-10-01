@@ -1,0 +1,39 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasContestAudio"
+    },
+    {
+      "t": "A",
+      "v": "contest",
+      "n": "ContestAudio"
+    },
+    {
+      "t": "S",
+      "v": "Le champion de l'Ultimate Nemesis de <ANYPLAYER> ",
+      "n": "ContestText"
+    },
+    {
+      "t": "S",
+      "v": "L'ennemi ultime de <ANYPLAYER> ",
+      "n": "GameText"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasResponseAudio"
+    },
+    {
+      "t": "A",
+      "v": "response",
+      "n": "ResponseAudio"
+    },
+    {
+      "t": "S",
+      "v": "Alimentez la querelle ! ",
+      "n": "ResponseText"
+    }
+  ]
+}

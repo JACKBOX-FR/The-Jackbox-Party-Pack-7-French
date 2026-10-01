@@ -1,0 +1,44 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Keywords"
+    },
+    {
+      "t": "A",
+      "v": "response",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponseText"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPromptAudio"
+    },
+    {
+      "t": "A",
+      "v": "prompt",
+      "n": "PromptAudio"
+    },
+    {
+      "t": "S",
+      "v": "Un bon signe que tout le monde est là pour vous avoir",
+      "n": "PromptText"
+    },
+    {
+      "t": "S",
+      "v": "Au lieu de poignées de main, des serpents à main !|Un panneau sur la pelouse indique \"Nous sommes là pour vous attraper.\"|Des punaises dans chaque pneu que vous possédez ",
+      "n": "SafetyQuips"
+    }
+  ]
+}

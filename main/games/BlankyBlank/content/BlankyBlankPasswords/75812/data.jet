@@ -1,0 +1,34 @@
+{
+  "fields": [
+    {
+      "t": "S",
+      "v": "Fleuve Mississippi ",
+      "n": "Password"
+    },
+    {
+      "t": "S",
+      "v": "lieu",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "nature",
+      "n": "Subcategory"
+    },
+    {
+      "t": "S",
+      "v": "facile",
+      "n": "Difficulty"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "ForbiddenWords"
+    },
+    {
+      "t": "S",
+      "v": "misissippi|missisippi|mississipi|fleuve misissippi|fleuve missisippi|fleuve mississipi|le mississippi|le fleuve mississippi|le fleuve mississippi|le mississippi|le fleuve missisippi|le missisippi|le fleuve mississipi|le mississipi|misisipi ",
+      "n": "AlternateSpellings"
+    }
+  ]
+}

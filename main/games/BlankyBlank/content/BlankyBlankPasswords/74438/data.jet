@@ -1,0 +1,34 @@
+{
+  "fields": [
+    {
+      "t": "S",
+      "v": "Dr Frankenstein ",
+      "n": "Password"
+    },
+    {
+      "t": "S",
+      "v": "personne",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "fictif",
+      "n": "Subcategory"
+    },
+    {
+      "t": "S",
+      "v": "facile",
+      "n": "Difficulty"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "ForbiddenWords"
+    },
+    {
+      "t": "S",
+      "v": "Docteur Frankenstein|Victor Frankenstein |Victor Frankenstein|Dr. Frakenstein|Dr. Frakenstein|Dr. Frankenstein|Docteur Frankenstein|Dr Frankenstein|Frankenstein",
+      "n": "AlternateSpellings"
+    }
+  ]
+}

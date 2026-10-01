@@ -1,0 +1,39 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasContestAudio"
+    },
+    {
+      "t": "A",
+      "v": "contest",
+      "n": "ContestAudio"
+    },
+    {
+      "t": "S",
+      "v": "La championne de Whoopsie Daisy ",
+      "n": "ContestText"
+    },
+    {
+      "t": "S",
+      "v": "Whoopsie Daisy ",
+      "n": "GameText"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasResponseAudio"
+    },
+    {
+      "t": "A",
+      "v": "response",
+      "n": "ResponseAudio"
+    },
+    {
+      "t": "S",
+      "v": "Que quelqu'un ait un pansement pour ce bobo ! ",
+      "n": "ResponseText"
+    }
+  ]
+}

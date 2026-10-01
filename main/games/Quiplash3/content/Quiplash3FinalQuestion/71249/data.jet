@@ -1,0 +1,44 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Keywords"
+    },
+    {
+      "t": "A",
+      "v": "response",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponseText"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPromptAudio"
+    },
+    {
+      "t": "A",
+      "v": "prompt",
+      "n": "PromptAudio"
+    },
+    {
+      "t": "S",
+      "v": "Trois choses qu'un robot devra maîtriser avant de pouvoir devenir « humain » ",
+      "n": "PromptText"
+    },
+    {
+      "t": "S",
+      "v": "être heureux | être triste | pleurer au hasard des publicités | être constamment en retard | inventer des excuses boiteuses | se demander pourquoi on t'a viré | conduire aux heures de pointe | se mettre en colère contre un autre conducteur | laisser ça gâcher ta journée ",
+      "n": "SafetyQuips"
+    }
+  ]
+}

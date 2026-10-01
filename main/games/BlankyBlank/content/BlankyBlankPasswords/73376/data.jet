@@ -1,0 +1,34 @@
+{
+  "fields": [
+    {
+      "t": "S",
+      "v": "Le Fantôme de l'Opéra ",
+      "n": "Password"
+    },
+    {
+      "t": "S",
+      "v": "histoire",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "comédie",
+      "n": "Subcategory"
+    },
+    {
+      "t": "S",
+      "v": "moyen",
+      "n": "Difficulty"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "ForbiddenWords"
+    },
+    {
+      "t": "S",
+      "v": "Fantôme de l'Opéra|Fantôme|Fantôme de l'Opéra|Le Fantôme de l'Opéra|Fantôme|Le Fantôme de l'Opéra ",
+      "n": "AlternateSpellings"
+    }
+  ]
+}

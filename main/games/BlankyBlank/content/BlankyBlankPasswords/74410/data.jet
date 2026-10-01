@@ -1,0 +1,34 @@
+{
+  "fields": [
+    {
+      "t": "S",
+      "v": "FernGully : la dernière forêt tropicale ",
+      "n": "Password"
+    },
+    {
+      "t": "S",
+      "v": "histoire",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "film d'animation",
+      "n": "Subcategory"
+    },
+    {
+      "t": "S",
+      "v": "moyen",
+      "n": "Difficulty"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "ForbiddenWords"
+    },
+    {
+      "t": "S",
+      "v": "Fern Guly|Fern Gully|FernGully|FernGully la dernière forêt tropicale|La dernière forêt tropicale|Fern Gully la dernière forêt tropicale|FernGuly|FurnGully|FurnGuly",
+      "n": "AlternateSpellings"
+    }
+  ]
+}

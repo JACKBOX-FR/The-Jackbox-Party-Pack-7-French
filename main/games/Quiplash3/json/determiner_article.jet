@@ -1,0 +1,17 @@
+{
+    "payload":[
+        { "determiner": "une" },
+        { "determiner": "un" },
+        { "determiner": "la" },
+        { "determiner": "cette" },
+        { "determiner": "Cette" },
+        { "determiner": "quelques" },
+        { "determiner": "beaucoup de" },
+        { "determiner": "un tas de" },
+        { "determiner": "un énorme" },
+        { "determiner": "un massif" },
+        { "determiner": "un monstre" },
+        { "determiner": "un géant" },
+        { "determiner": "un grand" }
+    ]
+}

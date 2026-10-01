@@ -1,0 +1,34 @@
+{
+  "fields": [
+    {
+      "t": "S",
+      "v": "Le voyage de Chihiro ",
+      "n": "Password"
+    },
+    {
+      "t": "S",
+      "v": "histoire",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "film d'animation",
+      "n": "Subcategory"
+    },
+    {
+      "t": "S",
+      "v": "difficile",
+      "n": "Difficulty"
+    },
+    {
+      "t": "S",
+      "v": "spirit",
+      "n": "ForbiddenWords"
+    },
+    {
+      "t": "S",
+      "v": "Le Voyage des esprits|Le Voyage des esprits|Voie des esprits|Voie des esprits|Voie des esprits|Le Voyage de Chihiro|Le Voyage de Chihiro|Le Voyage de Chihiro|Le Voyage de Chihiro ",
+      "n": "AlternateSpellings"
+    }
+  ]
+}

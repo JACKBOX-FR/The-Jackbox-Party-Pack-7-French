@@ -1,0 +1,34 @@
+{
+  "fields": [
+    {
+      "t": "S",
+      "v": "Petite boutique des horreurs ",
+      "n": "Password"
+    },
+    {
+      "t": "S",
+      "v": "histoire",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "comédie",
+      "n": "Subcategory"
+    },
+    {
+      "t": "S",
+      "v": "moyen",
+      "n": "Difficulty"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "ForbiddenWords"
+    },
+    {
+      "t": "S",
+      "v": "La Petite Boutique des Horreurs|Petite Boutique|La Petite Boutique|Petite Boutique de l'Horreur|La Petite Boutique de l'Horreur ",
+      "n": "AlternateSpellings"
+    }
+  ]
+}

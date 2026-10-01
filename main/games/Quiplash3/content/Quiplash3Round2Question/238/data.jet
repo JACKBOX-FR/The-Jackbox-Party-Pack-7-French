@@ -1,0 +1,44 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Keywords"
+    },
+    {
+      "t": "A",
+      "v": "response",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponseText"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPromptAudio"
+    },
+    {
+      "t": "A",
+      "v": "prompt",
+      "n": "PromptAudio"
+    },
+    {
+      "t": "S",
+      "v": "La vidéo aléatoire que YouTube ne cesse de vous recommander de finir par aimer ",
+      "n": "PromptText"
+    },
+    {
+      "t": "S",
+      "v": "Le guide du débutant sur la dissection des insectes | 101 choses que le 6ème sens s'est trompé à propos des fantômes | TikToks épiques réalisés par des chiens ",
+      "n": "SafetyQuips"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "fields": [
+    {
+      "t": "S",
+      "v": "Gros petits mensonges ",
+      "n": "Password"
+    },
+    {
+      "t": "S",
+      "v": "histoire",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "tv",
+      "n": "Subcategory"
+    },
+    {
+      "t": "S",
+      "v": "difficile",
+      "n": "Difficulty"
+    },
+    {
+      "t": "S",
+      "v": "big|little",
+      "n": "ForbiddenWords"
+    },
+    {
+      "t": "S",
+      "v": "Gros petit mensonge|Petits gros mensonges|Petit gros mensonge|Grands petits menteurs|Grand petit menteur ",
+      "n": "AlternateSpellings"
+    }
+  ]
+}

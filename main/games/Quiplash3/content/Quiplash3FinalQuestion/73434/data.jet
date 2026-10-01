@@ -1,0 +1,44 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Keywords"
+    },
+    {
+      "t": "A",
+      "v": "response",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponseText"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPromptAudio"
+    },
+    {
+      "t": "A",
+      "v": "prompt",
+      "n": "PromptAudio"
+    },
+    {
+      "t": "S",
+      "v": "Trois choses neutres à écrire sur une carte d'anniversaire pour un collègue que vous ne connaissez pas très bien ",
+      "n": "PromptText"
+    },
+    {
+      "t": "S",
+      "v": "Vous êtes né|félicitations générales|beaucoup de vœux|Ceci est une carte|bon travail|beau bureau|Joyeux|Anniversaire|Ron ? ",
+      "n": "SafetyQuips"
+    }
+  ]
+}

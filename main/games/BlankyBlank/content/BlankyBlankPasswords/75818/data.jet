@@ -1,0 +1,34 @@
+{
+  "fields": [
+    {
+      "t": "S",
+      "v": "Planche Ouija ",
+      "n": "Password"
+    },
+    {
+      "t": "S",
+      "v": "chose",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "jouet",
+      "n": "Subcategory"
+    },
+    {
+      "t": "S",
+      "v": "moyen",
+      "n": "Difficulty"
+    },
+    {
+      "t": "S",
+      "v": "board|spirit",
+      "n": "ForbiddenWords"
+    },
+    {
+      "t": "S",
+      "v": "planche spirituelle | planche parlante | ouija | le ouija | planche fantôme | planche weegee | planche wigi ",
+      "n": "AlternateSpellings"
+    }
+  ]
+}

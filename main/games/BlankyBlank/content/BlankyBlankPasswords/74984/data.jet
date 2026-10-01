@@ -1,0 +1,34 @@
+{
+  "fields": [
+    {
+      "t": "S",
+      "v": "Capitaine Jack Sparrow ",
+      "n": "Password"
+    },
+    {
+      "t": "S",
+      "v": "personne",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "fictif",
+      "n": "Subcategory"
+    },
+    {
+      "t": "S",
+      "v": "moyen",
+      "n": "Difficulty"
+    },
+    {
+      "t": "S",
+      "v": "pirate",
+      "n": "ForbiddenWords"
+    },
+    {
+      "t": "S",
+      "v": "Jack Sparrow|Capitaine Sparrow|Capitaine Jack Sparow|Jack Sparow|Capitaine Sparrow ",
+      "n": "AlternateSpellings"
+    }
+  ]
+}

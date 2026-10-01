@@ -1,0 +1,34 @@
+{
+  "fields": [
+    {
+      "t": "S",
+      "v": "Ripley's, croyez-le ou pas ! ",
+      "n": "Password"
+    },
+    {
+      "t": "S",
+      "v": "lieu",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "cuturel",
+      "n": "Subcategory"
+    },
+    {
+      "t": "S",
+      "v": "difficile",
+      "n": "Difficulty"
+    },
+    {
+      "t": "S",
+      "v": "belief|believe",
+      "n": "ForbiddenWords"
+    },
+    {
+      "t": "S",
+      "v": "Ripley | ",
+      "n": "AlternateSpellings"
+    }
+  ]
+}

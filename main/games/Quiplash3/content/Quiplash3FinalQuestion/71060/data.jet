@@ -1,0 +1,44 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Keywords"
+    },
+    {
+      "t": "A",
+      "v": "response",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponseText"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPromptAudio"
+    },
+    {
+      "t": "A",
+      "v": "prompt",
+      "n": "PromptAudio"
+    },
+    {
+      "t": "S",
+      "v": "Les trois choses que tu exiges de tout amant ",
+      "n": "PromptText"
+    },
+    {
+      "t": "S",
+      "v": "un joli sourire|une bonne attitude|un héritage important|un sens de l'humour|un cœur doux|une volonté d'enterrer les preuves|un amour de l'art|un amour de mon art|un amour de mon art du clown ",
+      "n": "SafetyQuips"
+    }
+  ]
+}

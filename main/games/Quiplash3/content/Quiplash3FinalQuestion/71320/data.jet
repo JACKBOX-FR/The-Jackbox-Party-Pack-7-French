@@ -1,0 +1,44 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Keywords"
+    },
+    {
+      "t": "A",
+      "v": "response",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponseText"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPromptAudio"
+    },
+    {
+      "t": "A",
+      "v": "prompt",
+      "n": "PromptAudio"
+    },
+    {
+      "t": "S",
+      "v": "Trois choix de tenues étranges pour un slasher de film d'horreur ",
+      "n": "PromptText"
+    },
+    {
+      "t": "S",
+      "v": "costume trois pièces | robe de bal | smoking loué | juste un jean | juste une chemise | juste des chaussettes | chapeau de cowboy | chapeau de pirate | béret ",
+      "n": "SafetyQuips"
+    }
+  ]
+}

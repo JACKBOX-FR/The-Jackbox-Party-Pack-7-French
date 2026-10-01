@@ -1,0 +1,34 @@
+{
+  "fields": [
+    {
+      "t": "S",
+      "v": "Mme Noël ",
+      "n": "Password"
+    },
+    {
+      "t": "S",
+      "v": "personne",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "fictif",
+      "n": "Subcategory"
+    },
+    {
+      "t": "S",
+      "v": "facile",
+      "n": "Difficulty"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "ForbiddenWords"
+    },
+    {
+      "t": "S",
+      "v": "la femme du Père Noël|Mme Noël|Mme Père Noël|La mariée du Père Noël|la femme du Père Noël|Mme Noël|Mme. Claus|Mme Clause|Mme. Clause|Mme Clause|Mme. Clause|Mlle Claus|Mlle Clause ",
+      "n": "AlternateSpellings"
+    }
+  ]
+}

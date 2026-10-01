@@ -1,0 +1,44 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Keywords"
+    },
+    {
+      "t": "A",
+      "v": "response",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponseText"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPromptAudio"
+    },
+    {
+      "t": "A",
+      "v": "prompt",
+      "n": "PromptAudio"
+    },
+    {
+      "t": "S",
+      "v": "Trois choses étranges qu'un bodybuilder puisse crier pendant qu'il fait des squats lourds ",
+      "n": "PromptText"
+    },
+    {
+      "t": "S",
+      "v": "Moutarde !|Ketchup !|Relish !|Mon sous-sol fuit !|Besoin d'une entreprise de réparation !|Des recommandations ?!|Ceci|Gym|Est hanté ! ",
+      "n": "SafetyQuips"
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Keywords"
+    },
+    {
+      "t": "A",
+      "v": "response",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponseText"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPromptAudio"
+    },
+    {
+      "t": "A",
+      "v": "prompt",
+      "n": "PromptAudio"
+    },
+    {
+      "t": "S",
+      "v": "Les pires mots pour mettre fin à une histoire effrayante ",
+      "n": "PromptText"
+    },
+    {
+      "t": "S",
+      "v": "le tueur a été libéré très tôt grâce à son bon comportement|Il s'avère que le vrai monstre était la société|Merci d'avoir lu ma lettre de motivation ",
+      "n": "SafetyQuips"
+    }
+  ]
+}

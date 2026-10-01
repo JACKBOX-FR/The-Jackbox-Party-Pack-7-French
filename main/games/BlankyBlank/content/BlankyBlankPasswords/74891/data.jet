@@ -1,0 +1,34 @@
+{
+  "fields": [
+    {
+      "t": "S",
+      "v": "Briser le mal ",
+      "n": "Password"
+    },
+    {
+      "t": "S",
+      "v": "histoire",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "tv",
+      "n": "Subcategory"
+    },
+    {
+      "t": "S",
+      "v": "difficile",
+      "n": "Difficulty"
+    },
+    {
+      "t": "S",
+      "v": "breaking|blue",
+      "n": "ForbiddenWords"
+    },
+    {
+      "t": "S",
+      "v": "Mauvais freinage ",
+      "n": "AlternateSpellings"
+    }
+  ]
+}

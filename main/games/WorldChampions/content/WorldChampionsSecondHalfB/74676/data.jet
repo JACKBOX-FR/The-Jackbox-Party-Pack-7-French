@@ -1,0 +1,39 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasContestAudio"
+    },
+    {
+      "t": "A",
+      "v": "contest",
+      "n": "ContestAudio"
+    },
+    {
+      "t": "S",
+      "v": "Le champion des attaques par les oies ",
+      "n": "ContestText"
+    },
+    {
+      "t": "S",
+      "v": "Se faire attaquer par des oies ",
+      "n": "GameText"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasResponseAudio"
+    },
+    {
+      "t": "A",
+      "v": "response",
+      "n": "ResponseAudio"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "ResponseText"
+    }
+  ]
+}

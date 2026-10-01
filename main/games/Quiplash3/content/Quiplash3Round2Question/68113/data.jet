@@ -1,0 +1,44 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Keywords"
+    },
+    {
+      "t": "A",
+      "v": "response",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponseText"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPromptAudio"
+    },
+    {
+      "t": "A",
+      "v": "prompt",
+      "n": "PromptAudio"
+    },
+    {
+      "t": "S",
+      "v": "Le pire dans le fait d'avoir Tom Hanks comme ennemi mortel ",
+      "n": "PromptText"
+    },
+    {
+      "t": "S",
+      "v": "Il sait comment allumer un feu | peut probablement dépenser plus que vous militairement | personne n'est de votre côté ",
+      "n": "SafetyQuips"
+    }
+  ]
+}

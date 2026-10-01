@@ -1,0 +1,34 @@
+{
+  "fields": [
+    {
+      "t": "S",
+      "v": "La zone crépusculaire ",
+      "n": "Password"
+    },
+    {
+      "t": "S",
+      "v": "histoire",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "tv",
+      "n": "Subcategory"
+    },
+    {
+      "t": "S",
+      "v": "moyen",
+      "n": "Difficulty"
+    },
+    {
+      "t": "S",
+      "v": "twilight|zone",
+      "n": "ForbiddenWords"
+    },
+    {
+      "t": "S",
+      "v": "Zone crépusculaire ",
+      "n": "AlternateSpellings"
+    }
+  ]
+}

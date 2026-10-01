@@ -1,0 +1,44 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Keywords"
+    },
+    {
+      "t": "A",
+      "v": "response",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponseText"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPromptAudio"
+    },
+    {
+      "t": "A",
+      "v": "prompt",
+      "n": "PromptAudio"
+    },
+    {
+      "t": "S",
+      "v": "Si tu pouvais péter sur la mélodie d’une chanson, ce serait <BLANK>",
+      "n": "PromptText"
+    },
+    {
+      "t": "S",
+      "v": "Dites mon nom|Chaque respiration que vous prenez|Gangnam Style ",
+      "n": "SafetyQuips"
+    }
+  ]
+}

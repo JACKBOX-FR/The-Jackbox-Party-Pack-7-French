@@ -1,0 +1,34 @@
+{
+  "fields": [
+    {
+      "t": "S",
+      "v": "Times Square ",
+      "n": "Password"
+    },
+    {
+      "t": "S",
+      "v": "lieu",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "cuturel",
+      "n": "Subcategory"
+    },
+    {
+      "t": "S",
+      "v": "moyen",
+      "n": "Difficulty"
+    },
+    {
+      "t": "S",
+      "v": "square|rectangle",
+      "n": "ForbiddenWords"
+    },
+    {
+      "t": "S",
+      "v": "Time Square|Time's Square|timessquare|timesquare|Timed Square ",
+      "n": "AlternateSpellings"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "fields": [
+    {
+      "t": "S",
+      "v": "Boucle d'or et les trois ours ",
+      "n": "Password"
+    },
+    {
+      "t": "S",
+      "v": "histoire",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "mythe",
+      "n": "Subcategory"
+    },
+    {
+      "t": "S",
+      "v": "facile",
+      "n": "Difficulty"
+    },
+    {
+      "t": "S",
+      "v": "gold",
+      "n": "ForbiddenWords"
+    },
+    {
+      "t": "S",
+      "v": "Boucle d'or|Goldielocks et les trois ours|Goldylocks|Goldylocks et les trois ours|Goldielocks|Les trois ours ",
+      "n": "AlternateSpellings"
+    }
+  ]
+}

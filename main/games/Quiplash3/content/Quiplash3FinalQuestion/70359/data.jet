@@ -1,0 +1,44 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Keywords"
+    },
+    {
+      "t": "A",
+      "v": "response",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponseText"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPromptAudio"
+    },
+    {
+      "t": "A",
+      "v": "prompt",
+      "n": "PromptAudio"
+    },
+    {
+      "t": "S",
+      "v": "Les trois choses que vous DEVEZ faire pour survivre à une attaque d’ours ",
+      "n": "PromptText"
+    },
+    {
+      "t": "S",
+      "v": "arrêtez-vous, laissez tomber, levez-vous et courez, cachez-vous dans une grotte, réalisez que c'est SA grotte, trouvez une nouvelle grotte, habillez-vous en ours sexy, épousez un ours, évadez-vous pour le 15e anniversaire ",
+      "n": "SafetyQuips"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "fields": [
+    {
+      "t": "S",
+      "v": "Chia animal de compagnie ",
+      "n": "Password"
+    },
+    {
+      "t": "S",
+      "v": "chose",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Subcategory"
+    },
+    {
+      "t": "S",
+      "v": "moyen",
+      "n": "Difficulty"
+    },
+    {
+      "t": "S",
+      "v": "pet",
+      "n": "ForbiddenWords"
+    },
+    {
+      "t": "S",
+      "v": "Pot de chia|Chia|Créature de chia|animaux de compagnie de chia|plante de chia ",
+      "n": "AlternateSpellings"
+    }
+  ]
+}

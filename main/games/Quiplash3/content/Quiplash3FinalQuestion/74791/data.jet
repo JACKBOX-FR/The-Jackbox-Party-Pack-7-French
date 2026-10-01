@@ -1,0 +1,44 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Keywords"
+    },
+    {
+      "t": "A",
+      "v": "response",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponseText"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPromptAudio"
+    },
+    {
+      "t": "A",
+      "v": "prompt",
+      "n": "PromptAudio"
+    },
+    {
+      "t": "S",
+      "v": "Les trois choses que pensent les extraterrestres en nous observant de loin ",
+      "n": "PromptText"
+    },
+    {
+      "t": "S",
+      "v": "ils aiment vraiment la pollution|ils dépensent beaucoup en vêtements|Les règles de la route de MTV me manquent|ils se fâchent beaucoup|surtout à propos de la circulation|et tout, vraiment|ils ne sont pas trop intelligents|ils sont très impulsifs|pourquoi les chiens ne commandent-ils pas ? ",
+      "n": "SafetyQuips"
+    }
+  ]
+}

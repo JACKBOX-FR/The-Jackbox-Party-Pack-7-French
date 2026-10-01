@@ -1,0 +1,44 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Keywords"
+    },
+    {
+      "t": "A",
+      "v": "response",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponseText"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPromptAudio"
+    },
+    {
+      "t": "A",
+      "v": "prompt",
+      "n": "PromptAudio"
+    },
+    {
+      "t": "S",
+      "v": "Ouais! Quelles sont les trois choses qu’un bon rodéo devrait sûrement avoir ? ",
+      "n": "PromptText"
+    },
+    {
+      "t": "S",
+      "v": "vaches cool|grands chapeaux|poursuite de clowns|pop-corn|cacahuètes|viande d'origine inconnue|l'odeur de la friture|l'odeur du fumier|l'odeur des boucles de ceinture ",
+      "n": "SafetyQuips"
+    }
+  ]
+}

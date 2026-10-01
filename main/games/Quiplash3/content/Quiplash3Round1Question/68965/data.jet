@@ -1,0 +1,44 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Keywords"
+    },
+    {
+      "t": "A",
+      "v": "response",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponseText"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPromptAudio"
+    },
+    {
+      "t": "A",
+      "v": "prompt",
+      "n": "PromptAudio"
+    },
+    {
+      "t": "S",
+      "v": "Le pire signe inspirant à voir en courant un marathon ",
+      "n": "PromptText"
+    },
+    {
+      "t": "S",
+      "v": "Essayez de marcher, perdant !|Attention : des lions au coin de la rue|Vous pourriez être à l'intérieur en ce moment ",
+      "n": "SafetyQuips"
+    }
+  ]
+}

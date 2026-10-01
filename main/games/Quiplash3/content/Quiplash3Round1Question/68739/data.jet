@@ -1,0 +1,44 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Keywords"
+    },
+    {
+      "t": "A",
+      "v": "response",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponseText"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPromptAudio"
+    },
+    {
+      "t": "A",
+      "v": "prompt",
+      "n": "PromptAudio"
+    },
+    {
+      "t": "S",
+      "v": "Une suite plus légère et plus romantique de <i>Crime and Punishment</i> s'appellerait <BLANK> ",
+      "n": "PromptText"
+    },
+    {
+      "t": "S",
+      "v": "Quand le crime rencontre la punition|Crime, punition et gardénias|Rires et punition ",
+      "n": "SafetyQuips"
+    }
+  ]
+}

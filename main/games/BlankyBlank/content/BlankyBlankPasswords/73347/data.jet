@@ -1,0 +1,34 @@
+{
+  "fields": [
+    {
+      "t": "S",
+      "v": "Filles de rêve ",
+      "n": "Password"
+    },
+    {
+      "t": "S",
+      "v": "histoire",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "comédie",
+      "n": "Subcategory"
+    },
+    {
+      "t": "S",
+      "v": "difficile",
+      "n": "Difficulty"
+    },
+    {
+      "t": "S",
+      "v": "girlish|dreamy",
+      "n": "ForbiddenWords"
+    },
+    {
+      "t": "S",
+      "v": "Filles de rêve|Dreamgirl|Dream Girl|Les Dreamettes|Dreamettes|Les Dream Girls|Les Dreamgirls|La Dream Girl|La Dreamgirl ",
+      "n": "AlternateSpellings"
+    }
+  ]
+}

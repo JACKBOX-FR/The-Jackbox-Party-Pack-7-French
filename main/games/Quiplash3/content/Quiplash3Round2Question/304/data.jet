@@ -1,0 +1,44 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Keywords"
+    },
+    {
+      "t": "A",
+      "v": "response",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponseText"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPromptAudio"
+    },
+    {
+      "t": "A",
+      "v": "prompt",
+      "n": "PromptAudio"
+    },
+    {
+      "t": "S",
+      "v": "Un lave-auto en bikini est un excellent moyen de collecter des fonds. Un bikini <BLANK> ne l’est pas. ",
+      "n": "PromptText"
+    },
+    {
+      "t": "S",
+      "v": "promenade en gâteau|concours de saut à la perche|cours de préparation au calcul ",
+      "n": "SafetyQuips"
+    }
+  ]
+}

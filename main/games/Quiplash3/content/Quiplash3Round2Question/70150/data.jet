@@ -1,0 +1,44 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Keywords"
+    },
+    {
+      "t": "A",
+      "v": "response",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponseText"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPromptAudio"
+    },
+    {
+      "t": "A",
+      "v": "prompt",
+      "n": "PromptAudio"
+    },
+    {
+      "t": "S",
+      "v": "Qu’adoreriez-vous pendant que votre chef parlait à Dieu quelque part dans les montagnes ? ",
+      "n": "PromptText"
+    },
+    {
+      "t": "S",
+      "v": "Veau d'or à chaque fois, frérot !|Zeus avec une pincée de Pan pour le flair|téléphones portables, j'ai raison ",
+      "n": "SafetyQuips"
+    }
+  ]
+}

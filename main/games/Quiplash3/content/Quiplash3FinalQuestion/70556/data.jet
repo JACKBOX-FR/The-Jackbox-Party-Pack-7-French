@@ -1,0 +1,44 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Keywords"
+    },
+    {
+      "t": "A",
+      "v": "response",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponseText"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPromptAudio"
+    },
+    {
+      "t": "A",
+      "v": "prompt",
+      "n": "PromptAudio"
+    },
+    {
+      "t": "S",
+      "v": "Mauvaise nouvelle : ils vous enlèvent désormais votre « cool card » si vous aimez <BLANK>, <BLANK> ou <BLANK> ",
+      "n": "PromptText"
+    },
+    {
+      "t": "S",
+      "v": "lire|écrire|arithmétique|livres|films|vos parents|short cargo|chaussures bateau|porter une « carte cool » ",
+      "n": "SafetyQuips"
+    }
+  ]
+}

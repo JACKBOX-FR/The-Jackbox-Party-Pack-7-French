@@ -1,0 +1,44 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "S",
+      "v": "Schmitty|Shmitty|Smitty|Schmittie|Shmittie|Smittie|<ARTICLE> Quiplash host | Quiplash host|<ARTICLE> host of Quiplash | Quiplash host",
+      "n": "Keywords"
+    },
+    {
+      "t": "A",
+      "v": "response",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "t": "S",
+      "v": "What? I’m very relaxing! Hell, at least I’m not that Bracketeering guy!",
+      "n": "KeywordResponseText"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPromptAudio"
+    },
+    {
+      "t": "A",
+      "v": "prompt",
+      "n": "PromptAudio"
+    },
+    {
+      "t": "S",
+      "v": "Les critiques ont été mitigées pour la nouvelle série <i>Méditations guidées de 20 minutes avec</i> <BLANK> ",
+      "n": "PromptText"
+    },
+    {
+      "t": "S",
+      "v": "des clous sur un tableau | un leader du metal acide | un chien enragé ",
+      "n": "SafetyQuips"
+    }
+  ]
+}

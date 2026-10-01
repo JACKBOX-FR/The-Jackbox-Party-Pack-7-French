@@ -1,0 +1,44 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Keywords"
+    },
+    {
+      "t": "A",
+      "v": "response",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponseText"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPromptAudio"
+    },
+    {
+      "t": "A",
+      "v": "prompt",
+      "n": "PromptAudio"
+    },
+    {
+      "t": "S",
+      "v": "Le nom d’un clown que vous n’embaucheriez pas pour la fête d’anniversaire de votre enfant de six ans ",
+      "n": "PromptText"
+    },
+    {
+      "t": "S",
+      "v": "Triste mauvais clown | Clown médical 2 ",
+      "n": "SafetyQuips"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasContestAudio"
+    },
+    {
+      "t": "A",
+      "v": "contest",
+      "n": "ContestAudio"
+    },
+    {
+      "t": "S",
+      "v": "Le champion des fonds fiduciaires pour les enfants ",
+      "n": "ContestText"
+    },
+    {
+      "t": "S",
+      "v": "Fonds fiduciaire pour les enfants ",
+      "n": "GameText"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasResponseAudio"
+    },
+    {
+      "t": "A",
+      "v": "response",
+      "n": "ResponseAudio"
+    },
+    {
+      "t": "S",
+      "v": "Ils n'ont rien gagné ! ",
+      "n": "ResponseText"
+    }
+  ]
+}

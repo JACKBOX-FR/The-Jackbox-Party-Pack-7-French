@@ -1,0 +1,34 @@
+{
+  "fields": [
+    {
+      "t": "S",
+      "v": "Islande ",
+      "n": "Password"
+    },
+    {
+      "t": "S",
+      "v": "lieu",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "pays",
+      "n": "Subcategory"
+    },
+    {
+      "t": "S",
+      "v": "moyen",
+      "n": "Difficulty"
+    },
+    {
+      "t": "S",
+      "v": "land|ice|landscape",
+      "n": "ForbiddenWords"
+    },
+    {
+      "t": "S",
+      "v": "Islande|Islandais|Icelend|Icelind ",
+      "n": "AlternateSpellings"
+    }
+  ]
+}

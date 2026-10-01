@@ -1,0 +1,44 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Keywords"
+    },
+    {
+      "t": "A",
+      "v": "response",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponseText"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPromptAudio"
+    },
+    {
+      "t": "A",
+      "v": "prompt",
+      "n": "PromptAudio"
+    },
+    {
+      "t": "S",
+      "v": "Un signe que votre zoo local n'a plus d'argent ",
+      "n": "PromptText"
+    },
+    {
+      "t": "S",
+      "v": "L'exposition d'oiseaux est composée uniquement de pigeons | Des serpents à vendre par douzaine | L'exposition de pingouins n'est qu'une démonstration de \"Happy Feet\" ",
+      "n": "SafetyQuips"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "fields": [
+    {
+      "t": "S",
+      "v": "ver gommeux ",
+      "n": "Password"
+    },
+    {
+      "t": "S",
+      "v": "chose",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "comestible",
+      "n": "Subcategory"
+    },
+    {
+      "t": "S",
+      "v": "difficile",
+      "n": "Difficulty"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "ForbiddenWords"
+    },
+    {
+      "t": "S",
+      "v": "ver gummi | ver de bonbons | ver de gelée | ver de gélatine | chenilles sour brite | chenilles brite | ver trolli | vers gommeux | un ver gommeux | vers de bonbons | vers de gelée | chenilles gommeuses ",
+      "n": "AlternateSpellings"
+    }
+  ]
+}

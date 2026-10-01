@@ -1,0 +1,44 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Keywords"
+    },
+    {
+      "t": "A",
+      "v": "response",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponseText"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPromptAudio"
+    },
+    {
+      "t": "A",
+      "v": "prompt",
+      "n": "PromptAudio"
+    },
+    {
+      "t": "S",
+      "v": "Une façon amusante de faire savoir à votre partenaire que vous n'êtes « pas d'humeur » ce soir ",
+      "n": "PromptText"
+    },
+    {
+      "t": "S",
+      "v": "quitter la maison | mettre une pancarte sur ton pantalon | faire semblant de ne pas les connaître ",
+      "n": "SafetyQuips"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "fields": [
+    {
+      "t": "S",
+      "v": "La théorie du Big Bang ",
+      "n": "Password"
+    },
+    {
+      "t": "S",
+      "v": "histoire",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "tv",
+      "n": "Subcategory"
+    },
+    {
+      "t": "S",
+      "v": "facile",
+      "n": "Difficulty"
+    },
+    {
+      "t": "S",
+      "v": "Big|Bang|Theory",
+      "n": "ForbiddenWords"
+    },
+    {
+      "t": "S",
+      "v": "Big Bang Theory|Big Bang|The Big Bang",
+      "n": "AlternateSpellings"
+    }
+  ]
+}

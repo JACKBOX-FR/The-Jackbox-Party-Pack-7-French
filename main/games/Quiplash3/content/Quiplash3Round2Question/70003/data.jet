@@ -1,0 +1,44 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Keywords"
+    },
+    {
+      "t": "A",
+      "v": "response",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponseText"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPromptAudio"
+    },
+    {
+      "t": "A",
+      "v": "prompt",
+      "n": "PromptAudio"
+    },
+    {
+      "t": "S",
+      "v": "« Salle d'urgence » est tellement stressant ! Pourquoi ne pouvons-nous pas simplement l'appeler <BLANK> ? ",
+      "n": "PromptText"
+    },
+    {
+      "t": "S",
+      "v": "ligne de réassemblage humain | un cabinet vétérinaire mais pour les gens | un endroit sûr à l'hôpital ",
+      "n": "SafetyQuips"
+    }
+  ]
+}

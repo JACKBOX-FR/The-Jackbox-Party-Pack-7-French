@@ -1,0 +1,44 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Keywords"
+    },
+    {
+      "t": "A",
+      "v": "response",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponseText"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPromptAudio"
+    },
+    {
+      "t": "A",
+      "v": "prompt",
+      "n": "PromptAudio"
+    },
+    {
+      "t": "S",
+      "v": "Quelle est la plus grande différence entre les oiseaux et les avions ? ",
+      "n": "PromptText"
+    },
+    {
+      "t": "S",
+      "v": "Le colonel ne peut pas assaisonner un avion | Les avions ne donnent pas naissance à des animaux vivants | Les oiseaux ne portent pas les logos de Boeing ",
+      "n": "SafetyQuips"
+    }
+  ]
+}

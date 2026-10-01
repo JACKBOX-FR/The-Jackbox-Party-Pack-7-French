@@ -1,0 +1,34 @@
+{
+  "fields": [
+    {
+      "t": "S",
+      "v": "La princesse et le petit pois ",
+      "n": "Password"
+    },
+    {
+      "t": "S",
+      "v": "histoire",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "mythe",
+      "n": "Subcategory"
+    },
+    {
+      "t": "S",
+      "v": "difficile",
+      "n": "Difficulty"
+    },
+    {
+      "t": "S",
+      "v": "princess",
+      "n": "ForbiddenWords"
+    },
+    {
+      "t": "S",
+      "v": "Princesse et le petit pois|Princesse et le petit pois ",
+      "n": "AlternateSpellings"
+    }
+  ]
+}

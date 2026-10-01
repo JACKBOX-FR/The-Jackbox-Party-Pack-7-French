@@ -1,0 +1,44 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Keywords"
+    },
+    {
+      "t": "A",
+      "v": "response",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponseText"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPromptAudio"
+    },
+    {
+      "t": "A",
+      "v": "prompt",
+      "n": "PromptAudio"
+    },
+    {
+      "t": "S",
+      "v": "Soyons honnêtes : les seules choses dont vous avez réellement besoin pour devenir avocat sont <BLANK>, <BLANK> et <BLANK>. ",
+      "n": "PromptText"
+    },
+    {
+      "t": "S",
+      "v": "argent|argent|plus d'argent|temps|passion|le nom de famille \"Avocat\"|pouces|bretelles|épais, accent texan ",
+      "n": "SafetyQuips"
+    }
+  ]
+}

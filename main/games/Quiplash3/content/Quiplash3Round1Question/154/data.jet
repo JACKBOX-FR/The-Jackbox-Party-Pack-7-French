@@ -1,0 +1,44 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Keywords"
+    },
+    {
+      "t": "A",
+      "v": "response",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponseText"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPromptAudio"
+    },
+    {
+      "t": "A",
+      "v": "prompt",
+      "n": "PromptAudio"
+    },
+    {
+      "t": "S",
+      "v": "Un bon signe que tu es un mauvais agriculteur ",
+      "n": "PromptText"
+    },
+    {
+      "t": "S",
+      "v": "des silos remplis de bonbons | porter un costume trois pièces sur le tracteur | je ne peux pas cracher pour rien ",
+      "n": "SafetyQuips"
+    }
+  ]
+}

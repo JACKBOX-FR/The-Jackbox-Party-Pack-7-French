@@ -1,0 +1,34 @@
+{
+  "fields": [
+    {
+      "t": "S",
+      "v": "Le Prince de Bel-Air ",
+      "n": "Password"
+    },
+    {
+      "t": "S",
+      "v": "histoire",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "tv",
+      "n": "Subcategory"
+    },
+    {
+      "t": "S",
+      "v": "moyen",
+      "n": "Difficulty"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "ForbiddenWords"
+    },
+    {
+      "t": "S",
+      "v": "Prince frais|Prince frais de Bel-Air|Le Prince frais|Le Prince frais de Belair|Prince frais de Belair|Le Prince frais de Bel Air|Prince frais de Bel Air ",
+      "n": "AlternateSpellings"
+    }
+  ]
+}

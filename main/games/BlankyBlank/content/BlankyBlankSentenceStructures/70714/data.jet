@@ -1,0 +1,14 @@
+{
+ "fields": [
+  {
+   "t": "S",
+   "v": "place",
+   "n": "Category"
+  },
+  {
+   "t": "S",
+   "v": "C'est <article-1> <place-adjective-simple> <place-noun-simple-s1>.|C'est là que tu <place-verb-simple> <article-2> <place-noun-simple-s2>.|Tellement <place-noun-complex>!|Cet endroit a <article-1> <place-adjective-complex> <place-noun-complex>.|C'est là que tu <place-verb-simple> <article-2> <place-noun-complex>.",
+   "n": "Structures"
+  }
+ ]
+}

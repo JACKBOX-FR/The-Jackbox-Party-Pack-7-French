@@ -1,0 +1,34 @@
+{
+  "fields": [
+    {
+      "t": "S",
+      "v": "Batman ",
+      "n": "Password"
+    },
+    {
+      "t": "S",
+      "v": "personne",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "fictif",
+      "n": "Subcategory"
+    },
+    {
+      "t": "S",
+      "v": "facile",
+      "n": "Difficulty"
+    },
+    {
+      "t": "S",
+      "v": "superhero",
+      "n": "ForbiddenWords"
+    },
+    {
+      "t": "S",
+      "v": "Bruce Wayne|Le Batman|Bat-Man|Bat Man|L'homme chauve-souris|Le Bat-Man|Bruce Wane ",
+      "n": "AlternateSpellings"
+    }
+  ]
+}

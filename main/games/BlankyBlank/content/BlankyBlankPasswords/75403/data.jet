@@ -1,0 +1,34 @@
+{
+  "fields": [
+    {
+      "t": "S",
+      "v": "Le bus scolaire magique ",
+      "n": "Password"
+    },
+    {
+      "t": "S",
+      "v": "histoire",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "film d'animation",
+      "n": "Subcategory"
+    },
+    {
+      "t": "S",
+      "v": "moyen",
+      "n": "Difficulty"
+    },
+    {
+      "t": "S",
+      "v": "magic|school",
+      "n": "ForbiddenWords"
+    },
+    {
+      "t": "S",
+      "v": "Bus scolaire magique|Bus scolaire magique|Le bus scolaire magique ",
+      "n": "AlternateSpellings"
+    }
+  ]
+}

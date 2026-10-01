@@ -1,0 +1,44 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Keywords"
+    },
+    {
+      "t": "A",
+      "v": "response",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponseText"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPromptAudio"
+    },
+    {
+      "t": "A",
+      "v": "prompt",
+      "n": "PromptAudio"
+    },
+    {
+      "t": "S",
+      "v": "Le titre d'une suite réaliste de <i>Goodnight Moon</i> ",
+      "n": "PromptText"
+    },
+    {
+      "t": "S",
+      "v": "La Lune ne reviendra jamais|La famille secrète de la Lune|Mangez du plomb, Lune ",
+      "n": "SafetyQuips"
+    }
+  ]
+}

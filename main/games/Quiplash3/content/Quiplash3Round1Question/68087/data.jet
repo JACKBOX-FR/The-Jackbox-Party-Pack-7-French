@@ -1,0 +1,44 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Keywords"
+    },
+    {
+      "t": "A",
+      "v": "response",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponseText"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPromptAudio"
+    },
+    {
+      "t": "A",
+      "v": "prompt",
+      "n": "PromptAudio"
+    },
+    {
+      "t": "S",
+      "v": "La pétition la plus stupide ferait pression pour <BLANK> ",
+      "n": "PromptText"
+    },
+    {
+      "t": "S",
+      "v": "retour aux sonneries de téléphone portable de style années 90|gressins gratuits dans tous les restaurants|Journée nationale des trolls en ligne ",
+      "n": "SafetyQuips"
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Keywords"
+    },
+    {
+      "t": "A",
+      "v": "response",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponseText"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPromptAudio"
+    },
+    {
+      "t": "A",
+      "v": "prompt",
+      "n": "PromptAudio"
+    },
+    {
+      "t": "S",
+      "v": "Les trois étapes nécessaires pour cuire la pire miche de pain ",
+      "n": "PromptText"
+    },
+    {
+      "t": "S",
+      "v": "préchauffer le four | mélanger la pâte | incorporer le vieux fil dentaire | mélanger la levure | mélanger l'uranium | JK c'est dangereux | acheter les ingrédients | bien mélanger | verser directement dans les toilettes ",
+      "n": "SafetyQuips"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasContestAudio"
+    },
+    {
+      "t": "A",
+      "v": "contest",
+      "n": "ContestAudio"
+    },
+    {
+      "t": "S",
+      "v": "Le champion des recherches Google de <ANYPLAYER> ",
+      "n": "ContestText"
+    },
+    {
+      "t": "S",
+      "v": "Recherches Google de <ANYPLAYER> ",
+      "n": "GameText"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasResponseAudio"
+    },
+    {
+      "t": "A",
+      "v": "response",
+      "n": "ResponseAudio"
+    },
+    {
+      "t": "S",
+      "v": "On dirait que nous avons obtenu le meilleur résultat ! ",
+      "n": "ResponseText"
+    }
+  ]
+}

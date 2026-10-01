@@ -1,0 +1,34 @@
+{
+  "fields": [
+    {
+      "t": "S",
+      "v": "La princesse et la grenouille ",
+      "n": "Password"
+    },
+    {
+      "t": "S",
+      "v": "histoire",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "film d'animation",
+      "n": "Subcategory"
+    },
+    {
+      "t": "S",
+      "v": "moyen",
+      "n": "Difficulty"
+    },
+    {
+      "t": "S",
+      "v": "Frog|Princess",
+      "n": "ForbiddenWords"
+    },
+    {
+      "t": "S",
+      "v": "Princesse et la grenouille|La princesse et la grenouille|Princesse et la grenouille|Princesse et la grenouille|Princesse et la grenouille|Princesse et grenouille|Princesse et grenouille",
+      "n": "AlternateSpellings"
+    }
+  ]
+}

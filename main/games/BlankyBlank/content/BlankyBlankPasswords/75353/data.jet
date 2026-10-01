@@ -1,0 +1,34 @@
+{
+  "fields": [
+    {
+      "t": "S",
+      "v": "Le Livre de Mormon ",
+      "n": "Password"
+    },
+    {
+      "t": "S",
+      "v": "histoire",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "comédie",
+      "n": "Subcategory"
+    },
+    {
+      "t": "S",
+      "v": "difficile",
+      "n": "Difficulty"
+    },
+    {
+      "t": "S",
+      "v": "book",
+      "n": "ForbiddenWords"
+    },
+    {
+      "t": "S",
+      "v": "Livre de Mormon|Le Livre de Morman|Livre de Morman|Le Livre de Moreman|Livre de Moreman|Le Livre de Moremon|Livre de Moremon|Le Livre de Mormons|Livre de Mormon|Le Livre de Mormin|Livre de Mormin|Le Livre de Mormen|Livre de Mormen ",
+      "n": "AlternateSpellings"
+    }
+  ]
+}

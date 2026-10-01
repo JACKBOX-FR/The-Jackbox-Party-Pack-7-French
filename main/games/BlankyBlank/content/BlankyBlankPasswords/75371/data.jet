@@ -1,0 +1,34 @@
+{
+  "fields": [
+    {
+      "t": "S",
+      "v": "Détective Pikachu ",
+      "n": "Password"
+    },
+    {
+      "t": "S",
+      "v": "histoire",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "film",
+      "n": "Subcategory"
+    },
+    {
+      "t": "S",
+      "v": "moyen",
+      "n": "Difficulty"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "ForbiddenWords"
+    },
+    {
+      "t": "S",
+      "v": "Pokémon Détective Pikachu|Pokémon Détective Pikachu|Ditective Pikachu|Détective Pikachoo|Détective Pickachu|Détective Peekachu|Détective Coucou|Détective Coucou|Pokémon : Détective Pikachu|Pokemon : Détective Pikachu|Détective Pokémon|Détective Pokémon ",
+      "n": "AlternateSpellings"
+    }
+  ]
+}

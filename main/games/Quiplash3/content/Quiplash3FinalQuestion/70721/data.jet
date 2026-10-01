@@ -1,0 +1,44 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Keywords"
+    },
+    {
+      "t": "A",
+      "v": "response",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponseText"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPromptAudio"
+    },
+    {
+      "t": "A",
+      "v": "prompt",
+      "n": "PromptAudio"
+    },
+    {
+      "t": "S",
+      "v": "Vous ne pourrez jamais sortir avec quelqu'un qui <BLANK>, <BLANK> ou <BLANK> ",
+      "n": "PromptText"
+    },
+    {
+      "t": "S",
+      "v": "déteste le karaoké | mange des cacahuètes non salées | déteste les pingouins | se lèche les doigts | se lèche la bouche | lèche n'importe quoi. ewww | traîne du côté passager | du trajet de son meilleur ami | essayant de me crier dessus ",
+      "n": "SafetyQuips"
+    }
+  ]
+}

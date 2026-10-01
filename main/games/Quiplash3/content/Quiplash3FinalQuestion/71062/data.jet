@@ -1,0 +1,44 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Keywords"
+    },
+    {
+      "t": "A",
+      "v": "response",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponseText"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPromptAudio"
+    },
+    {
+      "t": "A",
+      "v": "prompt",
+      "n": "PromptAudio"
+    },
+    {
+      "t": "S",
+      "v": "Trois choses que vous ne tiendrez probablement jamais dans votre main ",
+      "n": "PromptText"
+    },
+    {
+      "t": "S",
+      "v": "le Saint Graal|non attendez, c'est le Saint Graal|J'ai mal choisi|Un million de dollars|Un œuf de dinosaure|Le respect de mon père|Un diamant géant|Une formule pour une énergie infinie|la part de pizza parfaite ",
+      "n": "SafetyQuips"
+    }
+  ]
+}

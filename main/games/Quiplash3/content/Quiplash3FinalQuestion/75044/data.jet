@@ -1,0 +1,44 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Keywords"
+    },
+    {
+      "t": "A",
+      "v": "response",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponseText"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPromptAudio"
+    },
+    {
+      "t": "A",
+      "v": "prompt",
+      "n": "PromptAudio"
+    },
+    {
+      "t": "S",
+      "v": "Trois excuses merdiques pour ne pas offrir à un enfant le vélo qu'il voulait pour son anniversaire ",
+      "n": "PromptText"
+    },
+    {
+      "t": "S",
+      "v": "ils étaient dehors|les vélos sont trop dangereux|ce n'est pas ton anniversaire|les vélos étaient interdits aujourd'hui|le chien les a mangés|les vélos n'existent pas vraiment|le magasin était fermé|Je t'en ai donné un, n'est-ce pas ?|Je pensais que tu avais dit brochet ",
+      "n": "SafetyQuips"
+    }
+  ]
+}

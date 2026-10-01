@@ -1,0 +1,44 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Keywords"
+    },
+    {
+      "t": "A",
+      "v": "response",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponseText"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPromptAudio"
+    },
+    {
+      "t": "A",
+      "v": "prompt",
+      "n": "PromptAudio"
+    },
+    {
+      "t": "S",
+      "v": "Quelle est la signature électronique la plus courante pour les fraudeurs ? ",
+      "n": "PromptText"
+    },
+    {
+      "t": "S",
+      "v": "Je suis tout à fait réel | Tu dois me dire si tu es un flic | évitez les fautes de frappe ",
+      "n": "SafetyQuips"
+    }
+  ]
+}

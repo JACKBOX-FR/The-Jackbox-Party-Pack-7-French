@@ -1,0 +1,34 @@
+{
+  "fields": [
+    {
+      "t": "S",
+      "v": "L'atelier du Père Noël ",
+      "n": "Password"
+    },
+    {
+      "t": "S",
+      "v": "lieu",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "fictif",
+      "n": "Subcategory"
+    },
+    {
+      "t": "S",
+      "v": "moyen",
+      "n": "Difficulty"
+    },
+    {
+      "t": "S",
+      "v": "santa",
+      "n": "ForbiddenWords"
+    },
+    {
+      "t": "S",
+      "v": "Pôle Nord|atelier du père Noël|le pôle Nord|magasin de jouets du père Noël|magasin de jouets du père Noël|atelier du père Noël|atelier du père Noël|magasin de jouets du père Noël|magasin de jouets du père Noël ",
+      "n": "AlternateSpellings"
+    }
+  ]
+}

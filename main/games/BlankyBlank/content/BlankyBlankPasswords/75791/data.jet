@@ -1,0 +1,34 @@
+{
+  "fields": [
+    {
+      "t": "S",
+      "v": "nouille de piscine ",
+      "n": "Password"
+    },
+    {
+      "t": "S",
+      "v": "chose",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Subcategory"
+    },
+    {
+      "t": "S",
+      "v": "moyen",
+      "n": "Difficulty"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "ForbiddenWords"
+    },
+    {
+      "t": "S",
+      "v": "nouilles de natation|nouilles flottantes|nouilles de piscine|une nouille de piscine|nouilles de natation|une nouille de natation|une nouille flottante|nouilles flottantes ",
+      "n": "AlternateSpellings"
+    }
+  ]
+}

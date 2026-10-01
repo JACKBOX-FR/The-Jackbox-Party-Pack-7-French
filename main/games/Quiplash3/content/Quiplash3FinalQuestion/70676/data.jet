@@ -1,0 +1,44 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Keywords"
+    },
+    {
+      "t": "A",
+      "v": "response",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponseText"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPromptAudio"
+    },
+    {
+      "t": "A",
+      "v": "prompt",
+      "n": "PromptAudio"
+    },
+    {
+      "t": "S",
+      "v": "Trois noms d'exercices en CrossFit, probablement ",
+      "n": "PromptText"
+    },
+    {
+      "t": "S",
+      "v": "genou blaster|le fabricant de sueur|gelée pour les jambes|remontées mécaniques|les souches|les expériences de mort imminente|le chargeur de carte de crédit|le merch push|l'ami honteux ",
+      "n": "SafetyQuips"
+    }
+  ]
+}

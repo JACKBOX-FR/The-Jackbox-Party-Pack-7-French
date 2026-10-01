@@ -1,0 +1,34 @@
+{
+  "fields": [
+    {
+      "t": "S",
+      "v": "Bateau à vapeur Willie ",
+      "n": "Password"
+    },
+    {
+      "t": "S",
+      "v": "histoire",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "film d'animation",
+      "n": "Subcategory"
+    },
+    {
+      "t": "S",
+      "v": "moyen",
+      "n": "Difficulty"
+    },
+    {
+      "t": "S",
+      "v": "boat",
+      "n": "ForbiddenWords"
+    },
+    {
+      "t": "S",
+      "v": "Bateau à vapeur Willy|Bateau à vapeur Willy|Bateau à vapeur Willie|Bateau à vapeur Whilly|Bateau à vapeur Whilly|Mickey Mouse dans Bateau à vapeur Willy|Bateau à vapeur Micky Mouse",
+      "n": "AlternateSpellings"
+    }
+  ]
+}

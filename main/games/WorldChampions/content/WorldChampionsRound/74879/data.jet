@@ -1,0 +1,39 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasContestAudio"
+    },
+    {
+      "t": "A",
+      "v": "contest",
+      "n": "ContestAudio"
+    },
+    {
+      "t": "S",
+      "v": "Le champion du Vision Board de <ANYPLAYER> ",
+      "n": "ContestText"
+    },
+    {
+      "t": "S",
+      "v": "Tableau de vision de <ANYPLAYER> ",
+      "n": "GameText"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasResponseAudio"
+    },
+    {
+      "t": "A",
+      "v": "response",
+      "n": "ResponseAudio"
+    },
+    {
+      "t": "S",
+      "v": "Voyez-le et soyez-le ! ",
+      "n": "ResponseText"
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Keywords"
+    },
+    {
+      "t": "A",
+      "v": "response",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponseText"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPromptAudio"
+    },
+    {
+      "t": "A",
+      "v": "prompt",
+      "n": "PromptAudio"
+    },
+    {
+      "t": "S",
+      "v": "Les trois éléments à prendre en compte lors de l'achat d'une alliance ",
+      "n": "PromptText"
+    },
+    {
+      "t": "S",
+      "v": "est-ce trop cher|est-ce trop bon marché|comment puis-je le voler ?|est-ce le bon|est-ce qu'ils sont les bons|est-ce que cela unira le royaume|est-ce que ça va|est-ce qu'il brille en vert|est-ce que ça leur donnera des super pouvoirs ",
+      "n": "SafetyQuips"
+    }
+  ]
+}

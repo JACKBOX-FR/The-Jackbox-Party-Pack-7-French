@@ -1,0 +1,34 @@
+{
+  "fields": [
+    {
+      "t": "S",
+      "v": "Itinéraire 66 ",
+      "n": "Password"
+    },
+    {
+      "t": "S",
+      "v": "lieu",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "cuturel",
+      "n": "Subcategory"
+    },
+    {
+      "t": "S",
+      "v": "difficile",
+      "n": "Difficulty"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "ForbiddenWords"
+    },
+    {
+      "t": "S",
+      "v": "Route soixante-six|Rt. 66|Déroute 66|Rt. Soixante-six|États-Unis Route 66|États-Unis Autoroute 66|US 66|États-Unis Route soixante-six|Autoroute 66|Autoroute soixante-six|Rout soixante-six|High Way 66|US soixante-six|US66|Route66|Root 66|Root soixante-six|Root soixante-six|Rt 66|Will Rogers Highway|La route mère|La rue principale|La rue principale d'Amérique|Rue principale d'Amérique ",
+      "n": "AlternateSpellings"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "fields": [
+    {
+      "t": "S",
+      "v": "Pinson d'Atticus ",
+      "n": "Password"
+    },
+    {
+      "t": "S",
+      "v": "personne",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "fictif",
+      "n": "Subcategory"
+    },
+    {
+      "t": "S",
+      "v": "moyen",
+      "n": "Difficulty"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "ForbiddenWords"
+    },
+    {
+      "t": "S",
+      "v": "Atticus|Finch|Aticus Finch|Aticus|M. Finch|M. Finch|Monsieur Finch|Atticuss Finch|Atticuss|Aticuss Finch|Aticuss ",
+      "n": "AlternateSpellings"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "fields": [
+    {
+      "t": "S",
+      "v": "Lunette arrière ",
+      "n": "Password"
+    },
+    {
+      "t": "S",
+      "v": "histoire",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "film",
+      "n": "Subcategory"
+    },
+    {
+      "t": "S",
+      "v": "moyen",
+      "n": "Difficulty"
+    },
+    {
+      "t": "S",
+      "v": "window",
+      "n": "ForbiddenWords"
+    },
+    {
+      "t": "S",
+      "v": "lunette arrière|fenêtre rare|fenêtre reer ",
+      "n": "AlternateSpellings"
+    }
+  ]
+}

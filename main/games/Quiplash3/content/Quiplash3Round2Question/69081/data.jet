@@ -1,0 +1,44 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Keywords"
+    },
+    {
+      "t": "A",
+      "v": "response",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponseText"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPromptAudio"
+    },
+    {
+      "t": "A",
+      "v": "prompt",
+      "n": "PromptAudio"
+    },
+    {
+      "t": "S",
+      "v": "Pourquoi Pac-Man et Mme Pac-Man se sont-ils finalement séparés ? ",
+      "n": "PromptText"
+    },
+    {
+      "t": "S",
+      "v": "je suis à court de pièces | je ne peux pas retrouver la magie des années 80 ",
+      "n": "SafetyQuips"
+    }
+  ]
+}

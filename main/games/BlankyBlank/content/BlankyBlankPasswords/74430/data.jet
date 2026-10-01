@@ -1,0 +1,34 @@
+{
+  "fields": [
+    {
+      "t": "S",
+      "v": "Edward aux mains d'argent ",
+      "n": "Password"
+    },
+    {
+      "t": "S",
+      "v": "histoire",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "film",
+      "n": "Subcategory"
+    },
+    {
+      "t": "S",
+      "v": "moyen",
+      "n": "Difficulty"
+    },
+    {
+      "t": "S",
+      "v": "Scissor|Scissors|hands",
+      "n": "ForbiddenWords"
+    },
+    {
+      "t": "S",
+      "v": "Mains en ciseaux|Main en ciseaux|Main en ciseaux Edward|Main en ciseaux Edward|Main en ciseaux|Mains en ciseaux Edward",
+      "n": "AlternateSpellings"
+    }
+  ]
+}

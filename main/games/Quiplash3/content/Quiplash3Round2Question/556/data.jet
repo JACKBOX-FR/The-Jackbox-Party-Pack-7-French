@@ -1,0 +1,44 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Keywords"
+    },
+    {
+      "t": "A",
+      "v": "response",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponseText"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPromptAudio"
+    },
+    {
+      "t": "A",
+      "v": "prompt",
+      "n": "PromptAudio"
+    },
+    {
+      "t": "S",
+      "v": "Je suis désolé, comment m'as-tu appelé !? ",
+      "n": "PromptText"
+    },
+    {
+      "t": "S",
+      "v": "Pour qui pensez-vous que vous êtes !?|M. Big Bubble Butt | tu m'as dit de t'appeler Mushmouth, n'est-ce pas ? ",
+      "n": "SafetyQuips"
+    }
+  ]
+}

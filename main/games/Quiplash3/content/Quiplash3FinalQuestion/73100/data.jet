@@ -1,0 +1,44 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Keywords"
+    },
+    {
+      "t": "A",
+      "v": "response",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponseText"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPromptAudio"
+    },
+    {
+      "t": "A",
+      "v": "prompt",
+      "n": "PromptAudio"
+    },
+    {
+      "t": "S",
+      "v": "Trois choses terrifiantes à découvrir dans les bois ",
+      "n": "PromptText"
+    },
+    {
+      "t": "S",
+      "v": "un ours|un fantôme|vos regrets passés|un OVNI|un vampire|votre dette de carte de crédit|un solitaire grisonnant|mais il veut sortir|et parler de baseball fantastique ",
+      "n": "SafetyQuips"
+    }
+  ]
+}

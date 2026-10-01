@@ -1,0 +1,34 @@
+{
+  "fields": [
+    {
+      "t": "S",
+      "v": "Étrange cas du Dr Jekyll et de M. Hyde ",
+      "n": "Password"
+    },
+    {
+      "t": "S",
+      "v": "histoire",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "livre",
+      "n": "Subcategory"
+    },
+    {
+      "t": "S",
+      "v": "moyen",
+      "n": "Difficulty"
+    },
+    {
+      "t": "S",
+      "v": "strange",
+      "n": "ForbiddenWords"
+    },
+    {
+      "t": "S",
+      "v": "Dr Jeckyll et M. Hyde|Dr. Jeckyll et M. Hyde|Jeckyll et Hyde|Jeckel et Hyde|Dr. Jeckyl et M. Hyde|Dr Jeckyl et M. Hyde|L'étrange cas de Jekyll Hyde, Dr Jekyll et M. Hyde|Étrange cas|L'étrange cas|Jekyll et Hyde|Étrange cas du docteur Jekyll et Mister Hyde|L'étrange cas du docteur Jekyll et Mister Hyde|L'étrange cas du Dr Jekyll et de M. Hyde|Étrange cas du Dr Jekyll et de M. Hyde|Jekyll & Hyde ",
+      "n": "AlternateSpellings"
+    }
+  ]
+}

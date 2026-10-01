@@ -1,0 +1,44 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Keywords"
+    },
+    {
+      "t": "A",
+      "v": "response",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponseText"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPromptAudio"
+    },
+    {
+      "t": "A",
+      "v": "prompt",
+      "n": "PromptAudio"
+    },
+    {
+      "t": "S",
+      "v": "Ok, lequel d'entre vous a utilisé le Xerox pour faire des copies de <BLANK> ? ",
+      "n": "PromptText"
+    },
+    {
+      "t": "S",
+      "v": "leur état de santé|des images plus petites et plus granuleuses|le visage du concierge ",
+      "n": "SafetyQuips"
+    }
+  ]
+}

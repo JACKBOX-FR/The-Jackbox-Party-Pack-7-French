@@ -1,0 +1,44 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "S",
+      "v": "fart|pass gas|pass wind|cut one|toot",
+      "n": "Keywords"
+    },
+    {
+      "t": "A",
+      "v": "response",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "t": "S",
+      "v": "(echo-y stadium fart... polite applause)",
+      "n": "KeywordResponseText"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPromptAudio"
+    },
+    {
+      "t": "A",
+      "v": "prompt",
+      "n": "PromptAudio"
+    },
+    {
+      "t": "S",
+      "v": "C'est votre grand moment sur scène ! Vous trouvez votre projecteur, faites face au public et <BLANK> ",
+      "n": "PromptText"
+    },
+    {
+      "t": "S",
+      "v": "vendre de l'assurance-vie | retenir un éternuement | gâcher une blague toc-toc ",
+      "n": "SafetyQuips"
+    }
+  ]
+}

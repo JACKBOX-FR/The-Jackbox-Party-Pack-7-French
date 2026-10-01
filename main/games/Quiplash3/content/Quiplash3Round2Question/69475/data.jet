@@ -1,0 +1,44 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Keywords"
+    },
+    {
+      "t": "A",
+      "v": "response",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponseText"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPromptAudio"
+    },
+    {
+      "t": "A",
+      "v": "prompt",
+      "n": "PromptAudio"
+    },
+    {
+      "t": "S",
+      "v": "Ils devraient vraiment annuler le cours de gym au lycée et le remplacer par <BLANK> ",
+      "n": "PromptText"
+    },
+    {
+      "t": "S",
+      "v": "Des pelotons pour tous les étudiants | un jeu de dames passionnant ",
+      "n": "SafetyQuips"
+    }
+  ]
+}

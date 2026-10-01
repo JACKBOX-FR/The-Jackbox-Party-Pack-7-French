@@ -1,0 +1,44 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Keywords"
+    },
+    {
+      "t": "A",
+      "v": "response",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponseText"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPromptAudio"
+    },
+    {
+      "t": "A",
+      "v": "prompt",
+      "n": "PromptAudio"
+    },
+    {
+      "t": "S",
+      "v": "Les trois choses que vous pouvez dire pour désamorcer une prise d’otages tendue ",
+      "n": "PromptText"
+    },
+    {
+      "t": "S",
+      "v": "mais est-ce votre carte ?|Non vraiment. Écoute|Je serai là toute la semaine|toc toc|interrompant la vache|mooo!|tu aimes Frasier ?|Je pense que tu aimerais Frasier|Envoi des DVD de Frasier ",
+      "n": "SafetyQuips"
+    }
+  ]
+}

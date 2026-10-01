@@ -1,0 +1,34 @@
+{
+  "fields": [
+    {
+      "t": "S",
+      "v": "Capitaine Jean-Luc Picard ",
+      "n": "Password"
+    },
+    {
+      "t": "S",
+      "v": "personne",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "fictif",
+      "n": "Subcategory"
+    },
+    {
+      "t": "S",
+      "v": "moyen",
+      "n": "Difficulty"
+    },
+    {
+      "t": "S",
+      "v": "star",
+      "n": "ForbiddenWords"
+    },
+    {
+      "t": "S",
+      "v": "Capitaine Picard|Picard|Jon Luc Picard|Patrick Stewart|Jean-Luc Picard|Capitaine. Picard|Capitaine Jean Luc Picard|John Luke Picard|John Luc Picard ",
+      "n": "AlternateSpellings"
+    }
+  ]
+}

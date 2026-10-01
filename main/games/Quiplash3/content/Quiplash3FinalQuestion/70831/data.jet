@@ -1,0 +1,44 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Keywords"
+    },
+    {
+      "t": "A",
+      "v": "response",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponseText"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPromptAudio"
+    },
+    {
+      "t": "A",
+      "v": "prompt",
+      "n": "PromptAudio"
+    },
+    {
+      "t": "S",
+      "v": "Les trois principaux crimes commis dans la société des sirènes ",
+      "n": "PromptText"
+    },
+    {
+      "t": "S",
+      "v": "piraterie|démolition de navires|meurtre humide|chasse à la baleine|requin|pêche au chat|vol de homards|enlèvement de calamars|forgeage de thon ",
+      "n": "SafetyQuips"
+    }
+  ]
+}

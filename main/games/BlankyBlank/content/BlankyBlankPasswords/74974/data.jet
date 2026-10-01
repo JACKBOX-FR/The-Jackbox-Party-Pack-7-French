@@ -1,0 +1,34 @@
+{
+  "fields": [
+    {
+      "t": "S",
+      "v": "Île de Pâques ",
+      "n": "Password"
+    },
+    {
+      "t": "S",
+      "v": "lieu",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "pays",
+      "n": "Subcategory"
+    },
+    {
+      "t": "S",
+      "v": "moyen",
+      "n": "Difficulty"
+    },
+    {
+      "t": "S",
+      "v": "island",
+      "n": "ForbiddenWords"
+    },
+    {
+      "t": "S",
+      "v": "Rapa Nui|Isla de Pascua|Île Moai|Rapanui|Île d'Ester|Îles de Pâques ",
+      "n": "AlternateSpellings"
+    }
+  ]
+}

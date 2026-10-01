@@ -1,0 +1,34 @@
+{
+  "fields": [
+    {
+      "t": "S",
+      "v": "La nounou ",
+      "n": "Password"
+    },
+    {
+      "t": "S",
+      "v": "histoire",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "tv",
+      "n": "Subcategory"
+    },
+    {
+      "t": "S",
+      "v": "difficile",
+      "n": "Difficulty"
+    },
+    {
+      "t": "S",
+      "v": "nanny",
+      "n": "ForbiddenWords"
+    },
+    {
+      "t": "S",
+      "v": "Nounou|La Nany|Nany|Les Nounous|Nannies ",
+      "n": "AlternateSpellings"
+    }
+  ]
+}

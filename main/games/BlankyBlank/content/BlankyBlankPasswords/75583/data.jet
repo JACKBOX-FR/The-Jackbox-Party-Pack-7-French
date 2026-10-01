@@ -1,0 +1,34 @@
+{
+  "fields": [
+    {
+      "t": "S",
+      "v": "Soeur, Soeur ",
+      "n": "Password"
+    },
+    {
+      "t": "S",
+      "v": "histoire",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "tv",
+      "n": "Subcategory"
+    },
+    {
+      "t": "S",
+      "v": "moyen",
+      "n": "Difficulty"
+    },
+    {
+      "t": "S",
+      "v": "Sister",
+      "n": "ForbiddenWords"
+    },
+    {
+      "t": "S",
+      "v": "Sœur Sœur|Sœur. Sœur.|Sœur... Sœur|Sœur et Sœur|Sœurs, Sœurs|Sœurs Sœurs ",
+      "n": "AlternateSpellings"
+    }
+  ]
+}

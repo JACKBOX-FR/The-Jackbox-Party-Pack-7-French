@@ -1,0 +1,44 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Keywords"
+    },
+    {
+      "t": "A",
+      "v": "response",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponseText"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPromptAudio"
+    },
+    {
+      "t": "A",
+      "v": "prompt",
+      "n": "PromptAudio"
+    },
+    {
+      "t": "S",
+      "v": "\"Vous pouvez conduire un cheval à l'abreuvoir, mais vous ne pouvez pas y arriver <BLANK>\" ",
+      "n": "PromptText"
+    },
+    {
+      "t": "S",
+      "v": "dites \"merci pour l'eau\" | dans le show business | profitez de passer du temps avec vous ",
+      "n": "SafetyQuips"
+    }
+  ]
+}

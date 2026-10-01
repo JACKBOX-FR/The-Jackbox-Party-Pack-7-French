@@ -1,0 +1,34 @@
+{
+  "fields": [
+    {
+      "t": "S",
+      "v": "Titanic ",
+      "n": "Password"
+    },
+    {
+      "t": "S",
+      "v": "histoire",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "film",
+      "n": "Subcategory"
+    },
+    {
+      "t": "S",
+      "v": "facile",
+      "n": "Difficulty"
+    },
+    {
+      "t": "S",
+      "v": "titanic",
+      "n": "ForbiddenWords"
+    },
+    {
+      "t": "S",
+      "v": "Le Titanic|Tittanic|Le Tittanic|Le Titcanick|Titanick|Le Titanic de James Cameron|James Cameron Titanic|Film Titanic|Film Titanic|James Cameron Titanic ",
+      "n": "AlternateSpellings"
+    }
+  ]
+}

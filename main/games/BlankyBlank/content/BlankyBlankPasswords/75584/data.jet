@@ -1,0 +1,34 @@
+{
+  "fields": [
+    {
+      "t": "S",
+      "v": "rouleaux de pizza ",
+      "n": "Password"
+    },
+    {
+      "t": "S",
+      "v": "chose",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "comestible",
+      "n": "Subcategory"
+    },
+    {
+      "t": "S",
+      "v": "moyen",
+      "n": "Difficulty"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "ForbiddenWords"
+    },
+    {
+      "t": "S",
+      "v": "Totinos|Rouleaux de pizza Totinos|Rouleaux de pizza|Rouleaux de pizza Totinos|Totino's|Rouleaux de pizza Totino|Bouchées de pizza|Pizza de poche ",
+      "n": "AlternateSpellings"
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Keywords"
+    },
+    {
+      "t": "A",
+      "v": "response",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponseText"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPromptAudio"
+    },
+    {
+      "t": "A",
+      "v": "prompt",
+      "n": "PromptAudio"
+    },
+    {
+      "t": "S",
+      "v": "Qu’y a-t-il derrière la porte verrouillée que l’agent immobilier refuse de vous montrer ? ",
+      "n": "PromptText"
+    },
+    {
+      "t": "S",
+      "v": "un agent immobilier concurrent|ferme de fourmis mur à mur|salle de bain sans douche, lavabo ni toilettes ",
+      "n": "SafetyQuips"
+    }
+  ]
+}

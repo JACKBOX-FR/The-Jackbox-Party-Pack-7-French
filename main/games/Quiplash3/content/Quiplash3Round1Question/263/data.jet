@@ -1,0 +1,44 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Keywords"
+    },
+    {
+      "t": "A",
+      "v": "response",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponseText"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPromptAudio"
+    },
+    {
+      "t": "A",
+      "v": "prompt",
+      "n": "PromptAudio"
+    },
+    {
+      "t": "S",
+      "v": "Un signe certain que vous êtes piégé dans un horrible cauchemar ",
+      "n": "PromptText"
+    },
+    {
+      "t": "S",
+      "v": "les dents n'arrêtent pas de tomber|continuent à perdre la capacité de voler|vous partagez votre lit avec un carcajou ",
+      "n": "SafetyQuips"
+    }
+  ]
+}

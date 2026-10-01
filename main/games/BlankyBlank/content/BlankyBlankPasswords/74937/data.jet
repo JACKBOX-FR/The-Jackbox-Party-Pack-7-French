@@ -1,0 +1,34 @@
+{
+  "fields": [
+    {
+      "t": "S",
+      "v": "Tour penchée de Pise ",
+      "n": "Password"
+    },
+    {
+      "t": "S",
+      "v": "lieu",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "cuturel",
+      "n": "Subcategory"
+    },
+    {
+      "t": "S",
+      "v": "moyen",
+      "n": "Difficulty"
+    },
+    {
+      "t": "S",
+      "v": "tower",
+      "n": "ForbiddenWords"
+    },
+    {
+      "t": "S",
+      "v": "Tour de Pise|Tour penchée|Tour penchée de la pizza|La tour penchée de Pise|La tour penchée|la tour penchée de la pizza ",
+      "n": "AlternateSpellings"
+    }
+  ]
+}

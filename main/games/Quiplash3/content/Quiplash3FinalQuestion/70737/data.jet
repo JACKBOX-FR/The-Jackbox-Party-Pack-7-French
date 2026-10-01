@@ -1,0 +1,44 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Keywords"
+    },
+    {
+      "t": "A",
+      "v": "response",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponseText"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPromptAudio"
+    },
+    {
+      "t": "A",
+      "v": "prompt",
+      "n": "PromptAudio"
+    },
+    {
+      "t": "S",
+      "v": "Trois façons de faire passer votre prochaine réunion de club de lecture à un niveau supérieur ",
+      "n": "PromptText"
+    },
+    {
+      "t": "S",
+      "v": "un livre sur les loups-garous|une carte au trésor|une septième bouteille de vin !|un enlèvement extraterrestre|une appendicectomie d'urgence|un buffet de nachos|des livres audio uniquement|ou des émissions de télévision|ou tout simplement l'annuler ",
+      "n": "SafetyQuips"
+    }
+  ]
+}

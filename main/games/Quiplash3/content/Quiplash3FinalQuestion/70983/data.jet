@@ -1,0 +1,44 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Keywords"
+    },
+    {
+      "t": "A",
+      "v": "response",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponseText"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPromptAudio"
+    },
+    {
+      "t": "A",
+      "v": "prompt",
+      "n": "PromptAudio"
+    },
+    {
+      "t": "S",
+      "v": "Les trois choses les plus satisfaisantes à crier du haut d'une montagne ",
+      "n": "PromptText"
+    },
+    {
+      "t": "S",
+      "v": "Je suis le roi du monde|Yippie-Ki-Yay|Je suis enceinte|Je suis libre|Je t'aime|J'ai perdu mon contact|Sarah !|La vérité est là-bas|Riiiiiiicola ! ",
+      "n": "SafetyQuips"
+    }
+  ]
+}

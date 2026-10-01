@@ -1,0 +1,34 @@
+{
+  "fields": [
+    {
+      "t": "S",
+      "v": "Dark Vador ",
+      "n": "Password"
+    },
+    {
+      "t": "S",
+      "v": "personne",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "fictif",
+      "n": "Subcategory"
+    },
+    {
+      "t": "S",
+      "v": "facile",
+      "n": "Difficulty"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "ForbiddenWords"
+    },
+    {
+      "t": "S",
+      "v": "Vador|Dark Vador|Darth Vadar|Vadar|Dark Vadar|Anakin Skywalker|Anakin|Ani|Anikin|Darth|Lil Ani|Lil' Ani|Petite Ani|Anni|Lil Anni|Lil' Anni|Petite Anni ",
+      "n": "AlternateSpellings"
+    }
+  ]
+}

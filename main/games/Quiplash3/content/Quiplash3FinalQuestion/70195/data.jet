@@ -1,0 +1,44 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Keywords"
+    },
+    {
+      "t": "A",
+      "v": "response",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponseText"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPromptAudio"
+    },
+    {
+      "t": "A",
+      "v": "prompt",
+      "n": "PromptAudio"
+    },
+    {
+      "t": "S",
+      "v": "Les trois choses que vous devez faire pour survivre à une apocalypse zombie ",
+      "n": "PromptText"
+    },
+    {
+      "t": "S",
+      "v": "trouver un endroit sûr | aider les étrangers | apprendre que l'humanité est un vrai monstre | s'accroupir | jouer à des jeux vidéo | j'espère que tout s'arrêtera | s'habiller comme un zombie sexy | attirer l'attention du zombie | frapper avec un maillet de dessin animé ",
+      "n": "SafetyQuips"
+    }
+  ]
+}

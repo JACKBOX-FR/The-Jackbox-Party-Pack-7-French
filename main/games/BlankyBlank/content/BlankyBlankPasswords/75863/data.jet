@@ -1,0 +1,34 @@
+{
+  "fields": [
+    {
+      "t": "S",
+      "v": "Cap Canaveral ",
+      "n": "Password"
+    },
+    {
+      "t": "S",
+      "v": "lieu",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "cuturel",
+      "n": "Subcategory"
+    },
+    {
+      "t": "S",
+      "v": "difficile",
+      "n": "Difficulty"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "ForbiddenWords"
+    },
+    {
+      "t": "S",
+      "v": "Centre spatial Kennedy|Cape Kennedy|Côte spatiale|Le centre spatial Kennedy|La côte spatiale|Merritt Island|Canaveral|Canaveral National Seashore|Côte spatiale de Canaveral|Spacecoast|Station aérienne de Cap Canaveral|Le centre spatial|Centre spatial|Port Canaveral|JFK Cape|Centre spatial JFK|Cape Canaveral en Floride|Centre spatial de la NASA|Station spatiale de Floride|Centre spatial de Floride|Canaveral en Floride|Côte spatiale de Floride ",
+      "n": "AlternateSpellings"
+    }
+  ]
+}

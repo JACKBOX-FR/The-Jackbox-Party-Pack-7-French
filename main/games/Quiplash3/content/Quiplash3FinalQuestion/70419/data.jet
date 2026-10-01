@@ -1,0 +1,44 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Keywords"
+    },
+    {
+      "t": "A",
+      "v": "response",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponseText"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPromptAudio"
+    },
+    {
+      "t": "A",
+      "v": "prompt",
+      "n": "PromptAudio"
+    },
+    {
+      "t": "S",
+      "v": "Les trois domaines dans lesquels le Canada est le leader mondial ",
+      "n": "PromptText"
+    },
+    {
+      "t": "S",
+      "v": "bière|politesse|Torontos|orignal|caribou|cerfs, en général|sapins|Ryan Reynolds|c'est tout ? ",
+      "n": "SafetyQuips"
+    }
+  ]
+}

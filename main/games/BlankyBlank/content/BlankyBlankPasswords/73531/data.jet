@@ -1,0 +1,34 @@
+{
+  "fields": [
+    {
+      "t": "S",
+      "v": "Tortues Ninja adolescentes mutantes ",
+      "n": "Password"
+    },
+    {
+      "t": "S",
+      "v": "histoire",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "film d'animation",
+      "n": "Subcategory"
+    },
+    {
+      "t": "S",
+      "v": "moyen",
+      "n": "Difficulty"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "ForbiddenWords"
+    },
+    {
+      "t": "S",
+      "v": "TMNT | Tortues Ninja | Les Tortues Ninja Teenage Mutant | Tortues Ninja Teen Mutant | Tortues Héros Teenage Mutant | TMHT ",
+      "n": "AlternateSpellings"
+    }
+  ]
+}

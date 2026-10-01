@@ -1,0 +1,34 @@
+{
+  "fields": [
+    {
+      "t": "S",
+      "v": "George R. R. Martin ",
+      "n": "Password"
+    },
+    {
+      "t": "S",
+      "v": "personne",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "auteur",
+      "n": "Subcategory"
+    },
+    {
+      "t": "S",
+      "v": "moyen",
+      "n": "Difficulty"
+    },
+    {
+      "t": "S",
+      "v": "game",
+      "n": "ForbiddenWords"
+    },
+    {
+      "t": "S",
+      "v": "Martin|George Martin|GRRM|George RR Martin|George Raymond Richard Martin|George RR Martin|George RR Martin ",
+      "n": "AlternateSpellings"
+    }
+  ]
+}

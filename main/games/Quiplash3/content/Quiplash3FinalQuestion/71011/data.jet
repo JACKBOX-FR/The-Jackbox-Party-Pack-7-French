@@ -1,0 +1,44 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Keywords"
+    },
+    {
+      "t": "A",
+      "v": "response",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponseText"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPromptAudio"
+    },
+    {
+      "t": "A",
+      "v": "prompt",
+      "n": "PromptAudio"
+    },
+    {
+      "t": "S",
+      "v": "Trois choses avec lesquelles vous ne devriez jamais farcir un taco ",
+      "n": "PromptText"
+    },
+    {
+      "t": "S",
+      "v": "regretter|uranium dépensé|coriandre|bugs morts|bugs vivants|sauf si vous l'aimez|ours gommeux|vers gommeux|évitez simplement les \"gummy\" ",
+      "n": "SafetyQuips"
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Keywords"
+    },
+    {
+      "t": "A",
+      "v": "response",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponseText"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPromptAudio"
+    },
+    {
+      "t": "A",
+      "v": "prompt",
+      "n": "PromptAudio"
+    },
+    {
+      "t": "S",
+      "v": "Une façon plus douce de dire « faible nombre de spermatozoïdes » ",
+      "n": "PromptText"
+    },
+    {
+      "t": "S",
+      "v": "Les garçons sont seuls|Pas autant de poissons dans la mer|pas beaucoup de pétillant dans ton... tu sais ",
+      "n": "SafetyQuips"
+    }
+  ]
+}

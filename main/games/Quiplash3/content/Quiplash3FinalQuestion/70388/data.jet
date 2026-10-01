@@ -1,0 +1,44 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Keywords"
+    },
+    {
+      "t": "A",
+      "v": "response",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponseText"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPromptAudio"
+    },
+    {
+      "t": "A",
+      "v": "prompt",
+      "n": "PromptAudio"
+    },
+    {
+      "t": "S",
+      "v": "Les trois habitudes les plus ennuyeuses au monde ",
+      "n": "PromptText"
+    },
+    {
+      "t": "S",
+      "v": "claquement de lèvres | craquement des jointures | léchage de doigts | bourdonnement | bourdonnement fort | bourdonnement fort pendant l'opération | cracher | se curer le nez | jouer du banjo ",
+      "n": "SafetyQuips"
+    }
+  ]
+}

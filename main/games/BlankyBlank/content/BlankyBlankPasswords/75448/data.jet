@@ -1,0 +1,34 @@
+{
+  "fields": [
+    {
+      "t": "S",
+      "v": "Bradley Cooper ",
+      "n": "Password"
+    },
+    {
+      "t": "S",
+      "v": "personne",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "acteur",
+      "n": "Subcategory"
+    },
+    {
+      "t": "S",
+      "v": "difficile",
+      "n": "Difficulty"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "ForbiddenWords"
+    },
+    {
+      "t": "S",
+      "v": "Cooper|Brad Cooper|Bradley Coops|Bradley Charles Cooper|Bradly Cooper|Bradely Cooper|Brady Cooper|Bradley Cuivre|Bradly Cuivre ",
+      "n": "AlternateSpellings"
+    }
+  ]
+}

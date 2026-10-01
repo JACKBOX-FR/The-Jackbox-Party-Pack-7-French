@@ -1,0 +1,34 @@
+{
+  "fields": [
+    {
+      "t": "S",
+      "v": "Le garçon qui criait au loup ",
+      "n": "Password"
+    },
+    {
+      "t": "S",
+      "v": "histoire",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "mythe",
+      "n": "Subcategory"
+    },
+    {
+      "t": "S",
+      "v": "moyen",
+      "n": "Difficulty"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "ForbiddenWords"
+    },
+    {
+      "t": "S",
+      "v": "Le garçon qui criait au loup|Le garçon criait au loup|Le garçon criait au loup|Le garçon qui criait au loup|Le garçon criait au loup|Le garçon criait au loup ",
+      "n": "AlternateSpellings"
+    }
+  ]
+}

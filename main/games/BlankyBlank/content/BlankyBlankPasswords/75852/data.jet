@@ -1,0 +1,34 @@
+{
+  "fields": [
+    {
+      "t": "S",
+      "v": "LinkedIn ",
+      "n": "Password"
+    },
+    {
+      "t": "S",
+      "v": "chose",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "sites web",
+      "n": "Subcategory"
+    },
+    {
+      "t": "S",
+      "v": "moyen",
+      "n": "Difficulty"
+    },
+    {
+      "t": "S",
+      "v": "link|linking",
+      "n": "ForbiddenWords"
+    },
+    {
+      "t": "S",
+      "v": "Linkedin|linkin|lien vers",
+      "n": "AlternateSpellings"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "fields": [
+    {
+      "t": "S",
+      "v": "Pikachu ",
+      "n": "Password"
+    },
+    {
+      "t": "S",
+      "v": "personne",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "fictif",
+      "n": "Subcategory"
+    },
+    {
+      "t": "S",
+      "v": "facile",
+      "n": "Difficulty"
+    },
+    {
+      "t": "S",
+      "v": "electric",
+      "n": "ForbiddenWords"
+    },
+    {
+      "t": "S",
+      "v": "Peekachu|Pikachew|Pickachu|Picachu|Picachew|Pickachue|Pikachue ",
+      "n": "AlternateSpellings"
+    }
+  ]
+}

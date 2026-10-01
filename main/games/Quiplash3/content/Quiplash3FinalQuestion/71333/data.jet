@@ -1,0 +1,44 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Keywords"
+    },
+    {
+      "t": "A",
+      "v": "response",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponseText"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPromptAudio"
+    },
+    {
+      "t": "A",
+      "v": "prompt",
+      "n": "PromptAudio"
+    },
+    {
+      "t": "S",
+      "v": "Les trois termes que les cool kids utilisent aujourd’hui pour désigner la constipation ",
+      "n": "PromptText"
+    },
+    {
+      "t": "S",
+      "v": "blocs de fesses|pas permis|temps difficiles|anti-diarrhée|embouteillages|pushies|ouchers|passoires|renflement des yeux ",
+      "n": "SafetyQuips"
+    }
+  ]
+}

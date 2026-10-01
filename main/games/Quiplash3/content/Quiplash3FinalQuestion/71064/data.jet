@@ -1,0 +1,44 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Keywords"
+    },
+    {
+      "t": "A",
+      "v": "response",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponseText"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPromptAudio"
+    },
+    {
+      "t": "A",
+      "v": "prompt",
+      "n": "PromptAudio"
+    },
+    {
+      "t": "S",
+      "v": "Quand on y pense, il n’y a SEULEMENT trois émotions. Ils sont... ",
+      "n": "PromptText"
+    },
+    {
+      "t": "S",
+      "v": "colère|tristesse|une combinaison de 1 et 2|faim|assoiffé|gazeux|en colère|excuse|prêt à se mettre à nouveau en colère ",
+      "n": "SafetyQuips"
+    }
+  ]
+}

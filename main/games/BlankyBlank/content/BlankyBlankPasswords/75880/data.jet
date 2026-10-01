@@ -1,0 +1,34 @@
+{
+  "fields": [
+    {
+      "t": "S",
+      "v": "Les Grands Lacs ",
+      "n": "Password"
+    },
+    {
+      "t": "S",
+      "v": "lieu",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "eauy",
+      "n": "Subcategory"
+    },
+    {
+      "t": "S",
+      "v": "moyen",
+      "n": "Difficulty"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "ForbiddenWords"
+    },
+    {
+      "t": "S",
+      "v": "Grands Lacs|Grands Lacs d'Amérique du Nord|Les Grands Lacs d'Amérique du Nord|Grands Lacs d'Amérique du Nord|Les Grands Lacs d'Amérique du Nord|Bassin des Grands Lacs|Le bassin des Grands Lacs ",
+      "n": "AlternateSpellings"
+    }
+  ]
+}

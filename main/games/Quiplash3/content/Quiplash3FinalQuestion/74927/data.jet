@@ -1,0 +1,44 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Keywords"
+    },
+    {
+      "t": "A",
+      "v": "response",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponseText"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPromptAudio"
+    },
+    {
+      "t": "A",
+      "v": "prompt",
+      "n": "PromptAudio"
+    },
+    {
+      "t": "S",
+      "v": "L'histoire en trois actes de votre vie, jusqu'à présent ",
+      "n": "PromptText"
+    },
+    {
+      "t": "S",
+      "v": "Je suis né|Je suis allé à l'université|c'était cher|J'étais un enfant heureux|un adolescent moins heureux|puis j'ai combattu un loup-garou|J'ai grandi dans une petite ville|j'ai rencontré l'amour de ma vie|j'ai eu un chien la semaine dernière ",
+      "n": "SafetyQuips"
+    }
+  ]
+}

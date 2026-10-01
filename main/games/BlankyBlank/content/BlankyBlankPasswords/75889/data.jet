@@ -1,0 +1,29 @@
+{
+  "fields": [
+    {
+      "t": "S",
+      "v": "Spray corporel à la hache ",
+      "n": "Password"
+    },
+    {
+      "t": "S",
+      "v": "chose",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "difficile",
+      "n": "Difficulty"
+    },
+    {
+      "t": "S",
+      "v": "axe|body|spray",
+      "n": "ForbiddenWords"
+    },
+    {
+      "t": "S",
+      "v": "Axe|Axe spray|Lynx|Ax body spray|Ax|Ax spray|Ax deodorant|Axe deodorant|lynx body spray",
+      "n": "AlternateSpellings"
+    }
+  ]
+}

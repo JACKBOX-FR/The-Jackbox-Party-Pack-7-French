@@ -1,0 +1,44 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "S",
+      "v": "Quiplash|Quiplash3|Quiplash 3|Quiplash!",
+      "n": "Keywords"
+    },
+    {
+      "t": "A",
+      "v": "response",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "t": "S",
+      "v": "Yeah, you don’t say “Quiplash” during your wedding. You save it for the wedding night.",
+      "n": "KeywordResponseText"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPromptAudio"
+    },
+    {
+      "t": "A",
+      "v": "prompt",
+      "n": "PromptAudio"
+    },
+    {
+      "t": "S",
+      "v": "La pire chose à dire au lieu de « oui » à votre mariage ",
+      "n": "PromptText"
+    },
+    {
+      "t": "S",
+      "v": "\"quelqu'un d'autre le fait\"|\"Bien sûr\" *hausse les épaules*|\"Redemande plus tard\" ",
+      "n": "SafetyQuips"
+    }
+  ]
+}

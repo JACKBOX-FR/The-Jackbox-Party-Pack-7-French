@@ -1,0 +1,34 @@
+{
+  "fields": [
+    {
+      "t": "S",
+      "v": "En attendant Godot ",
+      "n": "Password"
+    },
+    {
+      "t": "S",
+      "v": "histoire",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "théâtre",
+      "n": "Subcategory"
+    },
+    {
+      "t": "S",
+      "v": "difficile",
+      "n": "Difficulty"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "ForbiddenWords"
+    },
+    {
+      "t": "S",
+      "v": "En attendant Gadot|En attendant Gudot|En attendant Godoe|En attendant Gudoe|En attendant Gadoe|En attendant Gadoh|En attendant Godoh|En attendant Gudoh ",
+      "n": "AlternateSpellings"
+    }
+  ]
+}

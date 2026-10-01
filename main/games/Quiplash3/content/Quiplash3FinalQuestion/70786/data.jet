@@ -1,0 +1,44 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Keywords"
+    },
+    {
+      "t": "A",
+      "v": "response",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponseText"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPromptAudio"
+    },
+    {
+      "t": "A",
+      "v": "prompt",
+      "n": "PromptAudio"
+    },
+    {
+      "t": "S",
+      "v": "Trois façons d'égayer votre vieille eau ennuyeuse ",
+      "n": "PromptText"
+    },
+    {
+      "t": "S",
+      "v": "oranges | concombres | clous rouillés | gazéifiez-le | secouez-le | noyer une ville avec | buvez-le sur des montagnes russes | mettez-y un poisson | déposez-y une bouteille de fusée ",
+      "n": "SafetyQuips"
+    }
+  ]
+}

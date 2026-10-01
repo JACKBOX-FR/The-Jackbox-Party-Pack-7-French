@@ -1,0 +1,44 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Keywords"
+    },
+    {
+      "t": "A",
+      "v": "response",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponseText"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPromptAudio"
+    },
+    {
+      "t": "A",
+      "v": "prompt",
+      "n": "PromptAudio"
+    },
+    {
+      "t": "S",
+      "v": "Trois tendances de mode étranges qui ne feront jamais leur chemin ",
+      "n": "PromptText"
+    },
+    {
+      "t": "S",
+      "v": "pantalons sans pantalon|chemises torse nu|skorts|chapeaux combustibles|foulards à viande|shorts cargo|nœuds papillon au nombril|chaussettes de nez|manches supplémentaires ",
+      "n": "SafetyQuips"
+    }
+  ]
+}

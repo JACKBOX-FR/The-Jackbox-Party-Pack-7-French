@@ -1,0 +1,34 @@
+{
+  "fields": [
+    {
+      "t": "S",
+      "v": "Maison hantée ",
+      "n": "Password"
+    },
+    {
+      "t": "S",
+      "v": "lieu",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Subcategory"
+    },
+    {
+      "t": "S",
+      "v": "facile",
+      "n": "Difficulty"
+    },
+    {
+      "t": "S",
+      "v": "ghost",
+      "n": "ForbiddenWords"
+    },
+    {
+      "t": "S",
+      "v": "manoir hanté|maisons hantées|manoirs hantés|une maison hantée|un manoir hanté|le manoir hanté|maison fantôme|maison d'horreur ",
+      "n": "AlternateSpellings"
+    }
+  ]
+}

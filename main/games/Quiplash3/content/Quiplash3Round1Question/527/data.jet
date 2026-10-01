@@ -1,0 +1,44 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Keywords"
+    },
+    {
+      "t": "A",
+      "v": "response",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponseText"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPromptAudio"
+    },
+    {
+      "t": "A",
+      "v": "prompt",
+      "n": "PromptAudio"
+    },
+    {
+      "t": "S",
+      "v": "Le nom du film d'action le plus docile jamais réalisé ",
+      "n": "PromptText"
+    },
+    {
+      "t": "S",
+      "v": "Le lent et le serein|La balançoire du porche de Rambo|Spider-Man mis en quarantaine à la maison ",
+      "n": "SafetyQuips"
+    }
+  ]
+}

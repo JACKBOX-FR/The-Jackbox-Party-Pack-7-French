@@ -1,0 +1,44 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Keywords"
+    },
+    {
+      "t": "A",
+      "v": "response",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponseText"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPromptAudio"
+    },
+    {
+      "t": "A",
+      "v": "prompt",
+      "n": "PromptAudio"
+    },
+    {
+      "t": "S",
+      "v": "Quelle a été la DEUXIÈME chose qu’Alexander Graham Bell a dite lors du tout premier appel téléphonique ? ",
+      "n": "PromptText"
+    },
+    {
+      "t": "S",
+      "v": "Pouvez-vous m'entendre maintenant ?|Envoyez-moi simplement un message. ",
+      "n": "SafetyQuips"
+    }
+  ]
+}

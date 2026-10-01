@@ -1,0 +1,34 @@
+{
+  "fields": [
+    {
+      "t": "S",
+      "v": "Les X-Files ",
+      "n": "Password"
+    },
+    {
+      "t": "S",
+      "v": "histoire",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "tv",
+      "n": "Subcategory"
+    },
+    {
+      "t": "S",
+      "v": "moyen",
+      "n": "Difficulty"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "ForbiddenWords"
+    },
+    {
+      "t": "S",
+      "v": "X-Files|X Files|les Ex Files|Les Xfiles|Xfiles|Les X Files|Les Ex-Files|Ex Files|Ex-Files|Le X-File|X-File|Le X File|X File|Xfile|Le Xfile ",
+      "n": "AlternateSpellings"
+    }
+  ]
+}

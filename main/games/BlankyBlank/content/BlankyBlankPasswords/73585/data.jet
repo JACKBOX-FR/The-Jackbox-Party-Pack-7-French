@@ -1,0 +1,34 @@
+{
+  "fields": [
+    {
+      "t": "S",
+      "v": "La princesse mariée ",
+      "n": "Password"
+    },
+    {
+      "t": "S",
+      "v": "histoire",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "film",
+      "n": "Subcategory"
+    },
+    {
+      "t": "S",
+      "v": "moyen",
+      "n": "Difficulty"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "ForbiddenWords"
+    },
+    {
+      "t": "S",
+      "v": "Princesse mariée|La mariée des princesses|La mariée des princesses|La mariée du prince|La mariée du prince|La mariée des princes|La mariée des princes|La mariée de la princesse|La mariée de la princesse|La mariée de la princesse|La mariée de la princesse ",
+      "n": "AlternateSpellings"
+    }
+  ]
+}

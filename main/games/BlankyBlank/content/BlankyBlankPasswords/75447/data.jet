@@ -1,0 +1,34 @@
+{
+  "fields": [
+    {
+      "t": "S",
+      "v": "Ours fumant ",
+      "n": "Password"
+    },
+    {
+      "t": "S",
+      "v": "personne",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "fictif",
+      "n": "Subcategory"
+    },
+    {
+      "t": "S",
+      "v": "facile",
+      "n": "Difficulty"
+    },
+    {
+      "t": "S",
+      "v": "Smoky|Smokey|smoked",
+      "n": "ForbiddenWords"
+    },
+    {
+      "t": "S",
+      "v": "Smokey l'ours|Smoky l'ours|Smoky Bear ",
+      "n": "AlternateSpellings"
+    }
+  ]
+}

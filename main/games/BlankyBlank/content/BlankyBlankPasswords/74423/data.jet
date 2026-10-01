@@ -1,0 +1,34 @@
+{
+  "fields": [
+    {
+      "t": "S",
+      "v": "Jeanne d'Arc ",
+      "n": "Password"
+    },
+    {
+      "t": "S",
+      "v": "personne",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "historique",
+      "n": "Subcategory"
+    },
+    {
+      "t": "S",
+      "v": "moyen",
+      "n": "Difficulty"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "ForbiddenWords"
+    },
+    {
+      "t": "S",
+      "v": "Jeanne d'Arc|La Pucelle d'Orléans|La Pucelle d'Orléans|Joane d'Arc|Joana Arc|Jeanne d'Arche|Joane Arche|Joane d'Arche",
+      "n": "AlternateSpellings"
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Keywords"
+    },
+    {
+      "t": "A",
+      "v": "response",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponseText"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPromptAudio"
+    },
+    {
+      "t": "A",
+      "v": "prompt",
+      "n": "PromptAudio"
+    },
+    {
+      "t": "S",
+      "v": "Trois choses qu'un milliard de billets vous rapporteront au comptoir des prix d'arcade ",
+      "n": "PromptText"
+    },
+    {
+      "t": "S",
+      "v": "de jolies gommes|un bracelet à pression|la présidence américaine|le tigre en peluche|le t-shirt Bob l'Éponge|un million de marionnettes à doigts|une voiture de sport|un appartement de trois chambres|une appendicectomie ",
+      "n": "SafetyQuips"
+    }
+  ]
+}

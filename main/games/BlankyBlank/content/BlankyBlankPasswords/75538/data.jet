@@ -1,0 +1,34 @@
+{
+  "fields": [
+    {
+      "t": "S",
+      "v": "Le lapin de velours ",
+      "n": "Password"
+    },
+    {
+      "t": "S",
+      "v": "histoire",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "livre",
+      "n": "Subcategory"
+    },
+    {
+      "t": "S",
+      "v": "moyen",
+      "n": "Difficulty"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "ForbiddenWords"
+    },
+    {
+      "t": "S",
+      "v": "Lapin de velours|Comment les jouets deviennent réels|Le lapin Velveeta|Le lapin Velvateen|Lapin Velvateen|Le lapin de velours|Lapin de velours ",
+      "n": "AlternateSpellings"
+    }
+  ]
+}

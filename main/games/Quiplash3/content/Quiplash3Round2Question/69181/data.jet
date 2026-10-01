@@ -1,0 +1,44 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Keywords"
+    },
+    {
+      "t": "A",
+      "v": "response",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponseText"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPromptAudio"
+    },
+    {
+      "t": "A",
+      "v": "prompt",
+      "n": "PromptAudio"
+    },
+    {
+      "t": "S",
+      "v": "Un bon signe que ta grand-mère te déteste ",
+      "n": "PromptText"
+    },
+    {
+      "t": "S",
+      "v": "Points de croix \"Tu n'es pas bon\" | N'arrête pas de t'appeler \"Mon seul regret\" | Sa tarte aux pommes tourne ",
+      "n": "SafetyQuips"
+    }
+  ]
+}

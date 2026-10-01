@@ -1,0 +1,44 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Keywords"
+    },
+    {
+      "t": "A",
+      "v": "response",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponseText"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPromptAudio"
+    },
+    {
+      "t": "A",
+      "v": "prompt",
+      "n": "PromptAudio"
+    },
+    {
+      "t": "S",
+      "v": "Les trois choses les plus grossières au micro-ondes au travail ",
+      "n": "PromptText"
+    },
+    {
+      "t": "S",
+      "v": "papier d'aluminium|casserole de thon|Iron Man|poisson|légumes fermentés|viande puante|vieilles frites|burritos rassis|maïs impoppable ",
+      "n": "SafetyQuips"
+    }
+  ]
+}

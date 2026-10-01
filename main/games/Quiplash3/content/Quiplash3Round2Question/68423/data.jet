@@ -1,0 +1,44 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Keywords"
+    },
+    {
+      "t": "A",
+      "v": "response",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponseText"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPromptAudio"
+    },
+    {
+      "t": "A",
+      "v": "prompt",
+      "n": "PromptAudio"
+    },
+    {
+      "t": "S",
+      "v": "La raison pour laquelle vous avez été retiré du testament de votre grand-père ",
+      "n": "PromptText"
+    },
+    {
+      "t": "S",
+      "v": "mon pantalon a révélé mes chevilles | je me suis battu à propos des œufs fermiers | je suis si riche que je n'ai pas besoin de son argent ",
+      "n": "SafetyQuips"
+    }
+  ]
+}

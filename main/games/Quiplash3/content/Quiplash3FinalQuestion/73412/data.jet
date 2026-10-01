@@ -1,0 +1,44 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Keywords"
+    },
+    {
+      "t": "A",
+      "v": "response",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponseText"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPromptAudio"
+    },
+    {
+      "t": "A",
+      "v": "prompt",
+      "n": "PromptAudio"
+    },
+    {
+      "t": "S",
+      "v": "Trois arrière-plans Zoom que personne ne demande ",
+      "n": "PromptText"
+    },
+    {
+      "t": "S",
+      "v": "une usine de saucisses|chirurgie des orteils|une ferme de fourmis|une rediffusion de Matlock|débats budgétaires|accidents de chariot élévateur|un clown regardant|une boule de sangsues|un gros plan de pellicules ",
+      "n": "SafetyQuips"
+    }
+  ]
+}

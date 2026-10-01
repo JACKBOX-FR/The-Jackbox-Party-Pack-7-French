@@ -1,0 +1,44 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Keywords"
+    },
+    {
+      "t": "A",
+      "v": "response",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponseText"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPromptAudio"
+    },
+    {
+      "t": "A",
+      "v": "prompt",
+      "n": "PromptAudio"
+    },
+    {
+      "t": "S",
+      "v": "Mère t'a traité de « tyran tout-petit » quand tu <BLANK> ",
+      "n": "PromptText"
+    },
+    {
+      "t": "S",
+      "v": "a fait jurer la classe fidélité à votre royaume | a procédé régulièrement à des exécutions de jouets | a violé les Conventions de Genève ",
+      "n": "SafetyQuips"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "fields": [
+    {
+      "t": "S",
+      "v": "J'aime Lucie ",
+      "n": "Password"
+    },
+    {
+      "t": "S",
+      "v": "histoire",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "tv",
+      "n": "Subcategory"
+    },
+    {
+      "t": "S",
+      "v": "difficile",
+      "n": "Difficulty"
+    },
+    {
+      "t": "S",
+      "v": "love",
+      "n": "ForbiddenWords"
+    },
+    {
+      "t": "S",
+      "v": "J'aime Lucy | j'aime Lucy ",
+      "n": "AlternateSpellings"
+    }
+  ]
+}

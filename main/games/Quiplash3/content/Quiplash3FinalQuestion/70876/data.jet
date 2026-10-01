@@ -1,0 +1,44 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Keywords"
+    },
+    {
+      "t": "A",
+      "v": "response",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponseText"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPromptAudio"
+    },
+    {
+      "t": "A",
+      "v": "prompt",
+      "n": "PromptAudio"
+    },
+    {
+      "t": "S",
+      "v": "Elle est incroyable ! ... mais quels sont les trois rôles qui mettraient au défi même Meryl Streep ? ",
+      "n": "PromptText"
+    },
+    {
+      "t": "S",
+      "v": "Batman|le Lone Ranger|une dame nommée Sophie|une méchante dame|une femme désagréable|quelqu'un dont je ne suis pas amoureux|Deadpool|Pikachu|Le mari de Blake Lively ",
+      "n": "SafetyQuips"
+    }
+  ]
+}

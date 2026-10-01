@@ -1,0 +1,44 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Keywords"
+    },
+    {
+      "t": "A",
+      "v": "response",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponseText"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPromptAudio"
+    },
+    {
+      "t": "A",
+      "v": "prompt",
+      "n": "PromptAudio"
+    },
+    {
+      "t": "S",
+      "v": "Ce n'est qu'une question de temps avant que quelqu'un fouille le téléphone de <ANYPLAYER> et trouve <BLANK> ",
+      "n": "PromptText"
+    },
+    {
+      "t": "S",
+      "v": "vos mèmes|une deuxième famille|photos de narines en gros plan ",
+      "n": "SafetyQuips"
+    }
+  ]
+}

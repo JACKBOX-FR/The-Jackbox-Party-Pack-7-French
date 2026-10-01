@@ -1,0 +1,44 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "S",
+      "v": "<PRONOUN> farts | farts|farting|passing gas",
+      "n": "Keywords"
+    },
+    {
+      "t": "A",
+      "v": "response",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "t": "S",
+      "v": "Absolutely, it’s a basic human right outlined in several papers including the Magna Farta.",
+      "n": "KeywordResponseText"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPromptAudio"
+    },
+    {
+      "t": "A",
+      "v": "prompt",
+      "n": "PromptAudio"
+    },
+    {
+      "t": "S",
+      "v": "Rien n'est certain à part la mort et les impôts... oh, aussi <BLANK>",
+      "n": "PromptText"
+    },
+    {
+      "t": "S",
+      "v": "happy hour|changement climatique|angoisse des adolescents ",
+      "n": "SafetyQuips"
+    }
+  ]
+}

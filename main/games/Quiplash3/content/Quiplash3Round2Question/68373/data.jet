@@ -1,0 +1,44 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Keywords"
+    },
+    {
+      "t": "A",
+      "v": "response",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponseText"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPromptAudio"
+    },
+    {
+      "t": "A",
+      "v": "prompt",
+      "n": "PromptAudio"
+    },
+    {
+      "t": "S",
+      "v": "Le thriller érotique que personne ne veut voir : <i>Les journaux interdits de</i> <BLANK> ",
+      "n": "PromptText"
+    },
+    {
+      "t": "S",
+      "v": "cercle de tricot mamans|mon professeur d'algèbre|coquillages ",
+      "n": "SafetyQuips"
+    }
+  ]
+}

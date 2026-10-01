@@ -1,0 +1,44 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Keywords"
+    },
+    {
+      "t": "A",
+      "v": "response",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponseText"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPromptAudio"
+    },
+    {
+      "t": "A",
+      "v": "prompt",
+      "n": "PromptAudio"
+    },
+    {
+      "t": "S",
+      "v": "Comment deux flics mal assortis passent-ils le temps lors d'une surveillance ? ",
+      "n": "PromptText"
+    },
+    {
+      "t": "S",
+      "v": "regarder Lethal Weapon|tomber amoureux|\"Alors, qu'en est-il de ce temps, hein ?\" ",
+      "n": "SafetyQuips"
+    }
+  ]
+}

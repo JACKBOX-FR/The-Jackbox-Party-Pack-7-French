@@ -1,0 +1,44 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Keywords"
+    },
+    {
+      "t": "A",
+      "v": "response",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponseText"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPromptAudio"
+    },
+    {
+      "t": "A",
+      "v": "prompt",
+      "n": "PromptAudio"
+    },
+    {
+      "t": "S",
+      "v": "La vraie raison pour laquelle les requins ne vont pas sur terre ",
+      "n": "PromptText"
+    },
+    {
+      "t": "S",
+      "v": "le McRib n'est pas encore de retour|propagande pro-poisson|trop petit pour monter sur des montagnes russes ",
+      "n": "SafetyQuips"
+    }
+  ]
+}

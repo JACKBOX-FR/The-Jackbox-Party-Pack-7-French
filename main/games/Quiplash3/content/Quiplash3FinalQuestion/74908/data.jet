@@ -1,0 +1,44 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Keywords"
+    },
+    {
+      "t": "A",
+      "v": "response",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponseText"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPromptAudio"
+    },
+    {
+      "t": "A",
+      "v": "prompt",
+      "n": "PromptAudio"
+    },
+    {
+      "t": "S",
+      "v": "Trois choses qui se sont produites au Monster Mash et qu'ils ne pouvaient pas chanter ",
+      "n": "PromptText"
+    },
+    {
+      "t": "S",
+      "v": "Frankenstein a fait caca dans son pantalon|Wolfman a volé de la monnaie|Dracula s'est cassé la cheville|La momie a bouché les toilettes|Dracula est devenu mono|Ils ont manqué des cochons dans une couverture|C'était plus une fête qu'une purée|C'était au YMCA|Ils étaient tous très polis ",
+      "n": "SafetyQuips"
+    }
+  ]
+}

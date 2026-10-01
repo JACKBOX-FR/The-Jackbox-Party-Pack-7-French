@@ -1,0 +1,44 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Keywords"
+    },
+    {
+      "t": "A",
+      "v": "response",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponseText"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPromptAudio"
+    },
+    {
+      "t": "A",
+      "v": "prompt",
+      "n": "PromptAudio"
+    },
+    {
+      "t": "S",
+      "v": "Les trois étapes pour ramener les dinosaures ",
+      "n": "PromptText"
+    },
+    {
+      "t": "S",
+      "v": "achetez un lézard | nourrissez-le beaucoup | maintenant nourrissez-le davantage | achetez un gâteau | organisez une fête de bienvenue | j'espère qu'ils viendront | dites aux enfants qu'ils ne sont pas cool | dites-leur que vous les interdisez | entendez le rugissement des dinosaures dans le sous-sol ",
+      "n": "SafetyQuips"
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Keywords"
+    },
+    {
+      "t": "A",
+      "v": "response",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponseText"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPromptAudio"
+    },
+    {
+      "t": "A",
+      "v": "prompt",
+      "n": "PromptAudio"
+    },
+    {
+      "t": "S",
+      "v": "Un exercice de team building bien trop extrême pour la plupart des retraites d’entreprise ",
+      "n": "PromptText"
+    },
+    {
+      "t": "S",
+      "v": "chute de fiducie de trois étages|marche sur la lave volcanique|reconstitution de Rambo III ",
+      "n": "SafetyQuips"
+    }
+  ]
+}

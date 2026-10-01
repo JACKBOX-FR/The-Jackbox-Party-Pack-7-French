@@ -1,0 +1,34 @@
+{
+  "fields": [
+    {
+      "t": "S",
+      "v": "Décès d'un vendeur ",
+      "n": "Password"
+    },
+    {
+      "t": "S",
+      "v": "histoire",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "théâtre",
+      "n": "Subcategory"
+    },
+    {
+      "t": "S",
+      "v": "moyen",
+      "n": "Difficulty"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "ForbiddenWords"
+    },
+    {
+      "t": "S",
+      "v": "La mort d'un vendeur|Mort du vendeur|La mort du vendeur|Mort des vendeurs|La mort des vendeurs|La mort des vendeurs|Mort des vendeurs|Mort d'un vendeur|Mort du vendeur|La mort d'un vendeur|La mort du vendeur ",
+      "n": "AlternateSpellings"
+    }
+  ]
+}

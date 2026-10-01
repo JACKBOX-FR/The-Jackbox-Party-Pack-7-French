@@ -1,0 +1,44 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Keywords"
+    },
+    {
+      "t": "A",
+      "v": "response",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponseText"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPromptAudio"
+    },
+    {
+      "t": "A",
+      "v": "prompt",
+      "n": "PromptAudio"
+    },
+    {
+      "t": "S",
+      "v": "La dernière chose qu'un agent de sécurité d'un musée d'art souhaite trouver la nuit ",
+      "n": "PromptText"
+    },
+    {
+      "t": "S",
+      "v": "Quelqu'un a mangé tous les cadres|Conneries du Da Vinci Code|Adolescents masqués ",
+      "n": "SafetyQuips"
+    }
+  ]
+}

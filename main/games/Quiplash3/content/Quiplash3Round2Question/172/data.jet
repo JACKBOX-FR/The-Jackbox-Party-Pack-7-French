@@ -1,0 +1,44 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Keywords"
+    },
+    {
+      "t": "A",
+      "v": "response",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponseText"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPromptAudio"
+    },
+    {
+      "t": "A",
+      "v": "prompt",
+      "n": "PromptAudio"
+    },
+    {
+      "t": "S",
+      "v": "Un jeu sexuel conjugal dangereux : vous vous attachez au lit et ils <BLANK> ",
+      "n": "PromptText"
+    },
+    {
+      "t": "S",
+      "v": "jongler avec des tronçonneuses|acheter des jeux sur le darkweb|essayer de faire fonctionner le lave-vaisselle tout seul ",
+      "n": "SafetyQuips"
+    }
+  ]
+}

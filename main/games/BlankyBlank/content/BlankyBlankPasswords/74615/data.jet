@@ -1,0 +1,34 @@
+{
+  "fields": [
+    {
+      "t": "S",
+      "v": "gars de famille ",
+      "n": "Password"
+    },
+    {
+      "t": "S",
+      "v": "histoire",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "film d'animation",
+      "n": "Subcategory"
+    },
+    {
+      "t": "S",
+      "v": "moyen",
+      "n": "Difficulty"
+    },
+    {
+      "t": "S",
+      "v": "family|guy",
+      "n": "ForbiddenWords"
+    },
+    {
+      "t": "S",
+      "v": "Les gars de la famille|Les gars de la famille|Les gars de la famille|Peter Griffin|Les gars de la famille|Les gars de la famille|Les gars des familles ",
+      "n": "AlternateSpellings"
+    }
+  ]
+}

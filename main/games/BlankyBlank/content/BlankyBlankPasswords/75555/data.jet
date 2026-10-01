@@ -1,0 +1,34 @@
+{
+  "fields": [
+    {
+      "t": "S",
+      "v": "Four facile à cuire ",
+      "n": "Password"
+    },
+    {
+      "t": "S",
+      "v": "chose",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "jouet",
+      "n": "Subcategory"
+    },
+    {
+      "t": "S",
+      "v": "moyen",
+      "n": "Difficulty"
+    },
+    {
+      "t": "S",
+      "v": "bake|oven|easy",
+      "n": "ForbiddenWords"
+    },
+    {
+      "t": "S",
+      "v": "Four Easybake|Four facile à cuire|Easybake|Cuisson facile ",
+      "n": "AlternateSpellings"
+    }
+  ]
+}

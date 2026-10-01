@@ -1,0 +1,44 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Keywords"
+    },
+    {
+      "t": "A",
+      "v": "response",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponseText"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPromptAudio"
+    },
+    {
+      "t": "A",
+      "v": "prompt",
+      "n": "PromptAudio"
+    },
+    {
+      "t": "S",
+      "v": "Trois signes que vous devenez ennuyeux ",
+      "n": "PromptText"
+    },
+    {
+      "t": "S",
+      "v": "vos fêtes ont lieu à 8h du matin | et vous servez du lait à 2 % | tout le monde sort avant 9h | vous achetez une maison | entrez vraiment dans votre pelouse | lancez un podcast sur l'entretien de la pelouse ",
+      "n": "SafetyQuips"
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Keywords"
+    },
+    {
+      "t": "A",
+      "v": "response",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponseText"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPromptAudio"
+    },
+    {
+      "t": "A",
+      "v": "prompt",
+      "n": "PromptAudio"
+    },
+    {
+      "t": "S",
+      "v": "Ce que disent les vrais lutins sur leur apparition dans la culture pop ",
+      "n": "PromptText"
+    },
+    {
+      "t": "S",
+      "v": "Certains d'entre nous ont les cheveux bruns !|C'est quoi tous ces arcs-en-ciel ?|Nous ne sommes pas tous des hommes ! Pensez-y ! ",
+      "n": "SafetyQuips"
+    }
+  ]
+}

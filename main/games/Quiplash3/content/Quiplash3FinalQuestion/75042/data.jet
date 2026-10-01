@@ -1,0 +1,44 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Keywords"
+    },
+    {
+      "t": "A",
+      "v": "response",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponseText"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPromptAudio"
+    },
+    {
+      "t": "A",
+      "v": "prompt",
+      "n": "PromptAudio"
+    },
+    {
+      "t": "S",
+      "v": "Waouh ! Les scientifiques viennent de découvrir ces trois faits surprenants sur les pandas ! ",
+      "n": "PromptText"
+    },
+    {
+      "t": "S",
+      "v": "Ils peuvent voler|Ils meurent au soleil|Non, ce sont des vampires|Ils sont trop adorables|Ils détestent le bambou|Ils sont faits de guimauve|Ce ne sont pas des ours|Ce ne sont pas des chats|Ce sont en fait de grosses mouffettes ",
+      "n": "SafetyQuips"
+    }
+  ]
+}

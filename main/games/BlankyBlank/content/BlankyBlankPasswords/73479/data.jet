@@ -1,0 +1,34 @@
+{
+  "fields": [
+    {
+      "t": "S",
+      "v": "Charlie et la chocolaterie ",
+      "n": "Password"
+    },
+    {
+      "t": "S",
+      "v": "histoire",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "livre",
+      "n": "Subcategory"
+    },
+    {
+      "t": "S",
+      "v": "facile",
+      "n": "Difficulty"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "ForbiddenWords"
+    },
+    {
+      "t": "S",
+      "v": "Charlie et le grand ascenseur en verre|La chocolaterie|Charlie et l'ascenseur en verre|Willy Wonka|Willy Wonka et la chocolaterie|La chocolaterie de Willy Wonka ",
+      "n": "AlternateSpellings"
+    }
+  ]
+}

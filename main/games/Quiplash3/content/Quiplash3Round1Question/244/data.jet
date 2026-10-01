@@ -1,0 +1,44 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Keywords"
+    },
+    {
+      "t": "A",
+      "v": "response",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponseText"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPromptAudio"
+    },
+    {
+      "t": "A",
+      "v": "prompt",
+      "n": "PromptAudio"
+    },
+    {
+      "t": "S",
+      "v": "Règles relationnelles : ne vous couchez jamais en colère et ne vous réveillez jamais <BLANK>",
+      "n": "PromptText"
+    },
+    {
+      "t": "S",
+      "v": "un loup-garou|votre chien|dans un deuxième endroit ",
+      "n": "SafetyQuips"
+    }
+  ]
+}

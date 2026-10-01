@@ -1,0 +1,44 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Keywords"
+    },
+    {
+      "t": "A",
+      "v": "response",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponseText"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPromptAudio"
+    },
+    {
+      "t": "A",
+      "v": "prompt",
+      "n": "PromptAudio"
+    },
+    {
+      "t": "S",
+      "v": "Ce que vous ne voulez jamais entendre après les mots : « Ne vous inquiétez pas… » ",
+      "n": "PromptText"
+    },
+    {
+      "t": "S",
+      "v": "ce n'est douloureux que la première année | après réflexion, ne vous inquiétez pas | à quel point cela peut-il être difficile de piloter un avion ? ",
+      "n": "SafetyQuips"
+    }
+  ]
+}

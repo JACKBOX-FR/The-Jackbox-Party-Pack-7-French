@@ -1,0 +1,44 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Keywords"
+    },
+    {
+      "t": "A",
+      "v": "response",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponseText"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPromptAudio"
+    },
+    {
+      "t": "A",
+      "v": "prompt",
+      "n": "PromptAudio"
+    },
+    {
+      "t": "S",
+      "v": "La meilleure excuse pour être un mauvais amant ",
+      "n": "PromptText"
+    },
+    {
+      "t": "S",
+      "v": "Mon école n'avait pas de cours d'amour | Je serai meilleur une fois que nous aurons atteint la paix dans le monde | Je ne suis pas moche, juste en avance sur mon temps ",
+      "n": "SafetyQuips"
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Keywords"
+    },
+    {
+      "t": "A",
+      "v": "response",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponseText"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPromptAudio"
+    },
+    {
+      "t": "A",
+      "v": "prompt",
+      "n": "PromptAudio"
+    },
+    {
+      "t": "S",
+      "v": "Avis sur un hôtel une étoile : « Matelas horrible, pas de serviettes et <BLANK> » ",
+      "n": "PromptText"
+    },
+    {
+      "t": "S",
+      "v": "la baignoire a été volée|gros trou dans le mur à l'endroit où devrait se trouver la porte|a dû partager le lit avec le chasseur ",
+      "n": "SafetyQuips"
+    }
+  ]
+}

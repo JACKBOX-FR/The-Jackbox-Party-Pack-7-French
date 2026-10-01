@@ -1,0 +1,34 @@
+{
+  "fields": [
+    {
+      "t": "S",
+      "v": "Parc national de Yellowstone ",
+      "n": "Password"
+    },
+    {
+      "t": "S",
+      "v": "lieu",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "nature",
+      "n": "Subcategory"
+    },
+    {
+      "t": "S",
+      "v": "moyen",
+      "n": "Difficulty"
+    },
+    {
+      "t": "S",
+      "v": "yellow",
+      "n": "ForbiddenWords"
+    },
+    {
+      "t": "S",
+      "v": "Yellowstone|Parc de Yellowstone|Pierre de Yellow|Parc de Yellow Stone|Parc national de Yellow Stone|Parc national de Yellowstones|Parc national de Yellow Stones|Parc de Yellowstones|Parc de Yellow Stones|Yellowstones|Pierres de Yellowstone ",
+      "n": "AlternateSpellings"
+    }
+  ]
+}

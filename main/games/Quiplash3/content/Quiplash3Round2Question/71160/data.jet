@@ -1,0 +1,44 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Keywords"
+    },
+    {
+      "t": "A",
+      "v": "response",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponseText"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPromptAudio"
+    },
+    {
+      "t": "A",
+      "v": "prompt",
+      "n": "PromptAudio"
+    },
+    {
+      "t": "S",
+      "v": "La principale qualité que les producteurs recherchent chez un participant à une émission de télé-réalité ",
+      "n": "PromptText"
+    },
+    {
+      "t": "S",
+      "v": "ignorant le concept de honte | un vrai fusible | une VRAIE femme au foyer ",
+      "n": "SafetyQuips"
+    }
+  ]
+}

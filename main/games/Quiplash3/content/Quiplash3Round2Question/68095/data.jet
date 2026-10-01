@@ -1,0 +1,44 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "S",
+      "v": "Quiplash|Quiplash3|Quiplash 3|this game|the game we're playing",
+      "n": "Keywords"
+    },
+    {
+      "t": "A",
+      "v": "response",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "t": "S",
+      "v": "It’s just a fact, grandmothers are Quiplash assassins. They have no mercy!",
+      "n": "KeywordResponseText"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPromptAudio"
+    },
+    {
+      "t": "A",
+      "v": "prompt",
+      "n": "PromptAudio"
+    },
+    {
+      "t": "S",
+      "v": "La soirée de jeux en famille est devenue extrêmement silencieuse lorsque grand-mère a suggéré que nous jouions à <BLANK> ",
+      "n": "PromptText"
+    },
+    {
+      "t": "S",
+      "v": "pour de l'argent|The Witcher 2 ",
+      "n": "SafetyQuips"
+    }
+  ]
+}

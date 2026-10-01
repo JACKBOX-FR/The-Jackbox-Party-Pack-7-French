@@ -1,0 +1,34 @@
+{
+  "fields": [
+    {
+      "t": "S",
+      "v": "7-Onze ",
+      "n": "Password"
+    },
+    {
+      "t": "S",
+      "v": "lieu",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "marque",
+      "n": "Subcategory"
+    },
+    {
+      "t": "S",
+      "v": "difficile",
+      "n": "Difficulty"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "ForbiddenWords"
+    },
+    {
+      "t": "S",
+      "v": "7 11|7-11|711|7 Onze|Sept Onze|7Onze|Seven-11|Seven-Eleven|Seven 11|Seven11|7 à 11|Sept à Onze ",
+      "n": "AlternateSpellings"
+    }
+  ]
+}

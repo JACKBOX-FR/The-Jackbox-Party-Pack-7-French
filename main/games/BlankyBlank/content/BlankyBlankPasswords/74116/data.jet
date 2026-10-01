@@ -1,0 +1,34 @@
+{
+  "fields": [
+    {
+      "t": "S",
+      "v": "Tony le Tigre ",
+      "n": "Password"
+    },
+    {
+      "t": "S",
+      "v": "personne",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "mascotte",
+      "n": "Subcategory"
+    },
+    {
+      "t": "S",
+      "v": "moyen",
+      "n": "Difficulty"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "ForbiddenWords"
+    },
+    {
+      "t": "S",
+      "v": "tony tigre|tony|tigre en flocons givrés|ils sont un grand tigre|ils sont un grand tigre|toni le tigre|toni tigre|leur grand tigre|tigre aux céréales ",
+      "n": "AlternateSpellings"
+    }
+  ]
+}

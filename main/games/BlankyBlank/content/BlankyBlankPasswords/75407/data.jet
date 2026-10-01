@@ -1,0 +1,34 @@
+{
+  "fields": [
+    {
+      "t": "S",
+      "v": "Film d'abeille ",
+      "n": "Password"
+    },
+    {
+      "t": "S",
+      "v": "histoire",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "film d'animation",
+      "n": "Subcategory"
+    },
+    {
+      "t": "S",
+      "v": "difficile",
+      "n": "Difficulty"
+    },
+    {
+      "t": "S",
+      "v": "bee",
+      "n": "ForbiddenWords"
+    },
+    {
+      "t": "S",
+      "v": "Film B|Le film de l'abeille|Le film B|Bee-Film|B-Film ",
+      "n": "AlternateSpellings"
+    }
+  ]
+}

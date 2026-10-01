@@ -1,0 +1,44 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Keywords"
+    },
+    {
+      "t": "A",
+      "v": "response",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponseText"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPromptAudio"
+    },
+    {
+      "t": "A",
+      "v": "prompt",
+      "n": "PromptAudio"
+    },
+    {
+      "t": "S",
+      "v": "Une manière polie d’affaiblir l’aristocratie ",
+      "n": "PromptText"
+    },
+    {
+      "t": "S",
+      "v": "dites aux gens que les liasses de billets sont à gauche|Commentaires Twitter|« oubliez » de les inviter à des soirées baisers ",
+      "n": "SafetyQuips"
+    }
+  ]
+}

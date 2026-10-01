@@ -1,0 +1,44 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Keywords"
+    },
+    {
+      "t": "A",
+      "v": "response",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponseText"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPromptAudio"
+    },
+    {
+      "t": "A",
+      "v": "prompt",
+      "n": "PromptAudio"
+    },
+    {
+      "t": "S",
+      "v": "Les 3 R d’une franchise de restauration rapide à succès ",
+      "n": "PromptText"
+    },
+    {
+      "t": "S",
+      "v": "relish|ranch|pâte de tomate rouge |saveur riche|service précipité|câlins aléatoires|réchauffer les frites|remplir la piscine à balles|réutiliser la graisse ",
+      "n": "SafetyQuips"
+    }
+  ]
+}

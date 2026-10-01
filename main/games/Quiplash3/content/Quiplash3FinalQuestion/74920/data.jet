@@ -1,0 +1,44 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Keywords"
+    },
+    {
+      "t": "A",
+      "v": "response",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponseText"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPromptAudio"
+    },
+    {
+      "t": "A",
+      "v": "prompt",
+      "n": "PromptAudio"
+    },
+    {
+      "t": "S",
+      "v": "Votre plan en trois étapes pour vaincre King Kong ",
+      "n": "PromptText"
+    },
+    {
+      "t": "S",
+      "v": "escalader l'Empire State Building|découvrez pourquoi il est fou|faites-lui un câlin|habillez-vous comme un singe sexy|fiancez-vous|laissez-le sur l'autel, dévasté ",
+      "n": "SafetyQuips"
+    }
+  ]
+}

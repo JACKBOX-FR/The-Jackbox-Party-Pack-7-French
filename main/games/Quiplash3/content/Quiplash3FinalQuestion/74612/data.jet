@@ -1,0 +1,44 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Keywords"
+    },
+    {
+      "t": "A",
+      "v": "response",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponseText"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPromptAudio"
+    },
+    {
+      "t": "A",
+      "v": "prompt",
+      "n": "PromptAudio"
+    },
+    {
+      "t": "S",
+      "v": "Trois signes que vous tombez amoureux ",
+      "n": "PromptText"
+    },
+    {
+      "t": "S",
+      "v": "paumes moites|légère fièvre|vomissements constants|écrire davantage de poésie|comme beaucoup de poésie|et tu utilises un gros stylo plume|tu te baignes davantage|tu te coupes les ongles maintenant|tu arrête de rôder sur les toits ",
+      "n": "SafetyQuips"
+    }
+  ]
+}

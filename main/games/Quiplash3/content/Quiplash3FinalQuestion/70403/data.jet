@@ -1,0 +1,44 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Keywords"
+    },
+    {
+      "t": "A",
+      "v": "response",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponseText"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPromptAudio"
+    },
+    {
+      "t": "A",
+      "v": "prompt",
+      "n": "PromptAudio"
+    },
+    {
+      "t": "S",
+      "v": "Les trois choses les plus difficiles dans le fait d'être Mario ",
+      "n": "PromptText"
+    },
+    {
+      "t": "S",
+      "v": "cauchemars à propos de Bowser | éruption cutanée due aux tirs de boules de feu | mauvais crédit | moustache qui démange constamment | tous ces sauts mauvais pour les genoux | ne peut pas se concentrer sur la plomberie | se souvient de chaque fois qu'il meurt | n'utilise pas son diplôme de podologie | ne peut pas commencer une carrière de chanteur ",
+      "n": "SafetyQuips"
+    }
+  ]
+}

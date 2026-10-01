@@ -1,0 +1,44 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Keywords"
+    },
+    {
+      "t": "A",
+      "v": "response",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponseText"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPromptAudio"
+    },
+    {
+      "t": "A",
+      "v": "prompt",
+      "n": "PromptAudio"
+    },
+    {
+      "t": "S",
+      "v": "Ce que vous avez peut-être vu sur une photo sexy de Tinder en 1930",
+      "n": "PromptText"
+    },
+    {
+      "t": "S",
+      "v": "un mec tenant une pancarte « travaillera pour la nourriture » | une bombasse faisant la queue pour du papier toilette | un amoureux de la Prohibition ",
+      "n": "SafetyQuips"
+    }
+  ]
+}

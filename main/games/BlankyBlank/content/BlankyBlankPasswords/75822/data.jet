@@ -1,0 +1,34 @@
+{
+  "fields": [
+    {
+      "t": "S",
+      "v": "fil de fer barbelé ",
+      "n": "Password"
+    },
+    {
+      "t": "S",
+      "v": "chose",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "choses",
+      "n": "Subcategory"
+    },
+    {
+      "t": "S",
+      "v": "moyen",
+      "n": "Difficulty"
+    },
+    {
+      "t": "S",
+      "v": "barbed",
+      "n": "ForbiddenWords"
+    },
+    {
+      "t": "S",
+      "v": "fil barbelé|fil rasoir|fil accordéon|fil barbelé|fil barbelé|fil barbelé|fils barbelés|fils barbelés|fil bobiné|fils bobinés|fil bob ",
+      "n": "AlternateSpellings"
+    }
+  ]
+}

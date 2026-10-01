@@ -1,0 +1,34 @@
+{
+  "fields": [
+    {
+      "t": "S",
+      "v": "fileuse agitée ",
+      "n": "Password"
+    },
+    {
+      "t": "S",
+      "v": "chose",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "jouet",
+      "n": "Subcategory"
+    },
+    {
+      "t": "S",
+      "v": "moyen",
+      "n": "Difficulty"
+    },
+    {
+      "t": "S",
+      "v": "spin|fidget",
+      "n": "ForbiddenWords"
+    },
+    {
+      "t": "S",
+      "v": "fidget spinners|fidget spin|fidget tourne|fidget wheel|fidget|fidgetspinner|fidget spiner|fidget spiners ",
+      "n": "AlternateSpellings"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "fields": [
+    {
+      "t": "S",
+      "v": "Le spectacle d'images Rocky Horror ",
+      "n": "Password"
+    },
+    {
+      "t": "S",
+      "v": "histoire",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "comédie",
+      "n": "Subcategory"
+    },
+    {
+      "t": "S",
+      "v": "difficile",
+      "n": "Difficulty"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "ForbiddenWords"
+    },
+    {
+      "t": "S",
+      "v": "Rocky Horror|Rocky Horror Picture Show|RHPS|TRHPS|Le Rocky Horror Show|Rocky Horror Show|Rocky Horror Picture|L'image Rocky Horror|Rock Horror Picture Show|Le Rock Horror Picture Show|L'image Rocky Horror Show ",
+      "n": "AlternateSpellings"
+    }
+  ]
+}

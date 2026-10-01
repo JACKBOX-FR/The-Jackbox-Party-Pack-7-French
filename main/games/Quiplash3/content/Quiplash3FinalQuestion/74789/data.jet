@@ -1,0 +1,44 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Keywords"
+    },
+    {
+      "t": "A",
+      "v": "response",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponseText"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPromptAudio"
+    },
+    {
+      "t": "A",
+      "v": "prompt",
+      "n": "PromptAudio"
+    },
+    {
+      "t": "S",
+      "v": "Trois choses distrayantes à crier lorsque quelqu'un essaie de frapper une balle de golf ",
+      "n": "PromptText"
+    },
+    {
+      "t": "S",
+      "v": "ça me manque !|je t'aime !|alley oop !|café gratuit !|Je suis ton fils !|ah, dragon !|kissie, kissie !|ah, les robots !|pourquoi tu ne m'aimes pas ?! ",
+      "n": "SafetyQuips"
+    }
+  ]
+}

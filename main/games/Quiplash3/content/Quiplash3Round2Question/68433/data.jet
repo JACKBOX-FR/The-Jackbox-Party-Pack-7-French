@@ -1,0 +1,44 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Keywords"
+    },
+    {
+      "t": "A",
+      "v": "response",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponseText"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPromptAudio"
+    },
+    {
+      "t": "A",
+      "v": "prompt",
+      "n": "PromptAudio"
+    },
+    {
+      "t": "S",
+      "v": "Une pensée que vous avez eue au cours des dernières 24 heures mais que vous n'avez partagée avec personne ",
+      "n": "PromptText"
+    },
+    {
+      "t": "S",
+      "v": "Les gens peuvent-ils sentir ça ?|J'aime ma femme|J'aimerais pouvoir manger du savon ",
+      "n": "SafetyQuips"
+    }
+  ]
+}

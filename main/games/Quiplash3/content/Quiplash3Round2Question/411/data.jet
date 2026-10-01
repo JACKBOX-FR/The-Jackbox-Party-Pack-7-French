@@ -1,0 +1,44 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Keywords"
+    },
+    {
+      "t": "A",
+      "v": "response",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponseText"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPromptAudio"
+    },
+    {
+      "t": "A",
+      "v": "prompt",
+      "n": "PromptAudio"
+    },
+    {
+      "t": "S",
+      "v": "Quel est le moyen le plus simple d’accéder à l’actualité d’ESPN ? ",
+      "n": "PromptText"
+    },
+    {
+      "t": "S",
+      "v": "Embrasser la caméra | Butt tâtonner | Ajouter un front flip ou deux ",
+      "n": "SafetyQuips"
+    }
+  ]
+}

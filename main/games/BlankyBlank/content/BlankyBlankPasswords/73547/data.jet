@@ -1,0 +1,34 @@
+{
+  "fields": [
+    {
+      "t": "S",
+      "v": "Monty Python et le Saint Graal ",
+      "n": "Password"
+    },
+    {
+      "t": "S",
+      "v": "histoire",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "film",
+      "n": "Subcategory"
+    },
+    {
+      "t": "S",
+      "v": "facile",
+      "n": "Difficulty"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "ForbiddenWords"
+    },
+    {
+      "t": "S",
+      "v": "Monty Python |Saint Graal|Monty Python et le Saint Graal|Montie Python|Monti Python|Monty Pithon|Montie Pithon|Monti Pithon|Monty Python et le Saint Grale|Le Saint Graal|Le Saint Grale ",
+      "n": "AlternateSpellings"
+    }
+  ]
+}

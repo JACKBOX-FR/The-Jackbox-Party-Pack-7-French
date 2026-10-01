@@ -1,0 +1,44 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Keywords"
+    },
+    {
+      "t": "A",
+      "v": "response",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponseText"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPromptAudio"
+    },
+    {
+      "t": "A",
+      "v": "prompt",
+      "n": "PromptAudio"
+    },
+    {
+      "t": "S",
+      "v": "Les trois étapes pour réussir une séance de maquillage ",
+      "n": "PromptText"
+    },
+    {
+      "t": "S",
+      "v": "mettre de la musique relaxante | être disponible émotionnellement | essayer de s'amuser | fermer les yeux à travers la pièce | flirter fortement | quitter la réunion de famille | allumer un tas de bougies | réaliser que c'est effrayant | il suffit de s'enivrer et de s'embrasser ",
+      "n": "SafetyQuips"
+    }
+  ]
+}

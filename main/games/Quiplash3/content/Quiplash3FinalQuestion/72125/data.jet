@@ -1,0 +1,44 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Keywords"
+    },
+    {
+      "t": "A",
+      "v": "response",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponseText"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPromptAudio"
+    },
+    {
+      "t": "A",
+      "v": "prompt",
+      "n": "PromptAudio"
+    },
+    {
+      "t": "S",
+      "v": "Suivez ces trois conseils de survie si vous êtes perdu dans la nature ",
+      "n": "PromptText"
+    },
+    {
+      "t": "S",
+      "v": "Panique | Courez dans les bois en criant | Pleurez comme un bébé | Trouvez une meute de loups | Vainquez le loup alpha | Vous êtes le roi des loups maintenant | Allumez un feu | Faites bouillir de l'eau | Ouvrez un petit café ",
+      "n": "SafetyQuips"
+    }
+  ]
+}

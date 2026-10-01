@@ -1,0 +1,34 @@
+{
+  "fields": [
+    {
+      "t": "S",
+      "v": "Chasseurs de fantômes ",
+      "n": "Password"
+    },
+    {
+      "t": "S",
+      "v": "histoire",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "film",
+      "n": "Subcategory"
+    },
+    {
+      "t": "S",
+      "v": "facile",
+      "n": "Difficulty"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "ForbiddenWords"
+    },
+    {
+      "t": "S",
+      "v": "Ghost Busters|Ghost Buster|Ghostbuster|Les Ghostbusters|Ghost-Busters|Les Ghost Busters|Le Ghostbuster|Le Ghost Buster ",
+      "n": "AlternateSpellings"
+    }
+  ]
+}

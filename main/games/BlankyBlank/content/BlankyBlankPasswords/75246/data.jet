@@ -1,0 +1,34 @@
+{
+  "fields": [
+    {
+      "t": "S",
+      "v": "Le Lac des Cygnes ",
+      "n": "Password"
+    },
+    {
+      "t": "S",
+      "v": "histoire",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "théâtre",
+      "n": "Subcategory"
+    },
+    {
+      "t": "S",
+      "v": "difficile",
+      "n": "Difficulty"
+    },
+    {
+      "t": "S",
+      "v": "swan|lake ",
+      "n": "ForbiddenWords"
+    },
+    {
+      "t": "S",
+      "v": "Les Lacs des Cygnes|Le Lac des Cygnes|Ballet du Lac des Cygnes|Ballet des Cygnes|Le Lac des Cygnes ",
+      "n": "AlternateSpellings"
+    }
+  ]
+}

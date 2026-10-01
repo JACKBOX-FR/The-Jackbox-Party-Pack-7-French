@@ -1,0 +1,44 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Keywords"
+    },
+    {
+      "t": "A",
+      "v": "response",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponseText"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPromptAudio"
+    },
+    {
+      "t": "A",
+      "v": "prompt",
+      "n": "PromptAudio"
+    },
+    {
+      "t": "S",
+      "v": "La chose secrète que font les chats quand nous ne regardons pas ",
+      "n": "PromptText"
+    },
+    {
+      "t": "S",
+      "v": "Investir dans des obligations |Quelque chose d'intéressant pour une fois|Faire des œufs brouillés ",
+      "n": "SafetyQuips"
+    }
+  ]
+}

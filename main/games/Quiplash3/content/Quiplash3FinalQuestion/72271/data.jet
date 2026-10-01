@@ -1,0 +1,44 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Keywords"
+    },
+    {
+      "t": "A",
+      "v": "response",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponseText"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPromptAudio"
+    },
+    {
+      "t": "A",
+      "v": "prompt",
+      "n": "PromptAudio"
+    },
+    {
+      "t": "S",
+      "v": "Ce n'est pas votre PIRE cauchemar jusqu'à ce qu'il y ait <BLANK>, <BLANK> et enfin <BLANK> ",
+      "n": "PromptText"
+    },
+    {
+      "t": "S",
+      "v": "un clown|une hachette|un hôtel abandonné|un cours de gym|une corde au plafond|des centaines de personnes qui attendent|une autruche|mon beau-père|un plan pour devenir riche rapidement ",
+      "n": "SafetyQuips"
+    }
+  ]
+}

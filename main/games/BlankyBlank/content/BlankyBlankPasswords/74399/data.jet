@@ -1,0 +1,34 @@
+{
+  "fields": [
+    {
+      "t": "S",
+      "v": "Léonard de Vinci ",
+      "n": "Password"
+    },
+    {
+      "t": "S",
+      "v": "personne",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "artiste",
+      "n": "Subcategory"
+    },
+    {
+      "t": "S",
+      "v": "moyen",
+      "n": "Difficulty"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "ForbiddenWords"
+    },
+    {
+      "t": "S",
+      "v": "de Vinci|Davinci|Léonard|Léonard de Vinci|Léonard de ser Piero da Vinci|Léonard de Vinci|de Vinci|Léonard deVinci|deVinci",
+      "n": "AlternateSpellings"
+    }
+  ]
+}

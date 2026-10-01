@@ -1,0 +1,34 @@
+{
+  "fields": [
+    {
+      "t": "S",
+      "v": "Dépôt à domicile ",
+      "n": "Password"
+    },
+    {
+      "t": "S",
+      "v": "lieu",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "marque",
+      "n": "Subcategory"
+    },
+    {
+      "t": "S",
+      "v": "moyen",
+      "n": "Difficulty"
+    },
+    {
+      "t": "S",
+      "v": "home",
+      "n": "ForbiddenWords"
+    },
+    {
+      "t": "S",
+      "v": "Le Dépôt|Le Home Depot|Le Homedepot|Homedepot|Home Depo|Le Home Depo|homedepo|le homedepo ",
+      "n": "AlternateSpellings"
+    }
+  ]
+}

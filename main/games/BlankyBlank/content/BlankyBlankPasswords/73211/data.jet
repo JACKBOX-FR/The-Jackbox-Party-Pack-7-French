@@ -1,0 +1,34 @@
+{
+  "fields": [
+    {
+      "t": "S",
+      "v": "Retour vers le futur ",
+      "n": "Password"
+    },
+    {
+      "t": "S",
+      "v": "histoire",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "film",
+      "n": "Subcategory"
+    },
+    {
+      "t": "S",
+      "v": "facile",
+      "n": "Difficulty"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "ForbiddenWords"
+    },
+    {
+      "t": "S",
+      "v": "Retour 2 le futur|Retour vers le futur|Retour vers le futur partie II|Retour vers le futur partie III|Retour vers le futur partie I|Retour vers le futur|Retour vers le Futer|Retour vers le futur|Retour vers le Futere ",
+      "n": "AlternateSpellings"
+    }
+  ]
+}

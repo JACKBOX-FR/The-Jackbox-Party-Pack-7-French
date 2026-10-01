@@ -1,0 +1,34 @@
+{
+  "fields": [
+    {
+      "t": "S",
+      "v": "Différents coups ",
+      "n": "Password"
+    },
+    {
+      "t": "S",
+      "v": "histoire",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "tv",
+      "n": "Subcategory"
+    },
+    {
+      "t": "S",
+      "v": "difficile",
+      "n": "Difficulty"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "ForbiddenWords"
+    },
+    {
+      "t": "S",
+      "v": "Différents traits|Différents traits|Diff'rent Stroke|Diff'érent Stroke|Différents traits|Dif'rent Strokes|Diff'érent Strokes|Dif'érent Strokes|Différents traits ",
+      "n": "AlternateSpellings"
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+    "table":{
+    "en": {
+        "LANGUAGE_NAME": "English",
+        "LANGUAGE": "Language",
+        "INTERNET_CONNECTED": "Nous venons de trouver Internet.",
+        "INTERNET_DISCONNECTED": "Nous sommes désolés, nous n'arrivons pas à nous connecter aux serveurs de Jackbox Games.<br />Veuillez vérifier que votre connexion Internet fonctionne correctement.",
+        "ROOM_DESTROYED": "Nous sommes désolés, une erreur réseau s'est produite et votre chambre a été détruite.<br />Veuillez vérifier que votre connexion Internet fonctionne correctement.",
+        "SOCKET_DISCONNECTED ": "Nous sommes désolés, nous avons perdu votre connexion aux serveurs de Jackbox Games.",
+        "TIMEOUT": "Nous sommes désolés, nous n'arrivons pas à nous connecter aux serveurs de Jackbox Games.<br />Veuillez vérifier que votre connexion Internet fonctionne correctement.",
+        "USER_DISCONNECT": "Nous sommes désolés, le serveur vous a déconnecté. Veuillez réessayer.",
+        "USER_ACCESS_DENIED": "Nous sommes désolés, nous ne pouvons pas continuer.",
+        "START_PRIVILEGE_ERROR": "Nous sommes désolés, nous ne pouvons pas continuer.",
+        "TROPHY_PREPARE_ERROR": "Nous sommes désolés, nous ne pouvons pas continuer.",
+        "SAVE_PREPARE_FAIL": "Nous sommes désolés, nous ne pouvons pas continuer.",
+        "LICENSE_ERROR": "Nous sommes désolés, nous avons perdu la licence pour ce contenu !",
+        "LOST_LICENSE": "Nous sommes désolés, nous avons perdu la licence pour ce contenu !",
+        "STEAM_ERROR": "Nous sommes désolés, nous n'avons pas pu valider votre licence Steam.",
+        "TWITCH_PRIME_ERROR": "Nous sommes désolés, nous n'avons pas pu valider votre licence Twitch.",
+        "LOST_DLC": "Nous sommes désolés, la licence de votre DLC est introuvable. Je vous ramène au menu...",
+        "START": "COMMENCER",
+        "SKIP": "SAUTER",
+        "LOADING": "CHARGEMENT",
+        "SWITCH_USER": "SWITCH USER",
+        "LEGAL": "Créé et développé par Jackbox Games, Inc. Jeu et logiciels © 2020 Jackbox Games, Inc. Tous droits réservés. Jackbox Games, le logo Jack Head et le logo Jackbox Games sont des marques déposées de Jackbox Games, Inc. Quiplash 3, The Devils and the Details, Champ'd Up, Talking Points, Blather 'Round et Party Pack sont des marques déposées de Jackbox Games, Inc. Toutes les autres marques et logos sont la propriété de leurs propriétaires respectifs.",
+        "LEGAL_CRIWARE": "Powered by \"CRIWARE\". CRIWARE is a trademark of CRI Middleware Co., Ltd.",
+        "LEGAL_FMOD": "Ce produit utilise le système audio FMOD de Firelight Technologies",
+        "PAUSE_PAUSED": "EN PAUSE",
+        "PAUSE_ARE_YOU_SURE": "VOULEZ-VOUS QUITTER ?",
+        "PAUSE_PROGRESS_LOST": "Tous les progrès actuels seront perdus.",
+        "PAUSE_YES": "SORTIE",
+        "PAUSE_NO": "CONTINUER",
+        "CHOOSE_ON_DEVICE": "Choisissez sur votre appareil"
+    },
+    "fr": {},
+    "it": {},
+    "de": {},
+    "es": {}
+}
+}

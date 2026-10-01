@@ -1,0 +1,44 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Keywords"
+    },
+    {
+      "t": "A",
+      "v": "response",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponseText"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPromptAudio"
+    },
+    {
+      "t": "A",
+      "v": "prompt",
+      "n": "PromptAudio"
+    },
+    {
+      "t": "S",
+      "v": "Soupir... pourquoi est-il impossible de trouver un homme bien de nos jours ? ",
+      "n": "PromptText"
+    },
+    {
+      "t": "S",
+      "v": "Plus amusant de trouver des Pokémon|trop occupé à jouer à WoW|ils sont toujours en quarantaine ",
+      "n": "SafetyQuips"
+    }
+  ]
+}

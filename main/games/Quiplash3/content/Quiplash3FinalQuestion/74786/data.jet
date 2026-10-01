@@ -1,0 +1,44 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Keywords"
+    },
+    {
+      "t": "A",
+      "v": "response",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponseText"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPromptAudio"
+    },
+    {
+      "t": "A",
+      "v": "prompt",
+      "n": "PromptAudio"
+    },
+    {
+      "t": "S",
+      "v": "Trois choses qu'un bon parent met dans le sac à dos de son enfant ",
+      "n": "PromptText"
+    },
+    {
+      "t": "S",
+      "v": "une banane|un stylo|un fonds en fiducie|une tasse à pudding|une jolie note|les clés d'un robot|une bande dessinée|des crayons de couleur|un acte de propriété au vignoble familial ",
+      "n": "SafetyQuips"
+    }
+  ]
+}

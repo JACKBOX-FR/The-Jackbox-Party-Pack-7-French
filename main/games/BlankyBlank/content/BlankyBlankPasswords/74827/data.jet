@@ -1,0 +1,34 @@
+{
+  "fields": [
+    {
+      "t": "S",
+      "v": "Katniss Everdeen ",
+      "n": "Password"
+    },
+    {
+      "t": "S",
+      "v": "personne",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "fictif",
+      "n": "Subcategory"
+    },
+    {
+      "t": "S",
+      "v": "moyen",
+      "n": "Difficulty"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "ForbiddenWords"
+    },
+    {
+      "t": "S",
+      "v": "Katnis|Catnis|Katniss|Everdeen|Catnis Everdeen|Katnis Everdeen|Catniss|Catniss Everdeen|Katniss à feuilles persistantes|Katnis à feuilles persistantes|Catniss à feuilles persistantes|Catnis à feuilles persistantes ",
+      "n": "AlternateSpellings"
+    }
+  ]
+}

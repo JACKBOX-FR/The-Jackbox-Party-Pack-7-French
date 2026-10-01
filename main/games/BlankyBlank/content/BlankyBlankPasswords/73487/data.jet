@@ -1,0 +1,34 @@
+{
+  "fields": [
+    {
+      "t": "S",
+      "v": "Les filles d'or ",
+      "n": "Password"
+    },
+    {
+      "t": "S",
+      "v": "histoire",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "tv",
+      "n": "Subcategory"
+    },
+    {
+      "t": "S",
+      "v": "moyen",
+      "n": "Difficulty"
+    },
+    {
+      "t": "S",
+      "v": "Gold|Golden|Girl",
+      "n": "ForbiddenWords"
+    },
+    {
+      "t": "S",
+      "v": "Filles en or|Fille en or|La fille en or|Filles en or|Les filles en or ",
+      "n": "AlternateSpellings"
+    }
+  ]
+}

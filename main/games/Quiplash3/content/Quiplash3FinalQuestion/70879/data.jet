@@ -1,0 +1,44 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Keywords"
+    },
+    {
+      "t": "A",
+      "v": "response",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponseText"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPromptAudio"
+    },
+    {
+      "t": "A",
+      "v": "prompt",
+      "n": "PromptAudio"
+    },
+    {
+      "t": "S",
+      "v": "Trois pensées profondes qu'un paresseux a au cours d'une journée moyenne ",
+      "n": "PromptText"
+    },
+    {
+      "t": "S",
+      "v": "J'adore cette branche | pourrait rester ici toute la journée | oui, je pense que je le ferai|serpents au sol |besoin de faire caca | Je peux le tenir|quel jour on est ?|mercredi ?|oups, maintenant c'est jeudi ",
+      "n": "SafetyQuips"
+    }
+  ]
+}

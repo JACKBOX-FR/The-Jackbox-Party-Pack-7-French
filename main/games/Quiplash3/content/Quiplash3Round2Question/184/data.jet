@@ -1,0 +1,44 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Keywords"
+    },
+    {
+      "t": "A",
+      "v": "response",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponseText"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPromptAudio"
+    },
+    {
+      "t": "A",
+      "v": "prompt",
+      "n": "PromptAudio"
+    },
+    {
+      "t": "S",
+      "v": "Le premier signe que vous regardez un film d’horreur très artistique ",
+      "n": "PromptText"
+    },
+    {
+      "t": "S",
+      "v": "30 minutes examinant \"l'idée d'un homme-loup\"|Ils la prononcent \"Barthelona\"|Le vrai meurtrier, c'est la \"société\" ",
+      "n": "SafetyQuips"
+    }
+  ]
+}

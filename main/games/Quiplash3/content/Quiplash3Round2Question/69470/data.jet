@@ -1,0 +1,44 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Keywords"
+    },
+    {
+      "t": "A",
+      "v": "response",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponseText"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPromptAudio"
+    },
+    {
+      "t": "A",
+      "v": "prompt",
+      "n": "PromptAudio"
+    },
+    {
+      "t": "S",
+      "v": "Le nom d'un nouveau drame policier sur la criminalité dans le ciel ",
+      "n": "PromptText"
+    },
+    {
+      "t": "S",
+      "v": "CSI : (1 000 pieds au-dessus) Miami | Loi et ordre : intention aérienne ",
+      "n": "SafetyQuips"
+    }
+  ]
+}

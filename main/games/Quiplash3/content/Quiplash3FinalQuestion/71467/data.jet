@@ -1,0 +1,44 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Keywords"
+    },
+    {
+      "t": "A",
+      "v": "response",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponseText"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPromptAudio"
+    },
+    {
+      "t": "A",
+      "v": "prompt",
+      "n": "PromptAudio"
+    },
+    {
+      "t": "S",
+      "v": "Mon professeur de gym au lycée m'a appris trois choses : <BLANK>, <BLANK> et <BLANK> ",
+      "n": "PromptText"
+    },
+    {
+      "t": "S",
+      "v": "sauter|courir|fausses blessures|yeux clairs|cœur plein|nous avons parfois perdu|mathématiques|sciences|notre école était sous-financée ",
+      "n": "SafetyQuips"
+    }
+  ]
+}

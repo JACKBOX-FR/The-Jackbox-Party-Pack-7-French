@@ -1,0 +1,34 @@
+{
+  "fields": [
+    {
+      "t": "S",
+      "v": "Perche à selfie ",
+      "n": "Password"
+    },
+    {
+      "t": "S",
+      "v": "chose",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "choses",
+      "n": "Subcategory"
+    },
+    {
+      "t": "S",
+      "v": "difficile",
+      "n": "Difficulty"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "ForbiddenWords"
+    },
+    {
+      "t": "S",
+      "v": "rallonge de caméra|bâton de caméra|bâton de téléphone|bâton de caméra de téléphone|sondage selfie|bras de selfie|bras de téléphone|bâtons de selfie|un bâton de selfie|selfiestick ",
+      "n": "AlternateSpellings"
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Keywords"
+    },
+    {
+      "t": "A",
+      "v": "response",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponseText"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPromptAudio"
+    },
+    {
+      "t": "A",
+      "v": "prompt",
+      "n": "PromptAudio"
+    },
+    {
+      "t": "S",
+      "v": "Quelles sont les trois choses dont vous avez besoin pour le MEILLEUR. FÊTE DE BACHELOR. JAMAIS!!!??? ",
+      "n": "PromptText"
+    },
+    {
+      "t": "S",
+      "v": "boissons|copains|un médecin en numérotation abrégée|cigares|champagne|liquides|vin bon marché|un petit ours|un fort instinct de survie ",
+      "n": "SafetyQuips"
+    }
+  ]
+}

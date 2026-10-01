@@ -1,0 +1,44 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Keywords"
+    },
+    {
+      "t": "A",
+      "v": "response",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponseText"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPromptAudio"
+    },
+    {
+      "t": "A",
+      "v": "prompt",
+      "n": "PromptAudio"
+    },
+    {
+      "t": "S",
+      "v": "Trois choses que vous pouvez porter lors d'une réunion d'affaires pour montrer que vous méritez le respect ",
+      "n": "PromptText"
+    },
+    {
+      "t": "S",
+      "v": "une cravate puissante|un fedora|un coup de poing américain|des lunettes sympas|une grosse moustache|un chapeau de cowboy|un tas de bagues|une amulette magique|de belles chaussures ",
+      "n": "SafetyQuips"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "fields": [
+    {
+      "t": "S",
+      "v": "La chenille très affamée ",
+      "n": "Password"
+    },
+    {
+      "t": "S",
+      "v": "histoire",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "livre",
+      "n": "Subcategory"
+    },
+    {
+      "t": "S",
+      "v": "difficile",
+      "n": "Difficulty"
+    },
+    {
+      "t": "S",
+      "v": "hungry",
+      "n": "ForbiddenWords"
+    },
+    {
+      "t": "S",
+      "v": "Chenille très affamée|Chenille affamée|La chenille affamée ",
+      "n": "AlternateSpellings"
+    }
+  ]
+}

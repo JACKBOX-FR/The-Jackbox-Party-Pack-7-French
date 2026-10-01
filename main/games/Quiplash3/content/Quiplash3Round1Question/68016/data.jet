@@ -1,0 +1,44 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Keywords"
+    },
+    {
+      "t": "A",
+      "v": "response",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponseText"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPromptAudio"
+    },
+    {
+      "t": "A",
+      "v": "prompt",
+      "n": "PromptAudio"
+    },
+    {
+      "t": "S",
+      "v": "Qui aurait cru que la police donnait des contraventions pour <BLANK> ? ",
+      "n": "PromptText"
+    },
+    {
+      "t": "S",
+      "v": "ne pas rester dans votre piste de bowling|usurper l'identité de la police|avoir une mauvaise journée avec vos cheveux ",
+      "n": "SafetyQuips"
+    }
+  ]
+}

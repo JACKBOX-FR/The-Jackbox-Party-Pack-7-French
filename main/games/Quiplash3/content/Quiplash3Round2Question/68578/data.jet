@@ -1,0 +1,44 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Keywords"
+    },
+    {
+      "t": "A",
+      "v": "response",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponseText"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPromptAudio"
+    },
+    {
+      "t": "A",
+      "v": "prompt",
+      "n": "PromptAudio"
+    },
+    {
+      "t": "S",
+      "v": "Ce que dit un videur extrêmement gentil lorsqu'il jette les gens hors des bars ",
+      "n": "PromptText"
+    },
+    {
+      "t": "S",
+      "v": "J'adore tes chaussures !|Laisse-moi au moins payer ton Uber|Tu veux prendre un verre plus tard ? ",
+      "n": "SafetyQuips"
+    }
+  ]
+}

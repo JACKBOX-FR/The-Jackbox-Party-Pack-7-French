@@ -1,0 +1,34 @@
+{
+  "fields": [
+    {
+      "t": "S",
+      "v": "Secrétariat ",
+      "n": "Password"
+    },
+    {
+      "t": "S",
+      "v": "personne",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "athlète",
+      "n": "Subcategory"
+    },
+    {
+      "t": "S",
+      "v": "difficile",
+      "n": "Difficulty"
+    },
+    {
+      "t": "S",
+      "v": "horse",
+      "n": "ForbiddenWords"
+    },
+    {
+      "t": "S",
+      "v": "secratariat|secretariate|secratariate|secertariate|secertariat",
+      "n": "AlternateSpellings"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "fields": [
+    {
+      "t": "S",
+      "v": "la Maison Blanche ",
+      "n": "Password"
+    },
+    {
+      "t": "S",
+      "v": "lieu",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "cuturel",
+      "n": "Subcategory"
+    },
+    {
+      "t": "S",
+      "v": "moyen",
+      "n": "Difficulty"
+    },
+    {
+      "t": "S",
+      "v": "house|white",
+      "n": "ForbiddenWords"
+    },
+    {
+      "t": "S",
+      "v": "maison blanche|maison blanche|la maison blanche ",
+      "n": "AlternateSpellings"
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Keywords"
+    },
+    {
+      "t": "A",
+      "v": "response",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponseText"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPromptAudio"
+    },
+    {
+      "t": "A",
+      "v": "prompt",
+      "n": "PromptAudio"
+    },
+    {
+      "t": "S",
+      "v": "Trois choses qu'ils vous découragent de faire dans le Grand Canyon ",
+      "n": "PromptText"
+    },
+    {
+      "t": "S",
+      "v": "crier \"caca\" | ramener des pierres à la maison | le remplir de ciment | l'appeler \" Le Grand Canyon \" | dire aux enfants que le Père Noël vit ici | jeter des pièces dedans | appeler votre burro \" un âne \" | agir sans être impressionné | agir comme si vous ne le voyiez pas ",
+      "n": "SafetyQuips"
+    }
+  ]
+}

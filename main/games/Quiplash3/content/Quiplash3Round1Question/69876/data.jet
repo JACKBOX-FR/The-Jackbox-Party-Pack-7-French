@@ -1,0 +1,44 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Keywords"
+    },
+    {
+      "t": "A",
+      "v": "response",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponseText"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPromptAudio"
+    },
+    {
+      "t": "A",
+      "v": "prompt",
+      "n": "PromptAudio"
+    },
+    {
+      "t": "S",
+      "v": "Si vous viviez au début des années 1500, que cloueriez-VOUS sur la porte d’une église ? ",
+      "n": "PromptText"
+    },
+    {
+      "t": "S",
+      "v": "Fanfic Naruto|Une jolie photo d'une fleur que j'ai dessinée ",
+      "n": "SafetyQuips"
+    }
+  ]
+}

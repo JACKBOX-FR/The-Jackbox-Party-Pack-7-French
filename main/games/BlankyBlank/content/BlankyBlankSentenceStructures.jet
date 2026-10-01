@@ -1,0 +1,57 @@
+{
+ "content": [
+  {
+   "category": "thing",
+   "id": "70571",
+   "structures": [
+    "C'est <article-1> <thing-adjective-simple> <thing-noun-simple>.",
+    "Il <thing-verb-simple> <article-2> <thing-noun-simple>.",
+    "Parler de <thing-adjective-complex>!",
+    "Il <thing-verb-simple> <article-2> <thing-noun-complex>.",
+    "Oh!， <thing-noun-complex>!",
+    "C'est tout simplement <article-1> <thing-adjective-complex> <thing-noun-complex>."
+   ]
+  },
+  {
+   "category": "place",
+   "id": "70714",
+   "structures": [
+    "C'est <article-1> <place-adjective-simple> <place-noun-simple-s1>.",
+    "C'est là que tu <place-verb-simple> <article-2> <place-noun-simple-s2>.",
+    "Tellement <place-noun-complex>!",
+    "Cet endroit a <article-1> <place-adjective-complex> <place-noun-complex>.",
+    "C'est là que tu <place-verb-simple> <article-2> <place-noun-complex>."
+   ]
+  },
+  {
+   "category": "person",
+   "id": "70743",
+   "structures": [
+    "Ils sont <article-1> <person-adjective-simple> <person-noun-simple>.",
+    "Elles <person-verb-simple> <article-2> <person-noun-simple-s2>.",
+    "<person-pronoun-1> donc <person-adjective-complex>!",
+    "Connu pour le <person-adjective-complex> <person-noun-complex>.",
+    "Et ils <person-verb-simple> <article-2> <person-noun-complex>."
+   ]
+  },
+  {
+   "category": "story",
+   "id": "70758",
+   "structures": [
+    "C'est une histoire sur <article-1> <story-adjective-simple> <story-noun-simple>.",
+    "Et un <story-adjective-simple> <story-noun-simple-s2>.",
+    "Waouh ! UN<story-adjective-complex> <story-noun-complex>.",
+    "Le héros <story-verb-simple> <article-2> <story-noun-complex>.",
+    "Finalement, il y a un <story-adjective-complex> <story-noun-complex>.",
+    "Alors, <article-2> <story-noun-complex> <story-verb-ending>."
+   ]
+  },
+  {
+   "category": "response",
+   "id": "71167",
+   "structures": [
+    "<response-sentence> <PLAYERGUESS>"
+   ]
+  }
+ ]
+}

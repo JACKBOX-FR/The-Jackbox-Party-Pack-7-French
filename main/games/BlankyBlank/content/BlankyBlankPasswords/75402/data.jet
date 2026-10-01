@@ -1,0 +1,34 @@
+{
+  "fields": [
+    {
+      "t": "S",
+      "v": "Le bébé patron ",
+      "n": "Password"
+    },
+    {
+      "t": "S",
+      "v": "histoire",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "film d'animation",
+      "n": "Subcategory"
+    },
+    {
+      "t": "S",
+      "v": "moyen",
+      "n": "Difficulty"
+    },
+    {
+      "t": "S",
+      "v": "boss|baby",
+      "n": "ForbiddenWords"
+    },
+    {
+      "t": "S",
+      "v": "Boss Baby|bossbaby|the bossbaby",
+      "n": "AlternateSpellings"
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Keywords"
+    },
+    {
+      "t": "A",
+      "v": "response",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponseText"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPromptAudio"
+    },
+    {
+      "t": "A",
+      "v": "prompt",
+      "n": "PromptAudio"
+    },
+    {
+      "t": "S",
+      "v": "Trois choses que vous oubliez toujours lorsque vous quittez la maison ",
+      "n": "PromptText"
+    },
+    {
+      "t": "S",
+      "v": "clés|portefeuille|pantalon|épée|bouclier|carte du repaire du dragon|téléphone|chapeau|sens de l'orientation ",
+      "n": "SafetyQuips"
+    }
+  ]
+}

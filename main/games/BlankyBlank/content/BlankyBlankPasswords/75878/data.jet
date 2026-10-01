@@ -1,0 +1,34 @@
+{
+  "fields": [
+    {
+      "t": "S",
+      "v": "concessionnaire automobile ",
+      "n": "Password"
+    },
+    {
+      "t": "S",
+      "v": "lieu",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Subcategory"
+    },
+    {
+      "t": "S",
+      "v": "facile",
+      "n": "Difficulty"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "ForbiddenWords"
+    },
+    {
+      "t": "S",
+      "v": "concessionnaire automobile|concessionnaire|vendeur de voitures|concessionnaires automobiles|concessionnaires automobiles|concessionnaires|vendeurs de voitures|distribution locale de véhicules|magasin de voitures|lot de voitures|concessionnaire de voitures d'occasion|lot de voitures d'occasion ",
+      "n": "AlternateSpellings"
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Keywords"
+    },
+    {
+      "t": "A",
+      "v": "response",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponseText"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPromptAudio"
+    },
+    {
+      "t": "A",
+      "v": "prompt",
+      "n": "PromptAudio"
+    },
+    {
+      "t": "S",
+      "v": "Les trois signes que vous êtes désormais... adulte ",
+      "n": "PromptText"
+    },
+    {
+      "t": "S",
+      "v": "les cheveux tombent | les cheveux poussent ailleurs | toujours en disant « hein » | commencez à parler de pelouses | commencez à parler d'impôts | découvrez la radio publique | mangez plus de fibres | au lit à 10 heures | soudain comprenez le séquestre ",
+      "n": "SafetyQuips"
+    }
+  ]
+}

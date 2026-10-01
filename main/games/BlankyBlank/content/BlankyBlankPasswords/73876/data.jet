@@ -1,0 +1,34 @@
+{
+  "fields": [
+    {
+      "t": "S",
+      "v": "Grand Ben ",
+      "n": "Password"
+    },
+    {
+      "t": "S",
+      "v": "lieu",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "cuturel",
+      "n": "Subcategory"
+    },
+    {
+      "t": "S",
+      "v": "facile",
+      "n": "Difficulty"
+    },
+    {
+      "t": "S",
+      "v": "big",
+      "n": "ForbiddenWords"
+    },
+    {
+      "t": "S",
+      "v": "Horloge Big Ben|Tour de l'horloge Big Ben|Tour Big Ben|Tour de l'horloge Big Ben|Bigben|Le Big Ben|Tour Elizabeth|La tour Elizabeth|Horloge de Londres|Tour de l'horloge de Londres|La tour Big Ben|Great Bell|La ",
+      "n": "AlternateSpellings"
+    }
+  ]
+}

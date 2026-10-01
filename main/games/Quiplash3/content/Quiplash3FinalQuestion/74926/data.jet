@@ -1,0 +1,44 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Keywords"
+    },
+    {
+      "t": "A",
+      "v": "response",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponseText"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPromptAudio"
+    },
+    {
+      "t": "A",
+      "v": "prompt",
+      "n": "PromptAudio"
+    },
+    {
+      "t": "S",
+      "v": "Trois façons de vous empêcher de pleurer devant un film Pixar ",
+      "n": "PromptText"
+    },
+    {
+      "t": "S",
+      "v": "pense à quelque chose d'horrible | comme ma vie | maintenant je suis déçu | pense à des pensées heureuses | pense à des pensées plus heureuses | abandonne et pleure | prends des pauses fréquentes | ne t'investis pas | sois mort à l'intérieur ",
+      "n": "SafetyQuips"
+    }
+  ]
+}

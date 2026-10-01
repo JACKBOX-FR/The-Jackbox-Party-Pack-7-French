@@ -1,0 +1,44 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Keywords"
+    },
+    {
+      "t": "A",
+      "v": "response",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponseText"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPromptAudio"
+    },
+    {
+      "t": "A",
+      "v": "prompt",
+      "n": "PromptAudio"
+    },
+    {
+      "t": "S",
+      "v": "Trois choses que vous pensiez vraiment que nous aurions inventées maintenant ",
+      "n": "PromptText"
+    },
+    {
+      "t": "S",
+      "v": "médecins robots|jetpacks personnels|papier toilette automatique|arbres à saucisses|buissons à hamburgers|meilleur médicament contre le cholestérol|robots qui cuisinent|robots qui nettoient|robots qui ne me jugent pas ",
+      "n": "SafetyQuips"
+    }
+  ]
+}

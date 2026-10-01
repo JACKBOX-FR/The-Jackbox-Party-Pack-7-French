@@ -1,0 +1,44 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Keywords"
+    },
+    {
+      "t": "A",
+      "v": "response",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponseText"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPromptAudio"
+    },
+    {
+      "t": "A",
+      "v": "prompt",
+      "n": "PromptAudio"
+    },
+    {
+      "t": "S",
+      "v": "Si une image vaut mille mots, quels sont les trois mots que disait votre dernier selfie ? ",
+      "n": "PromptText"
+    },
+    {
+      "t": "S",
+      "v": "qu'est-ce que|c'est|tache|tristesse|dépression|taco bell|J'ai|besoin|d'attention",
+      "n": "SafetyQuips"
+    }
+  ]
+}

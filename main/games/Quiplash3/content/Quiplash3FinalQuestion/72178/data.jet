@@ -1,0 +1,44 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Keywords"
+    },
+    {
+      "t": "A",
+      "v": "response",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponseText"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPromptAudio"
+    },
+    {
+      "t": "A",
+      "v": "prompt",
+      "n": "PromptAudio"
+    },
+    {
+      "t": "S",
+      "v": "Trois choses bizarres à fabriquer en bois ",
+      "n": "PromptText"
+    },
+    {
+      "t": "S",
+      "v": "des chaussettes|un chapeau|un boxer|de fausses dents|un faux menton|une fausse tête|un ordinateur portable|une berline familiale|un matelas en mousse à mémoire de forme ",
+      "n": "SafetyQuips"
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Keywords"
+    },
+    {
+      "t": "A",
+      "v": "response",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponseText"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPromptAudio"
+    },
+    {
+      "t": "A",
+      "v": "prompt",
+      "n": "PromptAudio"
+    },
+    {
+      "t": "S",
+      "v": "Les trois signes indiquant que vous pourriez être un pur mal sont... ",
+      "n": "PromptText"
+    },
+    {
+      "t": "S",
+      "v": "tu détestes les enfants|tu détestes les chiens|tu aimes le smooth jazz|l'eau bénite pique|les croix piquent|le soufre, c'est bien cependant|tu lévites|la misère te donne de la force|tu es toujours en feu ",
+      "n": "SafetyQuips"
+    }
+  ]
+}

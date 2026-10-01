@@ -1,0 +1,34 @@
+{
+  "fields": [
+    {
+      "t": "S",
+      "v": "Antoine Bourdain ",
+      "n": "Password"
+    },
+    {
+      "t": "S",
+      "v": "personne",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "célébrité",
+      "n": "Subcategory"
+    },
+    {
+      "t": "S",
+      "v": "moyen",
+      "n": "Difficulty"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "ForbiddenWords"
+    },
+    {
+      "t": "S",
+      "v": "Tony Bourdain|Bourdain|Anthony Bordain|Bordain|Anthony Bordayne|Bordayne|Anthony Bourdayn|Bourdayn|Chef Anthony Bourdain|Chef Bourdain|Anthony Bourdane|Bourdane|Anthony Borddane|Borddane ",
+      "n": "AlternateSpellings"
+    }
+  ]
+}

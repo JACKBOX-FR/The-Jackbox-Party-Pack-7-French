@@ -1,0 +1,44 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Keywords"
+    },
+    {
+      "t": "A",
+      "v": "response",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponseText"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPromptAudio"
+    },
+    {
+      "t": "A",
+      "v": "prompt",
+      "n": "PromptAudio"
+    },
+    {
+      "t": "S",
+      "v": "Une saveur de jus de vape spécialement conçue pour les personnes de plus de 70 ans ",
+      "n": "PromptText"
+    },
+    {
+      "t": "S",
+      "v": "Werther's Original|Petits-enfants-Visite-Grape|bubblegum, mais l'ancienne sorte de bubblegum ",
+      "n": "SafetyQuips"
+    }
+  ]
+}

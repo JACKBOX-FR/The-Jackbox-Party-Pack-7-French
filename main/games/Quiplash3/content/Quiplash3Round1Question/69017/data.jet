@@ -1,0 +1,44 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Keywords"
+    },
+    {
+      "t": "A",
+      "v": "response",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponseText"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPromptAudio"
+    },
+    {
+      "t": "A",
+      "v": "prompt",
+      "n": "PromptAudio"
+    },
+    {
+      "t": "S",
+      "v": "Un bon signe que le Père Noël n’en a plus rien à foutre de son travail ",
+      "n": "PromptText"
+    },
+    {
+      "t": "S",
+      "v": "Deux mots : saucisse de renne | J'ai commencé Santa Prime | 9,95 $ pour être sur la liste Nice ",
+      "n": "SafetyQuips"
+    }
+  ]
+}

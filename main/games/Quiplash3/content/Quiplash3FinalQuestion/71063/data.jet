@@ -1,0 +1,44 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Keywords"
+    },
+    {
+      "t": "A",
+      "v": "response",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponseText"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPromptAudio"
+    },
+    {
+      "t": "A",
+      "v": "prompt",
+      "n": "PromptAudio"
+    },
+    {
+      "t": "S",
+      "v": "Trois choses actuellement dans la poche du président américain ",
+      "n": "PromptText"
+    },
+    {
+      "t": "S",
+      "v": "une montre|clés|codes nucléaires|un mouchoir|dix dollars|la liste des choses à faire du pays|une pastille contre la toux|sept nickels|les clés de la Maison Blanche ",
+      "n": "SafetyQuips"
+    }
+  ]
+}

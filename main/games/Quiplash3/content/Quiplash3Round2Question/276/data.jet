@@ -1,0 +1,44 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Keywords"
+    },
+    {
+      "t": "A",
+      "v": "response",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponseText"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPromptAudio"
+    },
+    {
+      "t": "A",
+      "v": "prompt",
+      "n": "PromptAudio"
+    },
+    {
+      "t": "S",
+      "v": "Une chose surprenante qui impressionne beaucoup Shania Twain ",
+      "n": "PromptText"
+    },
+    {
+      "t": "S",
+      "v": "Architecture sumérienne|Un verre de lait chaud|Le frère encore plus beau de Brad Pitt ",
+      "n": "SafetyQuips"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "fields": [
+    {
+      "t": "S",
+      "v": "L'amour en fait ",
+      "n": "Password"
+    },
+    {
+      "t": "S",
+      "v": "histoire",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "film",
+      "n": "Subcategory"
+    },
+    {
+      "t": "S",
+      "v": "moyen",
+      "n": "Difficulty"
+    },
+    {
+      "t": "S",
+      "v": "love",
+      "n": "ForbiddenWords"
+    },
+    {
+      "t": "S",
+      "v": "L'amour, en fait|L'amour en fait|L'amour, en fait|L'amour en fait|L'amour, en fait ",
+      "n": "AlternateSpellings"
+    }
+  ]
+}

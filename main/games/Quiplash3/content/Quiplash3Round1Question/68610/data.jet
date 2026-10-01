@@ -1,0 +1,44 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Keywords"
+    },
+    {
+      "t": "A",
+      "v": "response",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponseText"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPromptAudio"
+    },
+    {
+      "t": "A",
+      "v": "prompt",
+      "n": "PromptAudio"
+    },
+    {
+      "t": "S",
+      "v": "Une meilleure utilisation des cheveux de Raiponce ",
+      "n": "PromptText"
+    },
+    {
+      "t": "S",
+      "v": "faites un nid pour les aigles en voie de disparition | fouettez-le d'avant en arrière (dansant) | tressez-le simplement et rendez-le mignon ",
+      "n": "SafetyQuips"
+    }
+  ]
+}

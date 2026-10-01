@@ -1,0 +1,44 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Keywords"
+    },
+    {
+      "t": "A",
+      "v": "response",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponseText"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPromptAudio"
+    },
+    {
+      "t": "A",
+      "v": "prompt",
+      "n": "PromptAudio"
+    },
+    {
+      "t": "S",
+      "v": "Une révélation que vous avez lors de vos retrouvailles de 20 ans de lycée ",
+      "n": "PromptText"
+    },
+    {
+      "t": "S",
+      "v": "J'ai épousé le mauvais homme|La vie n'a pas de sens|nous avions l'air plus jeunes il y a 10 ans ",
+      "n": "SafetyQuips"
+    }
+  ]
+}

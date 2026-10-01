@@ -1,0 +1,44 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Keywords"
+    },
+    {
+      "t": "A",
+      "v": "response",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponseText"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPromptAudio"
+    },
+    {
+      "t": "A",
+      "v": "prompt",
+      "n": "PromptAudio"
+    },
+    {
+      "t": "S",
+      "v": "Une phrase horrifiante à voir brodée sur l’oreiller de grand-mère ",
+      "n": "PromptText"
+    },
+    {
+      "t": "S",
+      "v": "C'est là que grand-père est mort|Célibataire et prêt à se mêler|une ligne rouge à travers les mots « j'aime mes petits-enfants » ",
+      "n": "SafetyQuips"
+    }
+  ]
+}

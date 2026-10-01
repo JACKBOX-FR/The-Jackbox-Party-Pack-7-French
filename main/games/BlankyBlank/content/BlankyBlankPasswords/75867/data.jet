@@ -1,0 +1,34 @@
+{
+  "fields": [
+    {
+      "t": "S",
+      "v": "Mer Morte ",
+      "n": "Password"
+    },
+    {
+      "t": "S",
+      "v": "lieu",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "eauy",
+      "n": "Subcategory"
+    },
+    {
+      "t": "S",
+      "v": "moyen",
+      "n": "Difficulty"
+    },
+    {
+      "t": "S",
+      "v": "dead",
+      "n": "ForbiddenWords"
+    },
+    {
+      "t": "S",
+      "v": "La mer Morte|La mer de sel|Mer de sel|Buhayrat|Bahret|Birket Lu|La mer de l'Est ",
+      "n": "AlternateSpellings"
+    }
+  ]
+}

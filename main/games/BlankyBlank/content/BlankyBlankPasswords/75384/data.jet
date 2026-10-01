@@ -1,0 +1,34 @@
+{
+  "fields": [
+    {
+      "t": "S",
+      "v": "Le sixième sens ",
+      "n": "Password"
+    },
+    {
+      "t": "S",
+      "v": "histoire",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "film",
+      "n": "Subcategory"
+    },
+    {
+      "t": "S",
+      "v": "moyen",
+      "n": "Difficulty"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "ForbiddenWords"
+    },
+    {
+      "t": "S",
+      "v": "Sixième sens|6ème sens|Le 6ème sens|Les six sens|Six sens|Les 6 sens|6 sens|Les sixièmes cents|Les six cents|Les 6èmes cents|Sixièmes cents|Six cents|6ème cents ",
+      "n": "AlternateSpellings"
+    }
+  ]
+}

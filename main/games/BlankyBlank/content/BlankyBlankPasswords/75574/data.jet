@@ -1,0 +1,34 @@
+{
+  "fields": [
+    {
+      "t": "S",
+      "v": "Journal d'un enfant dégonflé ",
+      "n": "Password"
+    },
+    {
+      "t": "S",
+      "v": "histoire",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "livre",
+      "n": "Subcategory"
+    },
+    {
+      "t": "S",
+      "v": "difficile",
+      "n": "Difficulty"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "ForbiddenWords"
+    },
+    {
+      "t": "S",
+      "v": "Wimpy Kid|Laiterie d'un Wimpy Kid|Journal du Wimpy Kid|Journal d'un Wimpy Kid|Whimpy Kid ",
+      "n": "AlternateSpellings"
+    }
+  ]
+}

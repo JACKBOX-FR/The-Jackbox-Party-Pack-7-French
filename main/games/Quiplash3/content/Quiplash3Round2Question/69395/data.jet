@@ -1,0 +1,44 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Keywords"
+    },
+    {
+      "t": "A",
+      "v": "response",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponseText"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPromptAudio"
+    },
+    {
+      "t": "A",
+      "v": "prompt",
+      "n": "PromptAudio"
+    },
+    {
+      "t": "S",
+      "v": "Le titre de la chanson la plus Bruce Springsteen-y qui n’existe pas ",
+      "n": "PromptText"
+    },
+    {
+      "t": "S",
+      "v": "amoureux des aciéries | le New Jersey est ma femme | une métaphore de l'Amérique ",
+      "n": "SafetyQuips"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "fields": [
+    {
+      "t": "S",
+      "v": "Petites femmes ",
+      "n": "Password"
+    },
+    {
+      "t": "S",
+      "v": "histoire",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "livre",
+      "n": "Subcategory"
+    },
+    {
+      "t": "S",
+      "v": "difficile",
+      "n": "Difficulty"
+    },
+    {
+      "t": "S",
+      "v": "little",
+      "n": "ForbiddenWords"
+    },
+    {
+      "t": "S",
+      "v": "Petite femme|Petites femmes|Petite femme ",
+      "n": "AlternateSpellings"
+    }
+  ]
+}

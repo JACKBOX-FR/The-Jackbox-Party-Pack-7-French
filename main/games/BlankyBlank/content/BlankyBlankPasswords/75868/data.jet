@@ -1,0 +1,34 @@
+{
+  "fields": [
+    {
+      "t": "S",
+      "v": "L'Alamo ",
+      "n": "Password"
+    },
+    {
+      "t": "S",
+      "v": "lieu",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "cuturel",
+      "n": "Subcategory"
+    },
+    {
+      "t": "S",
+      "v": "difficile",
+      "n": "Difficulty"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "ForbiddenWords"
+    },
+    {
+      "t": "S",
+      "v": "Mission Alamo|Mission Alamo à San Antonio|Souvenez-vous d'Alamo|La bataille de l'Alamo|Bataille de l'Alamo|L'Almo|Almo|L'Allamo|Allamo ",
+      "n": "AlternateSpellings"
+    }
+  ]
+}

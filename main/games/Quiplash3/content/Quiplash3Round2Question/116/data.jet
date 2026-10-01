@@ -1,0 +1,44 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "S",
+      "v": "Schmitty|Shmitty|Smitty|the host of Quiplash|the Quiplash host|Schmittie|Shmittie|Smittie|Schmity|Smity|Smitie|shmity",
+      "n": "Keywords"
+    },
+    {
+      "t": "A",
+      "v": "response",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "t": "S",
+      "v": "Ah, you have drawn the Schmitty card. I see nothing but resentment and flatulence in your fut- (fart). Well, that was fast. ",
+      "n": "KeywordResponseText"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPromptAudio"
+    },
+    {
+      "t": "A",
+      "v": "prompt",
+      "n": "PromptAudio"
+    },
+    {
+      "t": "S",
+      "v": "Vous pouvez vous attendre à une tragédie lorsque le lecteur de tarot retourne la carte représentant <BLANK> ",
+      "n": "PromptText"
+    },
+    {
+      "t": "S",
+      "v": "un réfrigérateur vide | le comptable des tasses | quelqu'un qui achète un prêt hypothécaire à risque ",
+      "n": "SafetyQuips"
+    }
+  ]
+}

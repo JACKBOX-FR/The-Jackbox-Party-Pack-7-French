@@ -1,0 +1,34 @@
+{
+  "fields": [
+    {
+      "t": "S",
+      "v": "Choses étranges ",
+      "n": "Password"
+    },
+    {
+      "t": "S",
+      "v": "histoire",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "tv",
+      "n": "Subcategory"
+    },
+    {
+      "t": "S",
+      "v": "facile",
+      "n": "Difficulty"
+    },
+    {
+      "t": "S",
+      "v": "thing|strange",
+      "n": "ForbiddenWords"
+    },
+    {
+      "t": "S",
+      "v": "Chose étrange|Choses étranges|Chose étrange|Choses les plus étranges|Chose la plus étrange|Choses étranges|Choses étranges|Les choses étranges ",
+      "n": "AlternateSpellings"
+    }
+  ]
+}

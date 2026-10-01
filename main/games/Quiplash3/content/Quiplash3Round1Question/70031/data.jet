@@ -1,0 +1,44 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Keywords"
+    },
+    {
+      "t": "A",
+      "v": "response",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponseText"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPromptAudio"
+    },
+    {
+      "t": "A",
+      "v": "prompt",
+      "n": "PromptAudio"
+    },
+    {
+      "t": "S",
+      "v": "Le parc d’attractions était un fiasco. Maintenant, que faisons-nous de tous ces dinosaures clonés ?! ",
+      "n": "PromptText"
+    },
+    {
+      "t": "S",
+      "v": "Essayons ENCORE un parc d'attractions | saccadé | zoo pour enfants ?",
+      "n": "SafetyQuips"
+    }
+  ]
+}

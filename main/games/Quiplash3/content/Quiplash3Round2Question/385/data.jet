@@ -1,0 +1,44 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Keywords"
+    },
+    {
+      "t": "A",
+      "v": "response",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponseText"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPromptAudio"
+    },
+    {
+      "t": "A",
+      "v": "prompt",
+      "n": "PromptAudio"
+    },
+    {
+      "t": "S",
+      "v": "Lors des soirées sexuelles les plus bizarres, les gens ne portent pas de masques. Ils portent <BLANK> ",
+      "n": "PromptText"
+    },
+    {
+      "t": "S",
+      "v": "uniformes des employés des postes de péage | merkins | longueurs de filets à papillons ",
+      "n": "SafetyQuips"
+    }
+  ]
+}

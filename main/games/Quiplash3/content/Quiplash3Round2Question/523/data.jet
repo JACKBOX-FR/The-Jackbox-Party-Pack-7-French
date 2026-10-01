@@ -1,0 +1,44 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Keywords"
+    },
+    {
+      "t": "A",
+      "v": "response",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponseText"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPromptAudio"
+    },
+    {
+      "t": "A",
+      "v": "prompt",
+      "n": "PromptAudio"
+    },
+    {
+      "t": "S",
+      "v": "Dieu a envoyé ce signe d'avertissement et nous l'avons totalement manqué ",
+      "n": "PromptText"
+    },
+    {
+      "t": "S",
+      "v": "L'étrange popularité de la série Twilight|Panneau d'affichage qui dit \"Attention ! - Dieu\"|Les trucs qui sortent lors d'une infection des sinus ",
+      "n": "SafetyQuips"
+    }
+  ]
+}

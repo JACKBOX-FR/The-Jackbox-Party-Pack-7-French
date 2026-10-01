@@ -1,0 +1,34 @@
+{
+  "fields": [
+    {
+      "t": "S",
+      "v": "Le piège des parents ",
+      "n": "Password"
+    },
+    {
+      "t": "S",
+      "v": "histoire",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "film",
+      "n": "Subcategory"
+    },
+    {
+      "t": "S",
+      "v": "difficile",
+      "n": "Difficulty"
+    },
+    {
+      "t": "S",
+      "v": "parent|trap",
+      "n": "ForbiddenWords"
+    },
+    {
+      "t": "S",
+      "v": "Piège parental ",
+      "n": "AlternateSpellings"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "fields": [
+    {
+      "t": "S",
+      "v": "Peter Pan ",
+      "n": "Password"
+    },
+    {
+      "t": "S",
+      "v": "histoire",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "film d'animation",
+      "n": "Subcategory"
+    },
+    {
+      "t": "S",
+      "v": "facile",
+      "n": "Difficulty"
+    },
+    {
+      "t": "S",
+      "v": "neverland",
+      "n": "ForbiddenWords"
+    },
+    {
+      "t": "S",
+      "v": "PeterPan|Pan ",
+      "n": "AlternateSpellings"
+    }
+  ]
+}

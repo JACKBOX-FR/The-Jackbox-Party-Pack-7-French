@@ -1,0 +1,34 @@
+{
+  "fields": [
+    {
+      "t": "S",
+      "v": "Monde occidental ",
+      "n": "Password"
+    },
+    {
+      "t": "S",
+      "v": "histoire",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "tv",
+      "n": "Subcategory"
+    },
+    {
+      "t": "S",
+      "v": "moyen",
+      "n": "Difficulty"
+    },
+    {
+      "t": "S",
+      "v": "West|World",
+      "n": "ForbiddenWords"
+    },
+    {
+      "t": "S",
+      "v": "Monde de l'Ouest|Le monde de l'Ouest|Le monde de l'Ouest|Monde de l'Ouest|Monde de l'Ouest ",
+      "n": "AlternateSpellings"
+    }
+  ]
+}

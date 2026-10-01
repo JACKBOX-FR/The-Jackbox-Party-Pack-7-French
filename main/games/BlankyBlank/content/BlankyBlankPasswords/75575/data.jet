@@ -1,0 +1,34 @@
+{
+  "fields": [
+    {
+      "t": "S",
+      "v": "Questions de famille ",
+      "n": "Password"
+    },
+    {
+      "t": "S",
+      "v": "histoire",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "tv",
+      "n": "Subcategory"
+    },
+    {
+      "t": "S",
+      "v": "moyen",
+      "n": "Difficulty"
+    },
+    {
+      "t": "S",
+      "v": "family",
+      "n": "ForbiddenWords"
+    },
+    {
+      "t": "S",
+      "v": "Maters de famille|Les familles comptent|Questions de famille|Maters de famille ",
+      "n": "AlternateSpellings"
+    }
+  ]
+}

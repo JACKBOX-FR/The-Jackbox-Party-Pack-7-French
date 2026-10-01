@@ -1,0 +1,34 @@
+{
+  "fields": [
+    {
+      "t": "S",
+      "v": "Les Indestructibles ",
+      "n": "Password"
+    },
+    {
+      "t": "S",
+      "v": "histoire",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "film d'animation",
+      "n": "Subcategory"
+    },
+    {
+      "t": "S",
+      "v": "facile",
+      "n": "Difficulty"
+    },
+    {
+      "t": "S",
+      "v": "incredible",
+      "n": "ForbiddenWords"
+    },
+    {
+      "t": "S",
+      "v": "Les Indestructibles|Les Indestructibles|Les Indestructibles|Les Indestructibles|Incredibels|Les Incredibals|Incredibals|Les Indestructibles|Incredabels ",
+      "n": "AlternateSpellings"
+    }
+  ]
+}

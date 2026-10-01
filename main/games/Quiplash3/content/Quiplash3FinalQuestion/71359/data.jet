@@ -1,0 +1,44 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Keywords"
+    },
+    {
+      "t": "A",
+      "v": "response",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponseText"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPromptAudio"
+    },
+    {
+      "t": "A",
+      "v": "prompt",
+      "n": "PromptAudio"
+    },
+    {
+      "t": "S",
+      "v": "Trois signes que votre voisin est en colère contre vous ",
+      "n": "PromptText"
+    },
+    {
+      "t": "S",
+      "v": "Grande clôture|regards en colère|entraînement de cornemuse tard dans la nuit|crottes de chien dans la cour|crottes de chien sur les marches|crottes de chien dans la boîte aux lettres|s'éloigne|mais passe toujours par là|et dit \"tu pues\" ",
+      "n": "SafetyQuips"
+    }
+  ]
+}

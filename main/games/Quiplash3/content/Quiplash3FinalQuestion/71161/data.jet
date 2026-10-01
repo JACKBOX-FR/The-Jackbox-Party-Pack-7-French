@@ -1,0 +1,44 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Keywords"
+    },
+    {
+      "t": "A",
+      "v": "response",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponseText"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPromptAudio"
+    },
+    {
+      "t": "A",
+      "v": "prompt",
+      "n": "PromptAudio"
+    },
+    {
+      "t": "S",
+      "v": "Les trois choses que vous devez faire en tant que stagiaire de Dark Vador ",
+      "n": "PromptText"
+    },
+    {
+      "t": "S",
+      "v": "prendre un café | nettoyer le casque | écraser la rébellion | nettoyer à sec la cape | ramasser les beignets | huiler les pièces mécaniques | laver son vaisseau spatial | planifier des rendez-vous | réparer la relation avec les enfants ",
+      "n": "SafetyQuips"
+    }
+  ]
+}

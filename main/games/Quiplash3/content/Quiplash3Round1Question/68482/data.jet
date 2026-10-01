@@ -1,0 +1,44 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "S",
+      "v": "<PRONOUN> farts | farts|<PRONOUN> fart | fart|<ARTICLE> farts | farts|<ARTICLE> farting | farting",
+      "n": "Keywords"
+    },
+    {
+      "t": "A",
+      "v": "response",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "t": "S",
+      "v": "Well, I am definitely the head of that household. (squeak fart)",
+      "n": "KeywordResponseText"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPromptAudio"
+    },
+    {
+      "t": "A",
+      "v": "prompt",
+      "n": "PromptAudio"
+    },
+    {
+      "t": "S",
+      "v": "Il existe une échappatoire fiscale secrète qui vous permet de compter <BLANK> comme personnes à charge ",
+      "n": "PromptText"
+    },
+    {
+      "t": "S",
+      "v": "idées|monstres sous ton lit ",
+      "n": "SafetyQuips"
+    }
+  ]
+}

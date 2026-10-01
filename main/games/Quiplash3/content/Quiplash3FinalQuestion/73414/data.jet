@@ -1,0 +1,44 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Keywords"
+    },
+    {
+      "t": "A",
+      "v": "response",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponseText"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPromptAudio"
+    },
+    {
+      "t": "A",
+      "v": "prompt",
+      "n": "PromptAudio"
+    },
+    {
+      "t": "S",
+      "v": "Trois choses que vous ne devriez jamais mouiller ",
+      "n": "PromptText"
+    },
+    {
+      "t": "S",
+      "v": "montre intelligente|téléphone intelligent|personnes intelligentes|sucre|sel|une combinaison des deux|mes cheveux|non, sérieusement|J'ai finalement eu ce que je voulais ",
+      "n": "SafetyQuips"
+    }
+  ]
+}

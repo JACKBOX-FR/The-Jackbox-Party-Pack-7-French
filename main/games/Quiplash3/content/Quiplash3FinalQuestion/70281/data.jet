@@ -1,0 +1,44 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Keywords"
+    },
+    {
+      "t": "A",
+      "v": "response",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponseText"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPromptAudio"
+    },
+    {
+      "t": "A",
+      "v": "prompt",
+      "n": "PromptAudio"
+    },
+    {
+      "t": "S",
+      "v": "Les trois choses que vous devez faire pour être un bon chien... un si bon chien ",
+      "n": "PromptText"
+    },
+    {
+      "t": "S",
+      "v": "assieds-toi | roule-toi | résout des crimes | va chercher un bâton | va chercher une balle | arrête d'essayer 2 pour que la récupération se produise | s'asseoir | rester | gérer mon fonds de retraite ",
+      "n": "SafetyQuips"
+    }
+  ]
+}

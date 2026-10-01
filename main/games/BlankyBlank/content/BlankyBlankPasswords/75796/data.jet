@@ -1,0 +1,34 @@
+{
+  "fields": [
+    {
+      "t": "S",
+      "v": "Tordeuse ",
+      "n": "Password"
+    },
+    {
+      "t": "S",
+      "v": "chose",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "jeu",
+      "n": "Subcategory"
+    },
+    {
+      "t": "S",
+      "v": "moyen",
+      "n": "Difficulty"
+    },
+    {
+      "t": "S",
+      "v": "twist",
+      "n": "ForbiddenWords"
+    },
+    {
+      "t": "S",
+      "v": "Tapis Twister|Twister Matt|Jeu Twister|Twisters",
+      "n": "AlternateSpellings"
+    }
+  ]
+}

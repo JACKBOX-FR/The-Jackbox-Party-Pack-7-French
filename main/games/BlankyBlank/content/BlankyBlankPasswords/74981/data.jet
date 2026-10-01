@@ -1,0 +1,34 @@
+{
+  "fields": [
+    {
+      "t": "S",
+      "v": "Palais de Buckingham ",
+      "n": "Password"
+    },
+    {
+      "t": "S",
+      "v": "lieu",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "cuturel",
+      "n": "Subcategory"
+    },
+    {
+      "t": "S",
+      "v": "moyen",
+      "n": "Difficulty"
+    },
+    {
+      "t": "S",
+      "v": "Palace",
+      "n": "ForbiddenWords"
+    },
+    {
+      "t": "S",
+      "v": "Palais de Buckingam|Le palais|buckingham|buckingam|le palais de Buckingham ",
+      "n": "AlternateSpellings"
+    }
+  ]
+}

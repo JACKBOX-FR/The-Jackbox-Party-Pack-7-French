@@ -1,0 +1,44 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Keywords"
+    },
+    {
+      "t": "A",
+      "v": "response",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponseText"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPromptAudio"
+    },
+    {
+      "t": "A",
+      "v": "prompt",
+      "n": "PromptAudio"
+    },
+    {
+      "t": "S",
+      "v": "Bonne nouvelle : il y a du gâteau dans la salle de repos. Mauvaise nouvelle : il est écrit <BLANK> ",
+      "n": "PromptText"
+    },
+    {
+      "t": "S",
+      "v": "désolé pour votre perte|Ne mange pas, ce gâteau est pois-|Le premier à me manger est viré ",
+      "n": "SafetyQuips"
+    }
+  ]
+}

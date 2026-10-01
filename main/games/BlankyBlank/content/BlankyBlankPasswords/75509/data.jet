@@ -1,0 +1,34 @@
+{
+  "fields": [
+    {
+      "t": "S",
+      "v": "Dingo ",
+      "n": "Password"
+    },
+    {
+      "t": "S",
+      "v": "personne",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "fictif",
+      "n": "Subcategory"
+    },
+    {
+      "t": "S",
+      "v": "moyen",
+      "n": "Difficulty"
+    },
+    {
+      "t": "S",
+      "v": "goofy",
+      "n": "ForbiddenWords"
+    },
+    {
+      "t": "S",
+      "v": "Dingo|goffy|goffie|chien Dingo|Doufo le chien ",
+      "n": "AlternateSpellings"
+    }
+  ]
+}

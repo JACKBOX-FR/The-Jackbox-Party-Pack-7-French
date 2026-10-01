@@ -1,0 +1,44 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Keywords"
+    },
+    {
+      "t": "A",
+      "v": "response",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponseText"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPromptAudio"
+    },
+    {
+      "t": "A",
+      "v": "prompt",
+      "n": "PromptAudio"
+    },
+    {
+      "t": "S",
+      "v": "La demande de célébrité la plus étrange dans un contrat de cavalier : la salle verte DOIT avoir <BLANK>",
+      "n": "PromptText"
+    },
+    {
+      "t": "S",
+      "v": "une deuxième salle verte, plus petite | une façon de me sentir à nouveau entière | le plus grand hoagie que vous ayez jamais vu ",
+      "n": "SafetyQuips"
+    }
+  ]
+}

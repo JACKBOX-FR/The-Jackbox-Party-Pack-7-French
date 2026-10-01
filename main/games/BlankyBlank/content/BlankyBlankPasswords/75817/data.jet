@@ -1,0 +1,34 @@
+{
+  "fields": [
+    {
+      "t": "S",
+      "v": "Monsieur Patate ",
+      "n": "Password"
+    },
+    {
+      "t": "S",
+      "v": "chose",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "jouet",
+      "n": "Subcategory"
+    },
+    {
+      "t": "S",
+      "v": "moyen",
+      "n": "Difficulty"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "ForbiddenWords"
+    },
+    {
+      "t": "S",
+      "v": "Monsieur Pomme de Terre|Tête de Pomme de Terre|Mme. Tête de pomme de terre|Monsieur Tête de pomme de terre|M. Potatohead|M. Potatohead|Monsieur Potatohead|Mme Potato Head|Mme. Potatohead|Mme Potatohead|M. Tête de pomme de terre|M. Tête de pomme de terre|Monsieur Tête de pomme de terre ",
+      "n": "AlternateSpellings"
+    }
+  ]
+}

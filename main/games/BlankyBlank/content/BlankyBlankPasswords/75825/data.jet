@@ -1,0 +1,34 @@
+{
+  "fields": [
+    {
+      "t": "S",
+      "v": "Le secret de Victoria ",
+      "n": "Password"
+    },
+    {
+      "t": "S",
+      "v": "lieu",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "marque",
+      "n": "Subcategory"
+    },
+    {
+      "t": "S",
+      "v": "moyen",
+      "n": "Difficulty"
+    },
+    {
+      "t": "S",
+      "v": "secret",
+      "n": "ForbiddenWords"
+    },
+    {
+      "t": "S",
+      "v": "Victoria's Secret|Victoria Secret|Victoria's Secrets|Victorias Secrets|Victoria Secrets|Victory Secret ",
+      "n": "AlternateSpellings"
+    }
+  ]
+}

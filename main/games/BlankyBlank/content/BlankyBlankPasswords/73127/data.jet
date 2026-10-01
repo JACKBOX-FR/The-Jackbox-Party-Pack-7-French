@@ -1,0 +1,34 @@
+{
+  "fields": [
+    {
+      "t": "S",
+      "v": "Salle d'urgence ",
+      "n": "Password"
+    },
+    {
+      "t": "S",
+      "v": "lieu",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Subcategory"
+    },
+    {
+      "t": "S",
+      "v": "facile",
+      "n": "Difficulty"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "ForbiddenWords"
+    },
+    {
+      "t": "S",
+      "v": "ER|les urgences|les urgences|ER|Les urgences|le service des urgences|le service des urgences|le service des accidents et des urgences|le service des urgences|l'hôpital d'urgence|le service des urgences|le service des urgences|ed|le service des urgences|le service des accidents et des urgences|le service des accidents|le service des accidents|A&E|le service des urgences|le nouveau|le nouveau ",
+      "n": "AlternateSpellings"
+    }
+  ]
+}

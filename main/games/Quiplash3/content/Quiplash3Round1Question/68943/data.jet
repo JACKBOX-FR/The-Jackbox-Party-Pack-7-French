@@ -1,0 +1,44 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Keywords"
+    },
+    {
+      "t": "A",
+      "v": "response",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponseText"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPromptAudio"
+    },
+    {
+      "t": "A",
+      "v": "prompt",
+      "n": "PromptAudio"
+    },
+    {
+      "t": "S",
+      "v": "Ok, les gars, combattons loyalement. Pas de crachats, pas de coups de pied et absolument aucun <BLANK> ",
+      "n": "PromptText"
+    },
+    {
+      "t": "S",
+      "v": "tomber amoureux|double néerlandais|discussion sur le socialisme ",
+      "n": "SafetyQuips"
+    }
+  ]
+}

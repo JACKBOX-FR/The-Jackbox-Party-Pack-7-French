@@ -1,0 +1,44 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Keywords"
+    },
+    {
+      "t": "A",
+      "v": "response",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponseText"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPromptAudio"
+    },
+    {
+      "t": "A",
+      "v": "prompt",
+      "n": "PromptAudio"
+    },
+    {
+      "t": "S",
+      "v": "Trois commandements qui n’ont pas été retenus ",
+      "n": "PromptText"
+    },
+    {
+      "t": "S",
+      "v": "ne déteste pas | sois cool | lave-toi les mains | plus de vêtements | plus d'argent | beaucoup plus de nuggets de poulet | le mardi taco est saint | tu ne seras pas effrayant | tu te vanteras de marathons ",
+      "n": "SafetyQuips"
+    }
+  ]
+}

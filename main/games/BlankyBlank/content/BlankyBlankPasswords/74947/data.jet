@@ -1,0 +1,34 @@
+{
+  "fields": [
+    {
+      "t": "S",
+      "v": "Jus de Beetle ",
+      "n": "Password"
+    },
+    {
+      "t": "S",
+      "v": "histoire",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "film",
+      "n": "Subcategory"
+    },
+    {
+      "t": "S",
+      "v": "difficile",
+      "n": "Difficulty"
+    },
+    {
+      "t": "S",
+      "v": "beetle|juice ",
+      "n": "ForbiddenWords"
+    },
+    {
+      "t": "S",
+      "v": "Beetlejuice Beetlejuice Bettlejuice|Beatlejuice|Beeteljuice|Beateljuice|Jus de Beetle|Jus de Beatle|Jus de Beetel|Jus de Beatel|Bettlejuice|Beetelsjuice ",
+      "n": "AlternateSpellings"
+    }
+  ]
+}

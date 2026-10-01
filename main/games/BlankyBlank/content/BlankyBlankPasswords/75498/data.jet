@@ -1,0 +1,34 @@
+{
+  "fields": [
+    {
+      "t": "S",
+      "v": "Télétubbies ",
+      "n": "Password"
+    },
+    {
+      "t": "S",
+      "v": "histoire",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "tv",
+      "n": "Subcategory"
+    },
+    {
+      "t": "S",
+      "v": "difficile",
+      "n": "Difficulty"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "ForbiddenWords"
+    },
+    {
+      "t": "S",
+      "v": "Télétubby|Les télétubbies|Télétubbies|Les Télétubby|Télatubbies|Télé-tubbies|Télé-tubby|Télétummies|Télétubby|Télécopains ",
+      "n": "AlternateSpellings"
+    }
+  ]
+}

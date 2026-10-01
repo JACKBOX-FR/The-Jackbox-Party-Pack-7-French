@@ -1,0 +1,44 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Keywords"
+    },
+    {
+      "t": "A",
+      "v": "response",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponseText"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPromptAudio"
+    },
+    {
+      "t": "A",
+      "v": "prompt",
+      "n": "PromptAudio"
+    },
+    {
+      "t": "S",
+      "v": "Trois signes que vous avez enregistré dans une très mauvaise maison de location ",
+      "n": "PromptText"
+    },
+    {
+      "t": "S",
+      "v": "pas de grille-pain | pas de mixeur | pas de toit | pas de climatisation | pas de meubles | je suis sûr que c'est une station-service | odeur de tapis | photographes partout | contour à la craie toujours visible ",
+      "n": "SafetyQuips"
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Keywords"
+    },
+    {
+      "t": "A",
+      "v": "response",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponseText"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPromptAudio"
+    },
+    {
+      "t": "A",
+      "v": "prompt",
+      "n": "PromptAudio"
+    },
+    {
+      "t": "S",
+      "v": "Trois questions que vous DEVEZ poser au propriétaire avant d'acheter une maison ",
+      "n": "PromptText"
+    },
+    {
+      "t": "S",
+      "v": "à quel point est-il hanté ?|où est le meilleur endroit pour pleurer|vont-ils visiter ?|quelle est cette odeur ?|est-ce à l'épreuve de Godzilla ?|ont-ils filmé Parent Trap ici ?|est-ce une moulure de couronne originale ?|est-ce un bon district scolaire ?|puis-je en acheter seulement la moitié ? ",
+      "n": "SafetyQuips"
+    }
+  ]
+}

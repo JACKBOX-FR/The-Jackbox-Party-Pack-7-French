@@ -1,0 +1,29 @@
+{
+  "fields": [
+    {
+      "t": "S",
+      "v": "bateau de croisière ",
+      "n": "Password"
+    },
+    {
+      "t": "S",
+      "v": "chose",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "facile",
+      "n": "Difficulty"
+    },
+    {
+      "t": "S",
+      "v": "boat",
+      "n": "ForbiddenWords"
+    },
+    {
+      "t": "S",
+      "v": "cruise line|cruise|cruiseship|cruises|cruise boat|boat cruise",
+      "n": "AlternateSpellings"
+    }
+  ]
+}

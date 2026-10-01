@@ -1,0 +1,44 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "S",
+      "v": "R.L. Stine|RL Stine|R L Stine|R. L. Stine|R.L. Stein|RL Stein|R. L. Stein|R L Stein|R.L. Stien|RL Stien|R L Stien|R. L. Stien",
+      "n": "Keywords"
+    },
+    {
+      "t": "A",
+      "v": "response",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "t": "S",
+      "v": "Um, yeah that is technically true, I guess\nOR\nDid that ventriloquist’s dummy freak anybody else out?",
+      "n": "KeywordResponseText"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPromptAudio"
+    },
+    {
+      "t": "A",
+      "v": "prompt",
+      "n": "PromptAudio"
+    },
+    {
+      "t": "S",
+      "v": "La principale cause de la chair de poule, probablement ",
+      "n": "PromptText"
+    },
+    {
+      "t": "S",
+      "v": "Timothée Chalamet|service doux dans un casque de baseball|l'actualité ",
+      "n": "SafetyQuips"
+    }
+  ]
+}

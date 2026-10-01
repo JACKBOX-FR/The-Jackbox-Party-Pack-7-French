@@ -1,0 +1,44 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Keywords"
+    },
+    {
+      "t": "A",
+      "v": "response",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponseText"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPromptAudio"
+    },
+    {
+      "t": "A",
+      "v": "prompt",
+      "n": "PromptAudio"
+    },
+    {
+      "t": "S",
+      "v": "Mon piège est diaboliquement simple, M. Bond ! Une fois que j'aurai tiré ce levier, le sol deviendra <BLANK> ",
+      "n": "PromptText"
+    },
+    {
+      "t": "S",
+      "v": "moche|couvert d'alligators ",
+      "n": "SafetyQuips"
+    }
+  ]
+}

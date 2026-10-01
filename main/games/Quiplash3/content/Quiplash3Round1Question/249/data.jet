@@ -1,0 +1,44 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Keywords"
+    },
+    {
+      "t": "A",
+      "v": "response",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponseText"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPromptAudio"
+    },
+    {
+      "t": "A",
+      "v": "prompt",
+      "n": "PromptAudio"
+    },
+    {
+      "t": "S",
+      "v": "Difficile à croire, mais Madame Tussauds possède désormais une statue de cire de <BLANK> ",
+      "n": "PromptText"
+    },
+    {
+      "t": "S",
+      "v": "l'inventeur de Poo-Pourri|vous, le spectateur à la maison|votre futur mari ",
+      "n": "SafetyQuips"
+    }
+  ]
+}

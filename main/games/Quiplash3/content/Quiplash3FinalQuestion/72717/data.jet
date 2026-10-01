@@ -1,0 +1,44 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Keywords"
+    },
+    {
+      "t": "A",
+      "v": "response",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponseText"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPromptAudio"
+    },
+    {
+      "t": "A",
+      "v": "prompt",
+      "n": "PromptAudio"
+    },
+    {
+      "t": "S",
+      "v": "Les enfants sont faits de choses comme « du sucre, des épices et tout ce qui est bon ». De quoi sont faits les adultes ? ",
+      "n": "PromptText"
+    },
+    {
+      "t": "S",
+      "v": "regret|colère|pizza à croûte farcie|dette|plus de dettes|s'enrichir rapidement|fonds de retraite|connaissance de l'entretien des pelouses|opinions Facebook ",
+      "n": "SafetyQuips"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "fields": [
+    {
+      "t": "S",
+      "v": "Qui a piégé Roger Rabbit ",
+      "n": "Password"
+    },
+    {
+      "t": "S",
+      "v": "histoire",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "film d'animation",
+      "n": "Subcategory"
+    },
+    {
+      "t": "S",
+      "v": "moyen",
+      "n": "Difficulty"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "ForbiddenWords"
+    },
+    {
+      "t": "S",
+      "v": "Roger Rabbit|Qui a piégé Roger Rabbit?|Qui a piégé Rodger Rabbit|Qui a piégé Rodger Rabbit?|Rodger Rabbit ",
+      "n": "AlternateSpellings"
+    }
+  ]
+}

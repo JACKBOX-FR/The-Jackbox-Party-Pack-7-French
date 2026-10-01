@@ -1,0 +1,44 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Keywords"
+    },
+    {
+      "t": "A",
+      "v": "response",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponseText"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPromptAudio"
+    },
+    {
+      "t": "A",
+      "v": "prompt",
+      "n": "PromptAudio"
+    },
+    {
+      "t": "S",
+      "v": "Donc vous avez « totalement lu la Bible », hein ? Ensuite, nommez TROIS caractères. ",
+      "n": "PromptText"
+    },
+    {
+      "t": "S",
+      "v": "Jésus|L'ami de Jésus|La mère de Jésus|Dieu|est techniquement|trois gars|Doc|Biff|Marty ",
+      "n": "SafetyQuips"
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Keywords"
+    },
+    {
+      "t": "A",
+      "v": "response",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponseText"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPromptAudio"
+    },
+    {
+      "t": "A",
+      "v": "prompt",
+      "n": "PromptAudio"
+    },
+    {
+      "t": "S",
+      "v": "Les trois choses qui vous inquiéteraient si elles apparaissaient dans vos rêves ",
+      "n": "PromptText"
+    },
+    {
+      "t": "S",
+      "v": "un canard géant|qui connaît mon nom|et est mon père ?|un mannequin|une tronçonneuse parlante|une licorne avec mon visage|un loup-garou|un Frankenstein|une chorale de Draculas ",
+      "n": "SafetyQuips"
+    }
+  ]
+}

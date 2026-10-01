@@ -1,0 +1,44 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "S",
+      "v": "fart|make fart sounds|make fart noises|cut one|fart on command",
+      "n": "Keywords"
+    },
+    {
+      "t": "A",
+      "v": "response",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "t": "S",
+      "v": "Well hello there, my name’s Schmitty. (farts) Can I buy you a drink?",
+      "n": "KeywordResponseText"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPromptAudio"
+    },
+    {
+      "t": "A",
+      "v": "prompt",
+      "n": "PromptAudio"
+    },
+    {
+      "t": "S",
+      "v": "Il n’y a rien de plus sexy qu’un garçon grand et costaud qui sait comment <BLANK>",
+      "n": "PromptText"
+    },
+    {
+      "t": "S",
+      "v": "construire son propre PC de jeu|être disponible émotionnellement|enlever une salopette ",
+      "n": "SafetyQuips"
+    }
+  ]
+}

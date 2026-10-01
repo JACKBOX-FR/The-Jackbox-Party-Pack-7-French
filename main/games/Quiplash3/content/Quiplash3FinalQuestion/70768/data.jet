@@ -1,0 +1,44 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Keywords"
+    },
+    {
+      "t": "A",
+      "v": "response",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponseText"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPromptAudio"
+    },
+    {
+      "t": "A",
+      "v": "prompt",
+      "n": "PromptAudio"
+    },
+    {
+      "t": "S",
+      "v": "Les trois choses uniques que vous offrez au monde sont... ",
+      "n": "PromptText"
+    },
+    {
+      "t": "S",
+      "v": "un sens de l'humour|un grand sourire|quelques haïku claquants|recettes de pain à la banane|recettes au levain|non, les gens en ont marre de ça|une épaule sur laquelle pleurer|une épaule sur laquelle s'appuyer|je n'ai que deux épaules ",
+      "n": "SafetyQuips"
+    }
+  ]
+}

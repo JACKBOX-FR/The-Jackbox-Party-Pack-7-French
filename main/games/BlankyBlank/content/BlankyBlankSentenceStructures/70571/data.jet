@@ -1,0 +1,14 @@
+{
+ "fields": [
+  {
+   "t": "S",
+   "v": "thing",
+   "n": "Category"
+  },
+  {
+   "t": "S",
+   "v": "C'est <article-1> <thing-adjective-simple> <thing-noun-simple>.|Il <thing-verb-simple> <article-2> <thing-noun-simple>.|Parler de <thing-adjective-complex>!|IIl<thing-verb-simple> <article-2> <thing-noun-complex>.|Oh, <thing-noun-complex>!|C'est tout simplement <article-1> <thing-adjective-complex> <thing-noun-complex>.",
+   "n": "Structures"
+  }
+ ]
+}

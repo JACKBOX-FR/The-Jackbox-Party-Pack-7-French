@@ -1,0 +1,44 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Keywords"
+    },
+    {
+      "t": "A",
+      "v": "response",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponseText"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPromptAudio"
+    },
+    {
+      "t": "A",
+      "v": "prompt",
+      "n": "PromptAudio"
+    },
+    {
+      "t": "S",
+      "v": "Trois choses qui vous feront grogner ",
+      "n": "PromptText"
+    },
+    {
+      "t": "S",
+      "v": "soulever des objets lourds|un coup de poing dans l'intestin|une selle de vélo bon marché|une impression de cochon|avaler un quart|passer ce quart|mauvais gaz|bon gaz|le gaz de quelqu'un d'autre ",
+      "n": "SafetyQuips"
+    }
+  ]
+}

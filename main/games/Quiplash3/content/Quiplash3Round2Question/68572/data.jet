@@ -1,0 +1,44 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Keywords"
+    },
+    {
+      "t": "A",
+      "v": "response",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponseText"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPromptAudio"
+    },
+    {
+      "t": "A",
+      "v": "prompt",
+      "n": "PromptAudio"
+    },
+    {
+      "t": "S",
+      "v": "La chose la plus étrange à découvrir à la sortie de l'anesthésie ",
+      "n": "PromptText"
+    },
+    {
+      "t": "S",
+      "v": "J'ai remonté le temps|tu es couvert de sauce BBQ|tu es au milieu d'une intersection ",
+      "n": "SafetyQuips"
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Keywords"
+    },
+    {
+      "t": "A",
+      "v": "response",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponseText"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPromptAudio"
+    },
+    {
+      "t": "A",
+      "v": "prompt",
+      "n": "PromptAudio"
+    },
+    {
+      "t": "S",
+      "v": "La célébrité qui attire l’attention et qui apparaît lorsque vous prononcez cinq fois son nom devant un miroir ",
+      "n": "PromptText"
+    },
+    {
+      "t": "S",
+      "v": "n'importe quelle star du hip hop|un concurrent de Love is Blind|ce mec de SNL ",
+      "n": "SafetyQuips"
+    }
+  ]
+}

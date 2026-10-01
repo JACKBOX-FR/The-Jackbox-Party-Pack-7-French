@@ -1,0 +1,8182 @@
+{
+ "content": [
+  {
+   "amount": "",
+   "id": "70577",
+   "maxChoices": "1",
+   "name": "article-1",
+   "optional": true,
+   "placeholder": "a",
+   "words": [
+    {
+     "alwaysChoose": true,
+     "word": "un "
+    },
+    {
+     "alwaysChoose": true,
+     "word": "le "
+    },
+    {
+     "alwaysChoose": true,
+     "word": "votre "
+    },
+    {
+     "alwaysChoose": true,
+     "word": "leur "
+    },
+    {
+     "alwaysChoose": true,
+     "word": "son "
+    },
+    {
+     "alwaysChoose": true,
+     "word": "elle "
+    },
+    {
+     "alwaysChoose": true,
+     "word": "notre "
+    },
+    {
+     "alwaysChoose": true,
+     "word": "un "
+    },
+    {
+     "alwaysChoose": true,
+     "word": "beaucoup de "
+    }
+   ]
+  },
+  {
+   "amount": "",
+   "id": "70580",
+   "maxChoices": "3",
+   "name": "thing-adjective-simple",
+   "optional": false,
+   "placeholder": "blanky",
+   "words": [
+    {
+     "alwaysChoose": true,
+     "word": "pas"
+    },
+    {
+     "alwaysChoose": false,
+     "word": "<size>"
+    },
+    {
+     "alwaysChoose": false,
+     "word": "<age>"
+    },
+    {
+     "alwaysChoose": false,
+     "word": "<good>"
+    },
+    {
+     "alwaysChoose": false,
+     "word": "<bad>"
+    },
+    {
+     "alwaysChoose": false,
+     "word": "<texture>"
+    },
+    {
+     "alwaysChoose": false,
+     "word": "<taste>"
+    },
+    {
+     "alwaysChoose": false,
+     "word": "<emotion-good>"
+    },
+    {
+     "alwaysChoose": false,
+     "word": "<emotion-bad>"
+    },
+    {
+     "alwaysChoose": false,
+     "word": "<color>"
+    }
+   ]
+  },
+  {
+   "amount": "",
+   "id": "70582",
+   "maxChoices": "",
+   "name": "size",
+   "optional": false,
+   "placeholder": "",
+   "words": [
+    {
+     "alwaysChoose": false,
+     "word": "grand "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "petit "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "énorme "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "minuscule "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "épais "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "massif "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "court "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "grand "
+    }
+   ]
+  },
+  {
+   "amount": "",
+   "id": "70584",
+   "maxChoices": "",
+   "name": "age",
+   "optional": false,
+   "placeholder": "",
+   "words": [
+    {
+     "alwaysChoose": false,
+     "word": "jeune "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "vieux "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "ancien "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "jeune "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "récent "
+    }
+   ]
+  },
+  {
+   "amount": "",
+   "id": "70585",
+   "maxChoices": "",
+   "name": "good",
+   "optional": false,
+   "placeholder": "",
+   "words": [
+    {
+     "alwaysChoose": false,
+     "word": "bien "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "incroyable "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "incroyable "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "merveilleux "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "fantastique "
+    }
+   ]
+  },
+  {
+   "amount": "",
+   "id": "70586",
+   "maxChoices": "",
+   "name": "bad",
+   "optional": false,
+   "placeholder": "",
+   "words": [
+    {
+     "alwaysChoose": false,
+     "word": "mauvais "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "horrible "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "terrible "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "cruel "
+    }
+   ]
+  },
+  {
+   "amount": "",
+   "id": "70587",
+   "maxChoices": "",
+   "name": "texture",
+   "optional": false,
+   "placeholder": "",
+   "words": [
+    {
+     "alwaysChoose": false,
+     "word": "dur "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "doux "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "gluant "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "cahoteux "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "brillant "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "plat "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "chaud "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "froid "
+    }
+   ]
+  },
+  {
+   "amount": "",
+   "id": "70588",
+   "maxChoices": "",
+   "name": "taste",
+   "optional": false,
+   "placeholder": "",
+   "words": [
+    {
+     "alwaysChoose": false,
+     "word": "délicieux "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "dégoûtant "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "piquant "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "dégueulasse "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "délicieux "
+    }
+   ]
+  },
+  {
+   "amount": "",
+   "id": "70589",
+   "maxChoices": "",
+   "name": "emotion-good",
+   "optional": false,
+   "placeholder": "",
+   "words": [
+    {
+     "alwaysChoose": false,
+     "word": "heureux "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "joyeux "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "positif "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "glorieux "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "sympa "
+    }
+   ]
+  },
+  {
+   "amount": "",
+   "id": "70590",
+   "maxChoices": "",
+   "name": "emotion-bad",
+   "optional": false,
+   "placeholder": "",
+   "words": [
+    {
+     "alwaysChoose": false,
+     "word": "en colère "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "déchirant "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "triste "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "terrifiant "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "ennuyeux "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "bouleversant "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "signifier "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "impoli "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "cruel "
+    }
+   ]
+  },
+  {
+   "amount": "",
+   "id": "70591",
+   "maxChoices": "",
+   "name": "color",
+   "optional": false,
+   "placeholder": "",
+   "words": [
+    {
+     "alwaysChoose": false,
+     "word": "coloré "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "fade "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "dynamique "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "terne "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "multicolore"
+    }
+   ]
+  },
+  {
+   "amount": "",
+   "id": "70592",
+   "maxChoices": "2",
+   "name": "thing-noun-simple",
+   "optional": false,
+   "placeholder": "blank",
+   "words": [
+    {
+     "alwaysChoose": true,
+     "word": "<thing>"
+    },
+    {
+     "alwaysChoose": true,
+     "word": "<shape>"
+    },
+    {
+     "alwaysChoose": false,
+     "word": "<creature>"
+    },
+    {
+     "alwaysChoose": false,
+     "word": "<tool>"
+    },
+    {
+     "alwaysChoose": false,
+     "word": "<material>"
+    },
+    {
+     "alwaysChoose": false,
+     "word": "<building>"
+    },
+    {
+     "alwaysChoose": false,
+     "word": "<problem>"
+    },
+    {
+     "alwaysChoose": false,
+     "word": "<idea>"
+    },
+    {
+     "alwaysChoose": false,
+     "word": "<event>"
+    },
+    {
+     "alwaysChoose": false,
+     "word": "<person>"
+    },
+    {
+     "alwaysChoose": true,
+     "word": "<abstract-concept>"
+    },
+    {
+     "alwaysChoose": false,
+     "word": "<place-complex>"
+    }
+   ]
+  },
+  {
+   "amount": "",
+   "id": "70593",
+   "maxChoices": "",
+   "name": "thing",
+   "optional": false,
+   "placeholder": "",
+   "words": [
+    {
+     "alwaysChoose": false,
+     "word": "chose "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "objet "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "article "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "entité "
+    }
+   ]
+  },
+  {
+   "amount": "",
+   "id": "70594",
+   "maxChoices": "",
+   "name": "shape",
+   "optional": false,
+   "placeholder": "",
+   "words": [
+    {
+     "alwaysChoose": false,
+     "word": "forme "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "rectangle "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "cercle "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "cubes "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "formulaire "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "corps "
+    }
+   ]
+  },
+  {
+   "amount": "",
+   "id": "70595",
+   "maxChoices": "",
+   "name": "creature",
+   "optional": false,
+   "placeholder": "",
+   "words": [
+    {
+     "alwaysChoose": false,
+     "word": "créature "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "bête "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "spécimen "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "étant "
+    }
+   ]
+  },
+  {
+   "amount": "",
+   "id": "70596",
+   "maxChoices": "",
+   "name": "tool",
+   "optional": false,
+   "placeholder": "",
+   "words": [
+    {
+     "alwaysChoose": false,
+     "word": "outil "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "truc "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "gadget "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "appareil "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "gadget "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "ustensile "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "machine "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "mécanisme "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "appareil "
+    }
+   ]
+  },
+  {
+   "amount": "",
+   "id": "70597",
+   "maxChoices": "",
+   "name": "material",
+   "optional": false,
+   "placeholder": "",
+   "words": [
+    {
+     "alwaysChoose": false,
+     "word": "matériel "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "tissu "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "surface "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "substance "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "liquide "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "importe "
+    }
+   ]
+  },
+  {
+   "amount": "",
+   "id": "70598",
+   "maxChoices": "",
+   "name": "building",
+   "optional": false,
+   "placeholder": "",
+   "words": [
+    {
+     "alwaysChoose": false,
+     "word": "structures "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "établissement "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "bâtiment "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "bâtiment "
+    }
+   ]
+  },
+  {
+   "amount": "",
+   "id": "70599",
+   "maxChoices": "",
+   "name": "problem",
+   "optional": false,
+   "placeholder": "",
+   "words": [
+    {
+     "alwaysChoose": false,
+     "word": "problème "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "dilemme "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "problème "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "obstacle "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "crise "
+    }
+   ]
+  },
+  {
+   "amount": "",
+   "id": "70600",
+   "maxChoices": "",
+   "name": "idea",
+   "optional": false,
+   "placeholder": "",
+   "words": [
+    {
+     "alwaysChoose": false,
+     "word": "idée "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "théorie "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "croyance "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "notion "
+    }
+   ]
+  },
+  {
+   "amount": "",
+   "id": "70601",
+   "maxChoices": "",
+   "name": "event",
+   "optional": false,
+   "placeholder": "",
+   "words": [
+    {
+     "alwaysChoose": false,
+     "word": "événement "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "circonstance "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "expérience "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "situations "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "occurrence "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "phénomène "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "occasion "
+    }
+   ]
+  },
+  {
+   "amount": "",
+   "id": "70602",
+   "maxChoices": "",
+   "name": "person",
+   "optional": false,
+   "placeholder": "",
+   "words": [
+    {
+     "alwaysChoose": false,
+     "word": "personne "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "humain "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "individuel "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "quelqu'un "
+    }
+   ]
+  },
+  {
+   "amount": "",
+   "id": "70603",
+   "maxChoices": "1",
+   "name": "article-2",
+   "optional": true,
+   "placeholder": "the",
+   "words": [
+    {
+     "alwaysChoose": true,
+     "word": "le "
+    },
+    {
+     "alwaysChoose": true,
+     "word": "un "
+    },
+    {
+     "alwaysChoose": true,
+     "word": "votre "
+    },
+    {
+     "alwaysChoose": true,
+     "word": "leur "
+    },
+    {
+     "alwaysChoose": true,
+     "word": "son "
+    },
+    {
+     "alwaysChoose": true,
+     "word": "elle "
+    },
+    {
+     "alwaysChoose": true,
+     "word": "notre "
+    },
+    {
+     "alwaysChoose": true,
+     "word": "un "
+    },
+    {
+     "alwaysChoose": true,
+     "word": "beaucoup de "
+    }
+   ]
+  },
+  {
+   "amount": "",
+   "id": "70604",
+   "maxChoices": "1",
+   "name": "thing-verb-simple",
+   "optional": false,
+   "placeholder": "blanks",
+   "words": [
+    {
+     "alwaysChoose": true,
+     "word": "est "
+    },
+    {
+     "alwaysChoose": true,
+     "word": "a "
+    },
+    {
+     "alwaysChoose": true,
+     "word": "fait"
+    },
+    {
+     "alwaysChoose": false,
+     "word": "<is in relation to>"
+    },
+    {
+     "alwaysChoose": false,
+     "word": "<wants>"
+    },
+    {
+     "alwaysChoose": false,
+     "word": "<loves>"
+    },
+    {
+     "alwaysChoose": false,
+     "word": "<hates>"
+    },
+    {
+     "alwaysChoose": false,
+     "word": "<is>"
+    },
+    {
+     "alwaysChoose": false,
+     "word": "<symbolizes>"
+    },
+    {
+     "alwaysChoose": false,
+     "word": "<general-verb-dump>"
+    },
+    {
+     "alwaysChoose": false,
+     "word": "<makes>"
+    },
+    {
+     "alwaysChoose": true,
+     "word": "est utilisé pour "
+    }
+   ]
+  },
+  {
+   "amount": "",
+   "id": "70605",
+   "maxChoices": "",
+   "name": "is-in-relation-to",
+   "optional": false,
+   "placeholder": "",
+   "words": [
+    {
+     "alwaysChoose": false,
+     "word": "est lié à "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "est bon pour "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "fait partie de "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "est connu pour "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "est en relation avec "
+    }
+   ]
+  },
+  {
+   "amount": "",
+   "id": "70606",
+   "maxChoices": "",
+   "name": "wants",
+   "optional": false,
+   "placeholder": "",
+   "words": [
+    {
+     "alwaysChoose": false,
+     "word": "veut "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "désirs "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "aspire à "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "besoins "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "a envie "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "nécessite "
+    }
+   ]
+  },
+  {
+   "amount": "",
+   "id": "70607",
+   "maxChoices": "",
+   "name": "loves",
+   "optional": false,
+   "placeholder": "",
+   "words": [
+    {
+     "alwaysChoose": false,
+     "word": "aime "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "aime "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "adore "
+    }
+   ]
+  },
+  {
+   "amount": "",
+   "id": "70608",
+   "maxChoices": "",
+   "name": "hates",
+   "optional": false,
+   "placeholder": "",
+   "words": [
+    {
+     "alwaysChoose": false,
+     "word": "déteste "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "n'aime pas "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "méprise "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "déteste "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "désapprouve "
+    }
+   ]
+  },
+  {
+   "amount": "",
+   "id": "70609",
+   "maxChoices": "",
+   "name": "is",
+   "optional": false,
+   "placeholder": "",
+   "words": [
+    {
+     "alwaysChoose": false,
+     "word": "incarne "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "est fait de "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "est composé de "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "implique "
+    }
+   ]
+  },
+  {
+   "amount": "",
+   "id": "70610",
+   "maxChoices": "",
+   "name": "symbolizes",
+   "optional": false,
+   "placeholder": "",
+   "words": [
+    {
+     "alwaysChoose": false,
+     "word": "symbolise "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "illustre "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "incarne "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "signifie "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "exprime "
+    }
+   ]
+  },
+  {
+   "amount": "",
+   "id": "70611",
+   "maxChoices": "1",
+   "name": "general-verb-dump",
+   "optional": false,
+   "placeholder": "blanks",
+   "words": [
+    {
+     "alwaysChoose": true,
+     "word": "appartient à "
+    },
+    {
+     "alwaysChoose": true,
+     "word": "vit avec "
+    },
+    {
+     "alwaysChoose": true,
+     "word": "aide "
+    },
+    {
+     "alwaysChoose": true,
+     "word": "sait "
+    },
+    {
+     "alwaysChoose": true,
+     "word": "échoue "
+    },
+    {
+     "alwaysChoose": true,
+     "word": "changements "
+    },
+    {
+     "alwaysChoose": true,
+     "word": "va à "
+    }
+   ]
+  },
+  {
+   "amount": "",
+   "id": "70613",
+   "maxChoices": "",
+   "name": "makes",
+   "optional": false,
+   "placeholder": "",
+   "words": [
+    {
+     "alwaysChoose": false,
+     "word": "fait "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "crée "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "génère "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "fabrique "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "accomplit "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "constructions "
+    }
+   ]
+  },
+  {
+   "amount": "",
+   "id": "70614",
+   "maxChoices": "3",
+   "name": "thing-adjective-complex",
+   "optional": false,
+   "placeholder": "blanky",
+   "words": [
+    {
+     "alwaysChoose": true,
+     "word": "pas"
+    },
+    {
+     "alwaysChoose": false,
+     "word": "<size-complex>"
+    },
+    {
+     "alwaysChoose": false,
+     "word": "<age-complex>"
+    },
+    {
+     "alwaysChoose": false,
+     "word": "<good-complex>"
+    },
+    {
+     "alwaysChoose": false,
+     "word": "<bad-complex>"
+    },
+    {
+     "alwaysChoose": false,
+     "word": "<texture-complex>"
+    },
+    {
+     "alwaysChoose": false,
+     "word": "<taste-complex>"
+    },
+    {
+     "alwaysChoose": false,
+     "word": "<emotion-good-complex>"
+    },
+    {
+     "alwaysChoose": false,
+     "word": "<emotion-bad-complex>"
+    },
+    {
+     "alwaysChoose": false,
+     "word": "<color-complex>"
+    },
+    {
+     "alwaysChoose": false,
+     "word": "<normal-weird>"
+    },
+    {
+     "alwaysChoose": false,
+     "word": "<general-adjective-dump>"
+    }
+   ]
+  },
+  {
+   "amount": "",
+   "id": "70615",
+   "maxChoices": "",
+   "name": "size-complex",
+   "optional": false,
+   "placeholder": "",
+   "words": [
+    {
+     "alwaysChoose": false,
+     "word": "<size>"
+    },
+    {
+     "alwaysChoose": false,
+     "word": "colossal "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "gargantuesque "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "titanesque "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "géant "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "minuscule "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "à petite échelle "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "mini "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "menue "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "taille d'une pinte "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "format de poche "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "retard de croissance "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "mince "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "brindille "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "maigre "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "grassouillet "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "gros "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "roly-poly "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "musclé "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "costaud"
+    }
+   ]
+  },
+  {
+   "amount": "",
+   "id": "70616",
+   "maxChoices": "",
+   "name": "age-complex",
+   "optional": false,
+   "placeholder": "",
+   "words": [
+    {
+     "alwaysChoose": false,
+     "word": "<age>"
+    },
+    {
+     "alwaysChoose": false,
+     "word": "juvénile "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "nouveau né "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "moderne "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "enfantin "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "fille "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "pubère "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "inexpérimenté "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "personnes âgées "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "mature "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "bébé "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "gériatrique "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "par-dessus la colline "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "démodé "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "à l'ancienne "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "nouveau genre "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "ancien "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "antiquité "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "fossilisé "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "obsolète "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "d'âge moyen"
+    }
+   ]
+  },
+  {
+   "amount": "",
+   "id": "70617",
+   "maxChoices": "",
+   "name": "good-complex",
+   "optional": false,
+   "placeholder": "",
+   "words": [
+    {
+     "alwaysChoose": false,
+     "word": "<good>"
+    },
+    {
+     "alwaysChoose": false,
+     "word": "formidable "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "phénoménal "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "formidable "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "époustouflant "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "hors de ce monde "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "pêche "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "première classe "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "en forme de navire "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "de premier ordre "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "supérieur "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "suprême "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "pointe "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "parfait "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "transcendant "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "à droite "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "correct "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "remarquable "
+    }
+   ]
+  },
+  {
+   "amount": "",
+   "id": "70618",
+   "maxChoices": "",
+   "name": "normal-weird",
+   "optional": false,
+   "placeholder": "",
+   "words": [
+    {
+     "alwaysChoose": false,
+     "word": "ordinaire "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "régulier "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "traditionnel "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "moyenne "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "conventionnel "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "banal "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "particulier "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "bizarre "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "étrange "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "bizarre "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "bizarre "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "inhabituel "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "bizarre "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "excentrique "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "ridicule "
+    }
+   ]
+  },
+  {
+   "amount": "",
+   "id": "70619",
+   "maxChoices": "",
+   "name": "bad-complex",
+   "optional": false,
+   "placeholder": "",
+   "words": [
+    {
+     "alwaysChoose": false,
+     "word": "<mauvais> "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "atroce "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "horrible "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "minable "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "moche "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "puant "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "blabla "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "dommage "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "bestial "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "merdique "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "fallacieux "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "erroné "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "défectueux "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "négatif "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "inadéquat "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "pécheur "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "désagréable "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "méchant "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "offensant "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "désastreux "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "misérable "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "pathétique "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "stupide "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "ennuyeux "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "faux "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "courroucé "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "méprisable"
+    }
+   ]
+  },
+  {
+   "amount": "",
+   "id": "70620",
+   "maxChoices": "",
+   "name": "texture-complex",
+   "optional": false,
+   "placeholder": "",
+   "words": [
+    {
+     "alwaysChoose": false,
+     "word": "<texture>"
+    },
+    {
+     "alwaysChoose": false,
+     "word": "grossier "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "pas cher "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "moite "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "chauve "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "humide "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "déshydraté "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "dégoulinant "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "sec comme un os "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "trempé "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "incrusté "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "plumeux "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "pétillant "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "impeccable "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "glacial "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "fougueux "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "feuilleté "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "moelleux "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "mousseux "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "sale "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "plat comme une crêpe "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "flou "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "gélatineux "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "graveleux "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "vitreux "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "crasseux "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "sale "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "brillant "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "poilu "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "démangeaisons "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "enflammé "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "déchiqueté "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "en couches "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "boiter "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "pâteux "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "malléable "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "métallique "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "mat "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "rembourré "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "pointu "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "imprimé "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "poli "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "à motifs "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "pulpeux "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "marqué "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "raide "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "soyeux "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "chaume "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "sculpté "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "trempé "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "irritant "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "glissant "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "impeccable "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "sirupeux "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "hirsute "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "épineux "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "velouté "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "visqueux "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "gorgé d'eau "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "laineux"
+    }
+   ]
+  },
+  {
+   "amount": "",
+   "id": "70621",
+   "maxChoices": "",
+   "name": "taste-complex",
+   "optional": false,
+   "placeholder": "",
+   "words": [
+    {
+     "alwaysChoose": false,
+     "word": "<taste>"
+    },
+    {
+     "alwaysChoose": false,
+     "word": "aromatique "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "salé "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "oh tellement délicieux "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "piquant "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "acide "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "amer "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "doux-amer "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "épicé "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "aigre "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "corsé "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "riche "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "terreux "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "doux "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "levure "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "piquant "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "sucré "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "beurré "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "moelleux "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "croustillant "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "crémeux "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "friable "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "juteux "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "succulente "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "tendre "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "caramélisé "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "carbonisé "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "frit "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "vitré "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "impertinent "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "infusé "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "mariné "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "braconné "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "rôti "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "fumé "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "fouetté "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "appétissant "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "savoureux "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "délice "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "alléchant "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "délicieux "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "gloppy "
+    }
+   ]
+  },
+  {
+   "amount": "",
+   "id": "70622",
+   "maxChoices": "",
+   "name": "emotion-good-complex",
+   "optional": false,
+   "placeholder": "",
+   "words": [
+    {
+     "alwaysChoose": false,
+     "word": "<émotion-bonne> "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "joyeux "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "optimiste "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "heureux "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "déchiqueteuse "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "rose chatouillé "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "guilleret "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "gentil "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "optimiste "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "joyeux "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "précieux "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "bien-aimé "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "joyeux "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "lumineux"
+    }
+   ]
+  },
+  {
+   "amount": "",
+   "id": "70623",
+   "maxChoices": "",
+   "name": "emotion-bad-complex",
+   "optional": false,
+   "placeholder": "",
+   "words": [
+    {
+     "alwaysChoose": false,
+     "word": "<emotion-bad>"
+    },
+    {
+     "alwaysChoose": false,
+     "word": "indigné "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "impatient "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "irritable "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "ennuyé "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "hostile "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "agressif "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "manipulateur "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "furieux "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "vexé "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "exaspéré "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "bouleversé "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "désespéré "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "inquiet "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "déprimé "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "anxieux "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "fatigué "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "ennuyé "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "jaloux "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "effrayé "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "craintif "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "désespéré "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "coupable "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "impie "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "blasphématoire "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "sarcastique "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "barbare "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "vengeur"
+    }
+   ]
+  },
+  {
+   "amount": "",
+   "id": "70624",
+   "maxChoices": "",
+   "name": "color-complex",
+   "optional": false,
+   "placeholder": "",
+   "words": [
+    {
+     "alwaysChoose": true,
+     "word": "<color>"
+    },
+    {
+     "alwaysChoose": true,
+     "word": "rouge "
+    },
+    {
+     "alwaysChoose": true,
+     "word": "orange "
+    },
+    {
+     "alwaysChoose": true,
+     "word": "jaune "
+    },
+    {
+     "alwaysChoose": true,
+     "word": "vert "
+    },
+    {
+     "alwaysChoose": true,
+     "word": "bleu "
+    },
+    {
+     "alwaysChoose": true,
+     "word": "violet "
+    },
+    {
+     "alwaysChoose": true,
+     "word": "lumière "
+    },
+    {
+     "alwaysChoose": true,
+     "word": "arc en ciel "
+    },
+    {
+     "alwaysChoose": true,
+     "word": "beige "
+    },
+    {
+     "alwaysChoose": true,
+     "word": "scintillant "
+    },
+    {
+     "alwaysChoose": true,
+     "word": "argent "
+    },
+    {
+     "alwaysChoose": true,
+     "word": "or "
+    },
+    {
+     "alwaysChoose": true,
+     "word": "translucide "
+    }
+   ]
+  },
+  {
+   "amount": "",
+   "id": "70650",
+   "maxChoices": "",
+   "name": "shape-complex",
+   "optional": false,
+   "placeholder": "",
+   "words": [
+    {
+     "alwaysChoose": false,
+     "word": "<forme> "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "bloquer "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "boîte "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "masse "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "monticule "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "beau gosse "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "morceau "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "gueule "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "entier "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "rectangle "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "polygone"
+    }
+   ]
+  },
+  {
+   "amount": "",
+   "id": "70651",
+   "maxChoices": "2",
+   "name": "thing-noun-complex",
+   "optional": false,
+   "placeholder": "blank",
+   "words": [
+    {
+     "alwaysChoose": true,
+     "word": "<thing>"
+    },
+    {
+     "alwaysChoose": true,
+     "word": "<shape-complex>"
+    },
+    {
+     "alwaysChoose": false,
+     "word": "<creature-complex>"
+    },
+    {
+     "alwaysChoose": true,
+     "word": "<tool-complex>"
+    },
+    {
+     "alwaysChoose": false,
+     "word": "<material-complex>"
+    },
+    {
+     "alwaysChoose": false,
+     "word": "<building-complex>"
+    },
+    {
+     "alwaysChoose": false,
+     "word": "<problem-complex>"
+    },
+    {
+     "alwaysChoose": false,
+     "word": "<idea-complex>"
+    },
+    {
+     "alwaysChoose": false,
+     "word": "<event-complex>"
+    },
+    {
+     "alwaysChoose": false,
+     "word": "<person-complex>"
+    },
+    {
+     "alwaysChoose": false,
+     "word": "<food>"
+    },
+    {
+     "alwaysChoose": false,
+     "word": "<body-complex>"
+    },
+    {
+     "alwaysChoose": false,
+     "word": "<group>"
+    },
+    {
+     "alwaysChoose": false,
+     "word": "<parts-of-body>"
+    },
+    {
+     "alwaysChoose": false,
+     "word": "<general-career-sector>"
+    },
+    {
+     "alwaysChoose": false,
+     "word": "<period-of-time>"
+    },
+    {
+     "alwaysChoose": false,
+     "word": "<abstract-concept>"
+    },
+    {
+     "alwaysChoose": false,
+     "word": "<general-noun-dump>"
+    }
+   ]
+  },
+  {
+   "amount": "",
+   "id": "70652",
+   "maxChoices": "",
+   "name": "problem-complex",
+   "optional": false,
+   "placeholder": "",
+   "words": [
+    {
+     "alwaysChoose": false,
+     "word": "<problem>"
+    },
+    {
+     "alwaysChoose": false,
+     "word": "catastrophe "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "mal de tête "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "question "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "dilemme "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "situation difficile "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "boîte de vers "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "énigme "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "stupéfiant "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "casse-tête "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "époustouflant "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "question à un million de dollars "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "casse-tête"
+    }
+   ]
+  },
+  {
+   "amount": "",
+   "id": "70653",
+   "maxChoices": "",
+   "name": "idea-complex",
+   "optional": false,
+   "placeholder": "",
+   "words": [
+    {
+     "alwaysChoose": false,
+     "word": "<idea>"
+    },
+    {
+     "alwaysChoose": false,
+     "word": "poste "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "philosophie "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "proposition "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "hypothèse "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "point de vue "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "jugement "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "Doctrine "
+    }
+   ]
+  },
+  {
+   "amount": "",
+   "id": "70654",
+   "maxChoices": "",
+   "name": "event-complex",
+   "optional": false,
+   "placeholder": "",
+   "words": [
+    {
+     "alwaysChoose": false,
+     "word": "<événement> "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "célébration "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "cérémonie "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "vacances "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "incident "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "jalon "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "jeu "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "fête "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "jamboree "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "rituel"
+    }
+   ]
+  },
+  {
+   "amount": "",
+   "id": "70656",
+   "maxChoices": "",
+   "name": "creature-complex",
+   "optional": false,
+   "placeholder": "",
+   "words": [
+    {
+     "alwaysChoose": false,
+     "word": "<creature>"
+    },
+    {
+     "alwaysChoose": false,
+     "word": "animal de compagnie "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "créature "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "menthe nuisible "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "cabot "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "vertébré "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "monstre "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "mammifère "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "reptile"
+    }
+   ]
+  },
+  {
+   "amount": "",
+   "id": "70657",
+   "maxChoices": "",
+   "name": "tool-complex",
+   "optional": false,
+   "placeholder": "",
+   "words": [
+    {
+     "alwaysChoose": false,
+     "word": "<tool>"
+    },
+    {
+     "alwaysChoose": false,
+     "word": "appareil "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "appareil "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "engin "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "gadget "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "moteur "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "ordinateur "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "véhicule"
+    }
+   ]
+  },
+  {
+   "amount": "",
+   "id": "70658",
+   "maxChoices": "",
+   "name": "material-complex",
+   "optional": false,
+   "placeholder": "",
+   "words": [
+    {
+     "alwaysChoose": false,
+     "word": "<material>"
+    },
+    {
+     "alwaysChoose": false,
+     "word": "textile "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "tissu "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "peau "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "fourrure "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "métal "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "bois "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "en plastique "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "fluide "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "bouillon "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "nectar "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "ok "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "sécrétion "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "saleté "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "argile "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "papier "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "brique "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "pierre"
+    }
+   ]
+  },
+  {
+   "amount": "",
+   "id": "70659",
+   "maxChoices": "",
+   "name": "building-complex",
+   "optional": false,
+   "placeholder": "",
+   "words": [
+    {
+     "alwaysChoose": false,
+     "word": "<building>"
+    },
+    {
+     "alwaysChoose": false,
+     "word": "cabane "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "maison "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "maison "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "architecture "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "chambre "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "bureau "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "habitation "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "merveille architecturale "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "chambre"
+    }
+   ]
+  },
+  {
+   "amount": "",
+   "id": "70660",
+   "maxChoices": "",
+   "name": "person-complex",
+   "optional": false,
+   "placeholder": "",
+   "words": [
+    {
+     "alwaysChoose": false,
+     "word": "<person>"
+    },
+    {
+     "alwaysChoose": false,
+     "word": "mec "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "fille "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "mortel "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "personnalité "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "quel est leur nom "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "mec "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "dame "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "monsieur "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "madame "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "jeune fille "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "âme "
+    }
+   ]
+  },
+  {
+   "amount": "",
+   "id": "70661",
+   "maxChoices": "",
+   "name": "food",
+   "optional": false,
+   "placeholder": "",
+   "words": [
+    {
+     "alwaysChoose": false,
+     "word": "traiter "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "repas "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "fête "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "pique-nique "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "souper "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "collation "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "larve "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "vacarme"
+    }
+   ]
+  },
+  {
+   "amount": "",
+   "id": "70662",
+   "maxChoices": "",
+   "name": "body-complex",
+   "optional": false,
+   "placeholder": "",
+   "words": [
+    {
+     "alwaysChoose": false,
+     "word": "<body>"
+    },
+    {
+     "alwaysChoose": false,
+     "word": "carcasse "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "torse "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "anatomie "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "sac d'os "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "cadavre "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "silhouette "
+    }
+   ]
+  },
+  {
+   "amount": "",
+   "id": "70663",
+   "maxChoices": "",
+   "name": "body",
+   "optional": false,
+   "placeholder": "",
+   "words": [
+    {
+     "alwaysChoose": false,
+     "word": "corps "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "chiffre "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "formulaire "
+    }
+   ]
+  },
+  {
+   "amount": "",
+   "id": "70664",
+   "maxChoices": "",
+   "name": "group",
+   "optional": false,
+   "placeholder": "",
+   "words": [
+    {
+     "alwaysChoose": false,
+     "word": "groupe "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "équipe "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "famille "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "foule "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "horde "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "groupe "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "équipage "
+    }
+   ]
+  },
+  {
+   "amount": "",
+   "id": "70665",
+   "maxChoices": "",
+   "name": "nature-places",
+   "optional": false,
+   "placeholder": "",
+   "words": [
+    {
+     "alwaysChoose": false,
+     "word": "jungle "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "forêt "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "désert "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "voie navigable "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "plan d'eau "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "toundra "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "récif de corail "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "montagne "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "colline "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "vallée "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "sous l'eau "
+    }
+   ]
+  },
+  {
+   "amount": "",
+   "id": "70715",
+   "maxChoices": "3",
+   "name": "place-adjective-simple",
+   "optional": false,
+   "placeholder": "blanky",
+   "words": [
+    {
+     "alwaysChoose": true,
+     "word": "pas"
+    },
+    {
+     "alwaysChoose": false,
+     "word": "<size>"
+    },
+    {
+     "alwaysChoose": false,
+     "word": "<good>"
+    },
+    {
+     "alwaysChoose": false,
+     "word": "<bad>"
+    },
+    {
+     "alwaysChoose": false,
+     "word": "<texture>"
+    },
+    {
+     "alwaysChoose": false,
+     "word": "<emotion-good>"
+    },
+    {
+     "alwaysChoose": false,
+     "word": "<emotion-bad>"
+    },
+    {
+     "alwaysChoose": false,
+     "word": "<color>"
+    },
+    {
+     "alwaysChoose": false,
+     "word": "<age>"
+    },
+    {
+     "alwaysChoose": false,
+     "word": "<taste>"
+    }
+   ]
+  },
+  {
+   "amount": "",
+   "id": "70716",
+   "maxChoices": "2",
+   "name": "place-noun-simple-s1",
+   "optional": false,
+   "placeholder": "blank",
+   "words": [
+    {
+     "alwaysChoose": true,
+     "word": "lieu"
+    },
+    {
+     "alwaysChoose": false,
+     "word": "<thing>"
+    },
+    {
+     "alwaysChoose": false,
+     "word": "<shape>"
+    },
+    {
+     "alwaysChoose": false,
+     "word": "<material>"
+    },
+    {
+     "alwaysChoose": false,
+     "word": "<building>"
+    },
+    {
+     "alwaysChoose": false,
+     "word": "<idea>"
+    },
+    {
+     "alwaysChoose": false,
+     "word": "<event>"
+    },
+    {
+     "alwaysChoose": false,
+     "word": "<society>"
+    },
+    {
+     "alwaysChoose": false,
+     "word": "<area>"
+    },
+    {
+     "alwaysChoose": false,
+     "word": "<land>"
+    },
+    {
+     "alwaysChoose": false,
+     "word": "<general-career-sector>"
+    },
+    {
+     "alwaysChoose": false,
+     "word": "<abstract-concept>"
+    }
+   ]
+  },
+  {
+   "amount": "",
+   "id": "70718",
+   "maxChoices": "",
+   "name": "society",
+   "optional": false,
+   "placeholder": "",
+   "words": [
+    {
+     "alwaysChoose": false,
+     "word": "société "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "civilisation "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "communauté "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "culturelle "
+    }
+   ]
+  },
+  {
+   "amount": "",
+   "id": "70719",
+   "maxChoices": "",
+   "name": "land",
+   "optional": false,
+   "placeholder": "",
+   "words": [
+    {
+     "alwaysChoose": false,
+     "word": "terre "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "terrain "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "environnement "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "paysage "
+    }
+   ]
+  },
+  {
+   "amount": "",
+   "id": "70720",
+   "maxChoices": "",
+   "name": "area",
+   "optional": false,
+   "placeholder": "",
+   "words": [
+    {
+     "alwaysChoose": false,
+     "word": "zone "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "zone "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "espace "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "région "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "territoire "
+    }
+   ]
+  },
+  {
+   "amount": "",
+   "id": "70722",
+   "maxChoices": "1",
+   "name": "place-verb-simple",
+   "optional": false,
+   "placeholder": "blanks",
+   "words": [
+    {
+     "alwaysChoose": true,
+     "word": "sont "
+    },
+    {
+     "alwaysChoose": true,
+     "word": "avoir "
+    },
+    {
+     "alwaysChoose": true,
+     "word": "faire"
+    },
+    {
+     "alwaysChoose": false,
+     "word": "<place-see-simple>"
+    },
+    {
+     "alwaysChoose": false,
+     "word": "<place-touch-simple>"
+    },
+    {
+     "alwaysChoose": false,
+     "word": "<place-like-simple>"
+    },
+    {
+     "alwaysChoose": false,
+     "word": "<place-dislike-simple>"
+    },
+    {
+     "alwaysChoose": false,
+     "word": "<place-meet-simple>"
+    },
+    {
+     "alwaysChoose": false,
+     "word": "<place-feel-simple>"
+    },
+    {
+     "alwaysChoose": false,
+     "word": "<place-talk-to-simple>"
+    },
+    {
+     "alwaysChoose": false,
+     "word": "<place-go-towards-simple>"
+    },
+    {
+     "alwaysChoose": false,
+     "word": "<place-general-verb-dump>"
+    }
+   ]
+  },
+  {
+   "amount": "",
+   "id": "70724",
+   "maxChoices": "",
+   "name": "place-see-simple",
+   "optional": false,
+   "placeholder": "",
+   "words": [
+    {
+     "alwaysChoose": false,
+     "word": "voir "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "regarder "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "vue "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "témoin "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "voici "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "observer "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "regarde "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "avis "
+    }
+   ]
+  },
+  {
+   "amount": "",
+   "id": "70725",
+   "maxChoices": "",
+   "name": "place-touch-simple",
+   "optional": false,
+   "placeholder": "",
+   "words": [
+    {
+     "alwaysChoose": false,
+     "word": "toucher "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "manipuler "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "caresse "
+    }
+   ]
+  },
+  {
+   "amount": "",
+   "id": "70726",
+   "maxChoices": "",
+   "name": "place-like-simple",
+   "optional": false,
+   "placeholder": "",
+   "words": [
+    {
+     "alwaysChoose": false,
+     "word": "comme "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "profiter "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "amour "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "adorer "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "se réjouir "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "s'intéresser à "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "apprécier "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "profiter "
+    }
+   ]
+  },
+  {
+   "amount": "",
+   "id": "70727",
+   "maxChoices": "",
+   "name": "place-dislike-simple",
+   "optional": false,
+   "placeholder": "",
+   "words": [
+    {
+     "alwaysChoose": false,
+     "word": "je n'aime pas "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "détester "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "mépriser "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "détester "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "en vouloir "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "mépriser "
+    }
+   ]
+  },
+  {
+   "amount": "",
+   "id": "70728",
+   "maxChoices": "",
+   "name": "place-meet-simple",
+   "optional": false,
+   "placeholder": "",
+   "words": [
+    {
+     "alwaysChoose": false,
+     "word": "rencontrer "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "rencontre "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "sont présentés à "
+    }
+   ]
+  },
+  {
+   "amount": "",
+   "id": "70729",
+   "maxChoices": "",
+   "name": "place-feel-simple",
+   "optional": false,
+   "placeholder": "",
+   "words": [
+    {
+     "alwaysChoose": false,
+     "word": "sentir "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "expérience "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "sens "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "sont touchés par"
+    }
+   ]
+  },
+  {
+   "amount": "",
+   "id": "70731",
+   "maxChoices": "2",
+   "name": "place-noun-simple-s2",
+   "optional": false,
+   "placeholder": "blank",
+   "words": [
+    {
+     "alwaysChoose": false,
+     "word": "<idea-complex>"
+    },
+    {
+     "alwaysChoose": false,
+     "word": "<event>"
+    },
+    {
+     "alwaysChoose": false,
+     "word": "<person>"
+    },
+    {
+     "alwaysChoose": false,
+     "word": "<gadget>"
+    },
+    {
+     "alwaysChoose": false,
+     "word": "<creature>"
+    },
+    {
+     "alwaysChoose": false,
+     "word": "<shape>"
+    },
+    {
+     "alwaysChoose": false,
+     "word": "<group>"
+    },
+    {
+     "alwaysChoose": false,
+     "word": "<abstract-concept>"
+    },
+    {
+     "alwaysChoose": false,
+     "word": "<period-of-time>"
+    },
+    {
+     "alwaysChoose": false,
+     "word": "<nature-places>"
+    },
+    {
+     "alwaysChoose": false,
+     "word": "<place-complex>"
+    },
+    {
+     "alwaysChoose": false,
+     "word": "<gerund>"
+    }
+   ]
+  },
+  {
+   "amount": "",
+   "id": "70733",
+   "maxChoices": "",
+   "name": "place-talk-to-simple",
+   "optional": false,
+   "placeholder": "",
+   "words": [
+    {
+     "alwaysChoose": false,
+     "word": "communiquer avec "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "se connecter avec "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "tendre la main à "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "parler à "
+    }
+   ]
+  },
+  {
+   "amount": "",
+   "id": "70734",
+   "maxChoices": "",
+   "name": "place-go-towards-simple",
+   "optional": false,
+   "placeholder": "",
+   "words": [
+    {
+     "alwaysChoose": false,
+     "word": "aller pour "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "voyager pour "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "bouger pour "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "voyage pour "
+    }
+   ]
+  },
+  {
+   "amount": "",
+   "id": "70735",
+   "maxChoices": "",
+   "name": "abstract-concept",
+   "optional": false,
+   "placeholder": "",
+   "words": [
+    {
+     "alwaysChoose": false,
+     "word": "amusant "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "temps "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "éducation "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "ego "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "mal "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "échec "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "foi "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "fragilité "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "liberté "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "anxiété "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "beauté "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "j'espère "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "folie "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "renseignement "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "gentillesse "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "rire "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "liberté "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "perte "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "luxe "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "amour "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "patience "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "confort "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "courage "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "curiosité "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "succès "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "talent "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "sagesse "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "puissance "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "sacrifice "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "la féminité "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "magie "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "sécurité "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "honte "
+    }
+   ]
+  },
+  {
+   "amount": "",
+   "id": "70736",
+   "maxChoices": "",
+   "name": "period-of-time",
+   "optional": false,
+   "placeholder": "",
+   "words": [
+    {
+     "alwaysChoose": false,
+     "word": "période de temps "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "jour "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "époque "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "la vie "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "moment "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "saison "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "nuit "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "heure "
+    }
+   ]
+  },
+  {
+   "amount": "",
+   "id": "70739",
+   "maxChoices": "3",
+   "name": "place-adjective-complex",
+   "optional": false,
+   "placeholder": "blanky",
+   "words": [
+    {
+     "alwaysChoose": false,
+     "word": "pas"
+    },
+    {
+     "alwaysChoose": false,
+     "word": "<size-complex>"
+    },
+    {
+     "alwaysChoose": false,
+     "word": "<age-complex>"
+    },
+    {
+     "alwaysChoose": false,
+     "word": "<good-complex>"
+    },
+    {
+     "alwaysChoose": false,
+     "word": "<bad-complex>"
+    },
+    {
+     "alwaysChoose": false,
+     "word": "<texture-complex>"
+    },
+    {
+     "alwaysChoose": false,
+     "word": "<taste-complex>"
+    },
+    {
+     "alwaysChoose": false,
+     "word": "<emotion-good-complex>"
+    },
+    {
+     "alwaysChoose": false,
+     "word": "<emotion-bad-complex>"
+    },
+    {
+     "alwaysChoose": false,
+     "word": "<color-complex>"
+    },
+    {
+     "alwaysChoose": false,
+     "word": "<normal-weird>"
+    },
+    {
+     "alwaysChoose": false,
+     "word": "<general-adjective-dump>"
+    },
+    {
+     "alwaysChoose": false,
+     "word": "<gerund>"
+    }
+   ]
+  },
+  {
+   "amount": "",
+   "id": "70740",
+   "maxChoices": "2",
+   "name": "place-noun-complex",
+   "optional": false,
+   "placeholder": "blank",
+   "words": [
+    {
+     "alwaysChoose": true,
+     "word": "<place-complex>"
+    },
+    {
+     "alwaysChoose": false,
+     "word": "<thing>"
+    },
+    {
+     "alwaysChoose": false,
+     "word": "<shape-complex>"
+    },
+    {
+     "alwaysChoose": false,
+     "word": "<creature-complex>"
+    },
+    {
+     "alwaysChoose": false,
+     "word": "<tool-complex>"
+    },
+    {
+     "alwaysChoose": false,
+     "word": "<material-complex>"
+    },
+    {
+     "alwaysChoose": false,
+     "word": "<building-complex>"
+    },
+    {
+     "alwaysChoose": false,
+     "word": "<idea-complex>"
+    },
+    {
+     "alwaysChoose": false,
+     "word": "<event-complex>"
+    },
+    {
+     "alwaysChoose": false,
+     "word": "<person-complex>"
+    },
+    {
+     "alwaysChoose": false,
+     "word": "<food>"
+    },
+    {
+     "alwaysChoose": false,
+     "word": "<body-complex>"
+    },
+    {
+     "alwaysChoose": false,
+     "word": "<group>"
+    }
+   ]
+  },
+  {
+   "amount": "",
+   "id": "70741",
+   "maxChoices": "",
+   "name": "place-complex",
+   "optional": false,
+   "placeholder": "",
+   "words": [
+    {
+     "alwaysChoose": false,
+     "word": "<place>"
+    },
+    {
+     "alwaysChoose": false,
+     "word": "où se trouve "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "coin "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "coin du bois "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "terrain de jeu "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "domination "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "Commonwealth "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "champ "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "royaume "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "enceinte "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "quartier "
+    }
+   ]
+  },
+  {
+   "amount": "",
+   "id": "70744",
+   "maxChoices": "3",
+   "name": "person-adjective-simple",
+   "optional": false,
+   "placeholder": "blanky",
+   "words": [
+    {
+     "alwaysChoose": true,
+     "word": "pas"
+    },
+    {
+     "alwaysChoose": false,
+     "word": "<size>"
+    },
+    {
+     "alwaysChoose": false,
+     "word": "<age>"
+    },
+    {
+     "alwaysChoose": false,
+     "word": "<good>"
+    },
+    {
+     "alwaysChoose": false,
+     "word": "<bad>"
+    },
+    {
+     "alwaysChoose": false,
+     "word": "<texture>"
+    },
+    {
+     "alwaysChoose": false,
+     "word": "<taste>"
+    },
+    {
+     "alwaysChoose": false,
+     "word": "<emotion-good>"
+    },
+    {
+     "alwaysChoose": false,
+     "word": "<emotion-bad>"
+    },
+    {
+     "alwaysChoose": false,
+     "word": "<alive-dead>"
+    },
+    {
+     "alwaysChoose": false,
+     "word": "<color>"
+    }
+   ]
+  },
+  {
+   "amount": "",
+   "id": "70745",
+   "maxChoices": "",
+   "name": "alive-dead",
+   "optional": false,
+   "placeholder": "",
+   "words": [
+    {
+     "alwaysChoose": false,
+     "word": "décédé "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "parti "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "défunt "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "expiré "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "disparu "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "reposer en paix "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "conscient "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "vivant "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "respiration "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "éveillé "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "vivre"
+    }
+   ]
+  },
+  {
+   "amount": "",
+   "id": "70746",
+   "maxChoices": "2",
+   "name": "person-noun-simple",
+   "optional": false,
+   "placeholder": "blank",
+   "words": [
+    {
+     "alwaysChoose": false,
+     "word": "<person>"
+    },
+    {
+     "alwaysChoose": false,
+     "word": "<thing>"
+    },
+    {
+     "alwaysChoose": false,
+     "word": "<shape>"
+    },
+    {
+     "alwaysChoose": false,
+     "word": "<material>"
+    },
+    {
+     "alwaysChoose": false,
+     "word": "<idea>"
+    },
+    {
+     "alwaysChoose": false,
+     "word": "<society>"
+    },
+    {
+     "alwaysChoose": false,
+     "word": "<body>"
+    },
+    {
+     "alwaysChoose": false,
+     "word": "<creature>"
+    },
+    {
+     "alwaysChoose": false,
+     "word": "<idea>"
+    }
+   ]
+  },
+  {
+   "amount": "",
+   "id": "70747",
+   "maxChoices": "1",
+   "name": "person-verb-simple",
+   "optional": false,
+   "placeholder": "blanks",
+   "words": [
+    {
+     "alwaysChoose": true,
+     "word": "sont "
+    },
+    {
+     "alwaysChoose": true,
+     "word": "avoir "
+    },
+    {
+     "alwaysChoose": true,
+     "word": "faire"
+    },
+    {
+     "alwaysChoose": true,
+     "word": "<are-known-for>"
+    },
+    {
+     "alwaysChoose": false,
+     "word": "<place-talk-to-simple>"
+    },
+    {
+     "alwaysChoose": false,
+     "word": "<place-feel-simple>"
+    },
+    {
+     "alwaysChoose": false,
+     "word": "<place-like-simple>"
+    },
+    {
+     "alwaysChoose": false,
+     "word": "<place-dislike-simple>"
+    },
+    {
+     "alwaysChoose": false,
+     "word": "<place-general-verb-dump>"
+    },
+    {
+     "alwaysChoose": false,
+     "word": "<are-in-relation-to>"
+    }
+   ]
+  },
+  {
+   "amount": "",
+   "id": "70748",
+   "maxChoices": "",
+   "name": "are-known-for",
+   "optional": false,
+   "placeholder": "",
+   "words": [
+    {
+     "alwaysChoose": false,
+     "word": "sont connus pour "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "sont célèbres pour "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "sont réputés pour "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "sont célébrés pour"
+    }
+   ]
+  },
+  {
+   "amount": "",
+   "id": "70749",
+   "maxChoices": "2",
+   "name": "person-noun-simple-s2",
+   "optional": false,
+   "placeholder": "blank",
+   "words": [
+    {
+     "alwaysChoose": true,
+     "word": "<person-complex>"
+    },
+    {
+     "alwaysChoose": false,
+     "word": "<event>"
+    },
+    {
+     "alwaysChoose": false,
+     "word": "<abstract-concept>"
+    },
+    {
+     "alwaysChoose": false,
+     "word": "<period-of-time>"
+    },
+    {
+     "alwaysChoose": false,
+     "word": "<general-career-status>"
+    },
+    {
+     "alwaysChoose": false,
+     "word": "<family-role>"
+    },
+    {
+     "alwaysChoose": false,
+     "word": "<general-career-sector>"
+    },
+    {
+     "alwaysChoose": false,
+     "word": "<media-type>"
+    },
+    {
+     "alwaysChoose": false,
+     "word": "<event-complex>"
+    },
+    {
+     "alwaysChoose": false,
+     "word": "<gerund>"
+    }
+   ]
+  },
+  {
+   "amount": "",
+   "id": "70750",
+   "maxChoices": "",
+   "name": "general-career-sector",
+   "optional": false,
+   "placeholder": "",
+   "words": [
+    {
+     "alwaysChoose": false,
+     "word": "art "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "sciences "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "sport "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "mathématiques "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "éducation "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "nourriture "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "naturel "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "loi "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "ordinateur "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "gouvernement "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "industrie "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "religion "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "musique "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "guerre "
+    }
+   ]
+  },
+  {
+   "amount": "",
+   "id": "70752",
+   "maxChoices": "",
+   "name": "general-career-status",
+   "optional": false,
+   "placeholder": "",
+   "words": [
+    {
+     "alwaysChoose": false,
+     "word": "superstar "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "célébrité "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "personnalité publique "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "chef "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "suiveur "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "héros "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "VIP "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "ligue majeure "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "patron "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "personne "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "perdant "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "outsider "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "échec "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "a été "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "meilleur chien "
+    }
+   ]
+  },
+  {
+   "amount": "",
+   "id": "70754",
+   "maxChoices": "",
+   "name": "family-role",
+   "optional": false,
+   "placeholder": "",
+   "words": [
+    {
+     "alwaysChoose": false,
+     "word": "papa "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "maman "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "enfant "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "fille "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "fils "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "mamie "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "grand-père "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "l'adolescence "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "bambin "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "mari "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "femme"
+    }
+   ]
+  },
+  {
+   "amount": "",
+   "id": "70755",
+   "maxChoices": "2",
+   "name": "person-noun-complex",
+   "optional": false,
+   "placeholder": "blank",
+   "words": [
+    {
+     "alwaysChoose": true,
+     "word": "<person-complex>"
+    },
+    {
+     "alwaysChoose": false,
+     "word": "<idea-complex>"
+    },
+    {
+     "alwaysChoose": false,
+     "word": "<problem-complex>"
+    },
+    {
+     "alwaysChoose": false,
+     "word": "<event-complex>"
+    },
+    {
+     "alwaysChoose": false,
+     "word": "<abstract-concept>"
+    },
+    {
+     "alwaysChoose": false,
+     "word": "<period-of-time>"
+    },
+    {
+     "alwaysChoose": false,
+     "word": "<family-role>"
+    },
+    {
+     "alwaysChoose": false,
+     "word": "<general-career-sector>"
+    },
+    {
+     "alwaysChoose": false,
+     "word": "<body-complex>"
+    },
+    {
+     "alwaysChoose": false,
+     "word": "<group>"
+    },
+    {
+     "alwaysChoose": false,
+     "word": "<shape-complex>"
+    },
+    {
+     "alwaysChoose": false,
+     "word": "<creature-complex>"
+    },
+    {
+     "alwaysChoose": false,
+     "word": "<material-complex>"
+    },
+    {
+     "alwaysChoose": false,
+     "word": "<building-complex>"
+    },
+    {
+     "alwaysChoose": false,
+     "word": "<people-types>"
+    },
+    {
+     "alwaysChoose": false,
+     "word": "<parts-of-body>"
+    },
+    {
+     "alwaysChoose": false,
+     "word": "<gerund>"
+    },
+    {
+     "alwaysChoose": false,
+     "word": "<general-noun-dump>"
+    }
+   ]
+  },
+  {
+   "amount": "",
+   "id": "70756",
+   "maxChoices": "",
+   "name": "people-types",
+   "optional": false,
+   "placeholder": "",
+   "words": [
+    {
+     "alwaysChoose": false,
+     "word": "reine du drame "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "délinquant "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "reine du bal "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "gothique "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "maître du grill "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "casse-cou "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "vierge "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "sportif "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "imbécile "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "clown de classe "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "grincheux "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "fonceur "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "pantalon intelligent "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "tarte chérie "
+    }
+   ]
+  },
+  {
+   "amount": "",
+   "id": "70757",
+   "maxChoices": "3",
+   "name": "person-adjective-complex",
+   "optional": false,
+   "placeholder": "blanky",
+   "words": [
+    {
+     "alwaysChoose": true,
+     "word": "pas"
+    },
+    {
+     "alwaysChoose": false,
+     "word": "<size-complex>"
+    },
+    {
+     "alwaysChoose": false,
+     "word": "<age-complex>"
+    },
+    {
+     "alwaysChoose": false,
+     "word": "<good-complex>"
+    },
+    {
+     "alwaysChoose": false,
+     "word": "<bad-complex>"
+    },
+    {
+     "alwaysChoose": false,
+     "word": "<texture-complex>"
+    },
+    {
+     "alwaysChoose": false,
+     "word": "<taste-complex>"
+    },
+    {
+     "alwaysChoose": false,
+     "word": "<emotion-good-complex>"
+    },
+    {
+     "alwaysChoose": false,
+     "word": "<emotion-bad-complex>"
+    },
+    {
+     "alwaysChoose": false,
+     "word": "<normal-weird>"
+    },
+    {
+     "alwaysChoose": false,
+     "word": "<alive-dead>"
+    }
+   ]
+  },
+  {
+   "amount": "",
+   "id": "70759",
+   "maxChoices": "3",
+   "name": "story-adjective-simple",
+   "optional": false,
+   "placeholder": "blanky",
+   "words": [
+    {
+     "alwaysChoose": false,
+     "word": "pas"
+    },
+    {
+     "alwaysChoose": false,
+     "word": "<size>"
+    },
+    {
+     "alwaysChoose": false,
+     "word": "<good>"
+    },
+    {
+     "alwaysChoose": false,
+     "word": "<bad>"
+    },
+    {
+     "alwaysChoose": false,
+     "word": "<texture>"
+    },
+    {
+     "alwaysChoose": false,
+     "word": "<emotion-good>"
+    },
+    {
+     "alwaysChoose": false,
+     "word": "<emotion-bad>"
+    },
+    {
+     "alwaysChoose": false,
+     "word": "<color>"
+    },
+    {
+     "alwaysChoose": false,
+     "word": "<age>"
+    }
+   ]
+  },
+  {
+   "amount": "",
+   "id": "70760",
+   "maxChoices": "2",
+   "name": "story-noun-simple",
+   "optional": false,
+   "placeholder": "blank",
+   "words": [
+    {
+     "alwaysChoose": true,
+     "word": "<person>"
+    },
+    {
+     "alwaysChoose": false,
+     "word": "<place>"
+    },
+    {
+     "alwaysChoose": true,
+     "word": "<thing>"
+    },
+    {
+     "alwaysChoose": false,
+     "word": "<idea>"
+    },
+    {
+     "alwaysChoose": false,
+     "word": "<event>"
+    },
+    {
+     "alwaysChoose": false,
+     "word": "<problem>"
+    },
+    {
+     "alwaysChoose": false,
+     "word": "<protagonist>"
+    },
+    {
+     "alwaysChoose": false,
+     "word": "<villain>"
+    },
+    {
+     "alwaysChoose": false,
+     "word": "<journey>"
+    },
+    {
+     "alwaysChoose": true,
+     "word": "<abstract-concept>"
+    },
+    {
+     "alwaysChoose": false,
+     "word": "<group>"
+    },
+    {
+     "alwaysChoose": false,
+     "word": "<creature>"
+    }
+   ]
+  },
+  {
+   "amount": "",
+   "id": "70761",
+   "maxChoices": "",
+   "name": "involves",
+   "optional": false,
+   "placeholder": "involves",
+   "words": [
+    {
+     "alwaysChoose": false,
+     "word": "implique "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "il s'agit de "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "est "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "a "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "préoccupations "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "c'est un peu aussi une question de"
+    }
+   ]
+  },
+  {
+   "amount": "",
+   "id": "70762",
+   "maxChoices": "2",
+   "name": "story-noun-simple-s2",
+   "optional": false,
+   "placeholder": "blank",
+   "words": [
+    {
+     "alwaysChoose": false,
+     "word": "<person-complex>"
+    },
+    {
+     "alwaysChoose": false,
+     "word": "<place-complex>"
+    },
+    {
+     "alwaysChoose": false,
+     "word": "<thing>"
+    },
+    {
+     "alwaysChoose": false,
+     "word": "<idea>"
+    },
+    {
+     "alwaysChoose": false,
+     "word": "<event>"
+    },
+    {
+     "alwaysChoose": false,
+     "word": "<problem>"
+    },
+    {
+     "alwaysChoose": false,
+     "word": "<protagonist>"
+    },
+    {
+     "alwaysChoose": false,
+     "word": "<villain>"
+    },
+    {
+     "alwaysChoose": false,
+     "word": "<genre>"
+    },
+    {
+     "alwaysChoose": false,
+     "word": "<gerund>"
+    },
+    {
+     "alwaysChoose": false,
+     "word": "<issues>"
+    },
+    {
+     "alwaysChoose": false,
+     "word": "<abstract-concept>"
+    },
+    {
+     "alwaysChoose": false,
+     "word": "<general-noun-dump>"
+    },
+    {
+     "alwaysChoose": false,
+     "word": "<creature>"
+    }
+   ]
+  },
+  {
+   "amount": "",
+   "id": "70763",
+   "maxChoices": "",
+   "name": "media-type",
+   "optional": false,
+   "placeholder": "",
+   "words": [
+    {
+     "alwaysChoose": false,
+     "word": "film "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "cinéma "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "livre "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "comédie musicale "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "cinéma "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "théâtre "
+    }
+   ]
+  },
+  {
+   "amount": "",
+   "id": "70764",
+   "maxChoices": "",
+   "name": "journey",
+   "optional": false,
+   "placeholder": "",
+   "words": [
+    {
+     "alwaysChoose": false,
+     "word": "voyage "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "aventure "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "histoire "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "récit "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "voyages "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "expédition "
+    }
+   ]
+  },
+  {
+   "amount": "",
+   "id": "70765",
+   "maxChoices": "",
+   "name": "protagonist",
+   "optional": false,
+   "placeholder": "",
+   "words": [
+    {
+     "alwaysChoose": false,
+     "word": "protagoniste "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "héros "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "personnage "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "bon gars "
+    }
+   ]
+  },
+  {
+   "amount": "",
+   "id": "70766",
+   "maxChoices": "",
+   "name": "villain",
+   "optional": false,
+   "placeholder": "",
+   "words": [
+    {
+     "alwaysChoose": false,
+     "word": "méchant "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "ennemi "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "méchant "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "malfaiteur "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "diable "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "méchant "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "Némésis "
+    }
+   ]
+  },
+  {
+   "amount": "",
+   "id": "70767",
+   "maxChoices": "",
+   "name": "genre",
+   "optional": false,
+   "placeholder": "",
+   "words": [
+    {
+     "alwaysChoose": false,
+     "word": "mystère "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "romance "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "thriller "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "fantaisie "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "fiction "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "non-fiction "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "comédie "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "tragédie "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "horreur "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "science-fiction "
+    }
+   ]
+  },
+  {
+   "amount": "",
+   "id": "70769",
+   "maxChoices": "",
+   "name": "gerund",
+   "optional": false,
+   "placeholder": "",
+   "words": [
+    {
+     "alwaysChoose": false,
+     "word": "chanter "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "danser "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "agir "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "crier "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "sauter "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "vomir "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "pleurer "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "voler "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "mourir "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "écrire "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "en pensant "
+    }
+   ]
+  },
+  {
+   "amount": "",
+   "id": "70771",
+   "maxChoices": "3",
+   "name": "story-adjective-complex",
+   "optional": false,
+   "placeholder": "blanky",
+   "words": [
+    {
+     "alwaysChoose": true,
+     "word": "pas"
+    },
+    {
+     "alwaysChoose": false,
+     "word": "<size-complex>"
+    },
+    {
+     "alwaysChoose": false,
+     "word": "<age-complex>"
+    },
+    {
+     "alwaysChoose": false,
+     "word": "<good-complex>"
+    },
+    {
+     "alwaysChoose": false,
+     "word": "<bad-complex>"
+    },
+    {
+     "alwaysChoose": false,
+     "word": "<texture-complex>"
+    },
+    {
+     "alwaysChoose": false,
+     "word": "<emotion-good-complex>"
+    },
+    {
+     "alwaysChoose": false,
+     "word": "<emotion-bad-complex>"
+    },
+    {
+     "alwaysChoose": false,
+     "word": "<color-complex>"
+    },
+    {
+     "alwaysChoose": false,
+     "word": "<normal-weird>"
+    },
+    {
+     "alwaysChoose": false,
+     "word": "<alive-dead>"
+    },
+    {
+     "alwaysChoose": false,
+     "word": "<general-adjective-dump>"
+    },
+    {
+     "alwaysChoose": false,
+     "word": "<media-style-adjective>"
+    }
+   ]
+  },
+  {
+   "amount": "",
+   "id": "70772",
+   "maxChoices": "2",
+   "name": "story-noun-complex",
+   "optional": false,
+   "placeholder": "blank",
+   "words": [
+    {
+     "alwaysChoose": true,
+     "word": "<person-complex>"
+    },
+    {
+     "alwaysChoose": false,
+     "word": "<idea-complex>"
+    },
+    {
+     "alwaysChoose": false,
+     "word": "<problem-complex>"
+    },
+    {
+     "alwaysChoose": false,
+     "word": "<event-complex>"
+    },
+    {
+     "alwaysChoose": false,
+     "word": "<abstract-concept>"
+    },
+    {
+     "alwaysChoose": false,
+     "word": "<period-of-time>"
+    },
+    {
+     "alwaysChoose": false,
+     "word": "<family-role>"
+    },
+    {
+     "alwaysChoose": false,
+     "word": "<general-career-sector>"
+    },
+    {
+     "alwaysChoose": false,
+     "word": "<body-complex>"
+    },
+    {
+     "alwaysChoose": false,
+     "word": "<group>"
+    },
+    {
+     "alwaysChoose": false,
+     "word": "<shape-complex>"
+    },
+    {
+     "alwaysChoose": true,
+     "word": "<creature-complex>"
+    },
+    {
+     "alwaysChoose": false,
+     "word": "<tool-complex>"
+    },
+    {
+     "alwaysChoose": false,
+     "word": "<material-complex>"
+    },
+    {
+     "alwaysChoose": false,
+     "word": "<building-complex>"
+    },
+    {
+     "alwaysChoose": false,
+     "word": "<gerund>"
+    },
+    {
+     "alwaysChoose": false,
+     "word": "<nature-places>"
+    },
+    {
+     "alwaysChoose": false,
+     "word": "<issues>"
+    },
+    {
+     "alwaysChoose": false,
+     "word": "<people-types>"
+    },
+    {
+     "alwaysChoose": false,
+     "word": "<media-type>"
+    },
+    {
+     "alwaysChoose": false,
+     "word": "<general-noun-dump>"
+    },
+    {
+     "alwaysChoose": false,
+     "word": "<place-complex>"
+    },
+    {
+     "alwaysChoose": false,
+     "word": "<parts-of-body>"
+    }
+   ]
+  },
+  {
+   "amount": "",
+   "id": "70805",
+   "maxChoices": "",
+   "name": "parts-of-body",
+   "optional": false,
+   "placeholder": "",
+   "words": [
+    {
+     "alwaysChoose": false,
+     "word": "dent "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "cheveux "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "jambe "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "torse "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "bras "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "doigt "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "oeil "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "oreille "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "bouche "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "nez "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "avant "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "retour "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "côté "
+    }
+   ]
+  },
+  {
+   "amount": "",
+   "id": "70938",
+   "maxChoices": "",
+   "name": "issues",
+   "optional": false,
+   "placeholder": "",
+   "words": [
+    {
+     "alwaysChoose": false,
+     "word": "violence "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "crime "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "la corruption "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "cliché "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "dépression mentale "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "cauchemar "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "miracle "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "malentendu "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "corvée "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "cafouillage "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "maladie "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "destin "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "arnaque "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "implosion "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "commotion cérébrale "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "désordre "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "hypocrisie "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "conflit "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "querelle "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "faillite "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "double standard "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "culpabilité "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "biais "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "la faim "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "traumatisme "
+    }
+   ]
+  },
+  {
+   "amount": "",
+   "id": "71168",
+   "maxChoices": "1",
+   "name": "response-sentence",
+   "optional": false,
+   "placeholder": "It's a lot like",
+   "words": [
+    {
+     "alwaysChoose": false,
+     "word": "C'est un peu comme "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "C'est un peu similaire à "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "Cela n'a rien à voir avec "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "Il a la même ambiance que "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "C'est un genre différent de celui "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "Ce n'est pas la même forme que "
+    }
+   ]
+  },
+  {
+   "amount": "",
+   "id": "71187",
+   "maxChoices": "1",
+   "name": "story-verb-simple",
+   "optional": false,
+   "placeholder": "blanks",
+   "words": [
+    {
+     "alwaysChoose": true,
+     "word": "est "
+    },
+    {
+     "alwaysChoose": true,
+     "word": "a "
+    },
+    {
+     "alwaysChoose": true,
+     "word": "fait "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "va à"
+    },
+    {
+     "alwaysChoose": false,
+     "word": "<wants>"
+    },
+    {
+     "alwaysChoose": false,
+     "word": "<loves>"
+    },
+    {
+     "alwaysChoose": false,
+     "word": "<hates>"
+    },
+    {
+     "alwaysChoose": false,
+     "word": "<is>"
+    },
+    {
+     "alwaysChoose": false,
+     "word": "<general-verb-dump>"
+    },
+    {
+     "alwaysChoose": false,
+     "word": "<is-in-relation-to>"
+    }
+   ]
+  },
+  {
+   "amount": "",
+   "id": "71735",
+   "maxChoices": "",
+   "name": "place",
+   "optional": false,
+   "placeholder": "",
+   "words": [
+    {
+     "alwaysChoose": false,
+     "word": "endroit "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "zone "
+    }
+   ]
+  },
+  {
+   "amount": "",
+   "id": "71745",
+   "maxChoices": "1",
+   "name": "place-general-verb-dump",
+   "optional": false,
+   "placeholder": "blanks",
+   "words": [
+    {
+     "alwaysChoose": false,
+     "word": "appartenir à "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "vivre avec "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "aide "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "sais "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "échouer "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "changement "
+    }
+   ]
+  },
+  {
+   "amount": "",
+   "id": "71749",
+   "maxChoices": "",
+   "name": "general-noun-dump",
+   "optional": false,
+   "placeholder": "",
+   "words": [
+    {
+     "alwaysChoose": false,
+     "word": "honte "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "affaire "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "douleur "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "catastrophe "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "temps seul "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "purgatoire "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "gestion du temps "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "culture d'entreprise "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "soulèvement "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "celui qui s'est enfui "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "influenceur "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "dépendance "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "peste "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "propagande "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "faux pas "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "confrontation "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "sérum "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "moquerie "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "titillation "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "bizarrerie "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "aubaine "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "âme sœur "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "c'est un facteur "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "orgueil "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "preuve "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "destin "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "bourdonnement "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "rumeur "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "chronologie "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "ambiance "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "tête-à-tête "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "moment eurêka "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "geste "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "métamorphose "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "prix "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "garantie "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "estime de soi "
+    }
+   ]
+  },
+  {
+   "amount": "",
+   "id": "72729",
+   "maxChoices": "",
+   "name": "are-in-relation-to",
+   "optional": false,
+   "placeholder": "",
+   "words": [
+    {
+     "alwaysChoose": false,
+     "word": "sont liés à "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "font partie de "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "sont connus pour "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "sont en relation avec "
+    }
+   ]
+  },
+  {
+   "amount": "",
+   "id": "73473",
+   "maxChoices": "1",
+   "name": "response-sentence-thing",
+   "optional": false,
+   "placeholder": "blanky",
+   "words": [
+    {
+     "alwaysChoose": true,
+     "word": "C'est un peu comme "
+    },
+    {
+     "alwaysChoose": true,
+     "word": "C'est un peu similaire à "
+    },
+    {
+     "alwaysChoose": true,
+     "word": "Cela n'a rien à voir avec "
+    },
+    {
+     "alwaysChoose": true,
+     "word": "Il a la même ambiance que "
+    },
+    {
+     "alwaysChoose": true,
+     "word": "C'est plus grand que "
+    },
+    {
+     "alwaysChoose": true,
+     "word": "C'est plus petit que "
+    },
+    {
+     "alwaysChoose": true,
+     "word": "C'est plus général que "
+    },
+    {
+     "alwaysChoose": true,
+     "word": "C'est plus précis que"
+    },
+    {
+     "alwaysChoose": true,
+     "word": "On le trouve au même endroit que "
+    }
+   ]
+  },
+  {
+   "amount": "",
+   "id": "73474",
+   "maxChoices": "1",
+   "name": "response-sentence-person",
+   "optional": false,
+   "placeholder": "blanky",
+   "words": [
+    {
+     "alwaysChoose": true,
+     "word": "Ils ressemblent beaucoup "
+    },
+    {
+     "alwaysChoose": true,
+     "word": "Ils ressemblent un peu à "
+    },
+    {
+     "alwaysChoose": true,
+     "word": "Ils ne ressemblent en rien "
+    },
+    {
+     "alwaysChoose": true,
+     "word": "Ils sont plus célèbres que "
+    },
+    {
+     "alwaysChoose": true,
+     "word": "Ils ont la même ambiance que "
+    },
+    {
+     "alwaysChoose": true,
+     "word": "Ils sont plus grands que "
+    },
+    {
+     "alwaysChoose": true,
+     "word": "Ils sont plus jeunes que "
+    },
+    {
+     "alwaysChoose": true,
+     "word": "Ils seraient amis avec "
+    }
+   ]
+  },
+  {
+   "amount": "",
+   "id": "73475",
+   "maxChoices": "1",
+   "name": "response-sentence-place",
+   "optional": false,
+   "placeholder": "blanky ",
+   "words": [
+    {
+     "alwaysChoose": true,
+     "word": "C'est un peu comme "
+    },
+    {
+     "alwaysChoose": true,
+     "word": "C'est un peu similaire à "
+    },
+    {
+     "alwaysChoose": true,
+     "word": "Cela n'a rien à voir avec "
+    },
+    {
+     "alwaysChoose": true,
+     "word": "Il a la même ambiance que "
+    },
+    {
+     "alwaysChoose": true,
+     "word": "C'est proche de "
+    },
+    {
+     "alwaysChoose": true,
+     "word": "C'est plus grand que "
+    },
+    {
+     "alwaysChoose": true,
+     "word": "C'est plus petit que "
+    },
+    {
+     "alwaysChoose": true,
+     "word": "C'est plus général que "
+    },
+    {
+     "alwaysChoose": true,
+     "word": "C'est plus précis que "
+    }
+   ]
+  },
+  {
+   "amount": "",
+   "id": "73476",
+   "maxChoices": "1",
+   "name": "response-sentence-story",
+   "optional": false,
+   "placeholder": "blanky",
+   "words": [
+    {
+     "alwaysChoose": true,
+     "word": "C'est un peu comme "
+    },
+    {
+     "alwaysChoose": true,
+     "word": "C'est un peu similaire à "
+    },
+    {
+     "alwaysChoose": true,
+     "word": "Cela n'a rien à voir avec "
+    },
+    {
+     "alwaysChoose": true,
+     "word": "Il a la même ambiance que "
+    },
+    {
+     "alwaysChoose": true,
+     "word": "C'est un genre différent de celui "
+    },
+    {
+     "alwaysChoose": true,
+     "word": "Ce n'est pas la même forme que "
+    }
+   ]
+  },
+  {
+   "amount": "4",
+   "id": "73477",
+   "maxChoices": "1",
+   "name": "response-sentence-clue",
+   "optional": false,
+   "placeholder": "The first letter is the same as",
+   "words": [
+    {
+     "alwaysChoose": false,
+     "word": "La première lettre est la même que "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "La réponse ressemble à "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "Oh, je sais ! Décrire "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "C'est complètement faux, mais c'est drôle : "
+    }
+   ]
+  },
+  {
+   "amount": "",
+   "id": "73527",
+   "maxChoices": "1",
+   "name": "gets-something-good",
+   "optional": false,
+   "placeholder": "blanks",
+   "words": [
+    {
+     "alwaysChoose": false,
+     "word": "s'enivre "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "se marie "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "ça devient génial "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "ça devient idiot "
+    }
+   ]
+  },
+  {
+   "amount": "",
+   "id": "73528",
+   "maxChoices": "1",
+   "name": "general-verb-dump-story-end",
+   "optional": false,
+   "placeholder": "blanks",
+   "words": [
+    {
+     "alwaysChoose": false,
+     "word": "pleure "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "crie "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "rêves "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "des sourires "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "se couche "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "chante "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "a du sens "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "ça a l'air bien "
+    }
+   ]
+  },
+  {
+   "amount": "",
+   "id": "73529",
+   "maxChoices": "1",
+   "name": "story-verb-ending",
+   "optional": false,
+   "placeholder": "blanks",
+   "words": [
+    {
+     "alwaysChoose": true,
+     "word": "meurt "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "célèbre"
+    },
+    {
+     "alwaysChoose": false,
+     "word": "<gets-something-good>"
+    },
+    {
+     "alwaysChoose": true,
+     "word": "vit heureux pour toujours"
+    },
+    {
+     "alwaysChoose": false,
+     "word": "<general-verb-dump-story-end>"
+    },
+    {
+     "alwaysChoose": false,
+     "word": "<gets-something-bad>"
+    },
+    {
+     "alwaysChoose": true,
+     "word": "gagne "
+    },
+    {
+     "alwaysChoose": true,
+     "word": "perd "
+    },
+    {
+     "alwaysChoose": true,
+     "word": "des vies "
+    }
+   ]
+  },
+  {
+   "amount": "",
+   "id": "73530",
+   "maxChoices": "1",
+   "name": "gets-something-bad",
+   "optional": false,
+   "placeholder": "blanks",
+   "words": [
+    {
+     "alwaysChoose": false,
+     "word": "se met en colère "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "se venger "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "se blesse "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "se blesse "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "est émotionnellement dévasté "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "se fait tuer "
+    }
+   ]
+  },
+  {
+   "amount": "",
+   "id": "74032",
+   "maxChoices": "",
+   "name": "general-adjective-dump",
+   "optional": false,
+   "placeholder": "",
+   "words": [
+    {
+     "alwaysChoose": false,
+     "word": "déroutant "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "douloureux "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "faux "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "toxique "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "poli "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "ombragé "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "minauder "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "sensuel "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "compliqué "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "simple "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "brut "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "déchirant "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "à bec plat "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "à côté du cheval "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "vilain "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "maudit "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "surfait "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "mécanique "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "froufrous "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "fortune "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "fortuit "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "parfumé "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "hypocrite "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "tiré par les cheveux "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "non réglementé "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "commercialisable "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "fragile "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "bruyant "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "vain "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "polyvalent "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "bénin "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "impuissant "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "en arrière "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "sentimental "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "rentable "
+    }
+   ]
+  },
+  {
+   "amount": "",
+   "id": "74400",
+   "maxChoices": "1",
+   "name": "person-pronoun-1",
+   "optional": false,
+   "placeholder": "Blank's",
+   "words": [
+    {
+     "alwaysChoose": false,
+     "word": "Ils sont "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "Il est "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "Elle est "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "C'est "
+    }
+   ]
+  },
+  {
+   "amount": "",
+   "id": "74472",
+   "maxChoices": "1",
+   "name": "response-sentence-person-actor",
+   "optional": false,
+   "placeholder": "blanky",
+   "words": [
+    {
+     "alwaysChoose": true,
+     "word": "Ils apparaissent à l'écran avec "
+    },
+    {
+     "alwaysChoose": true,
+     "word": "Ils sont dans le même genre de films que "
+    },
+    {
+     "alwaysChoose": true,
+     "word": "Ils sont plus respectés que "
+    },
+    {
+     "alwaysChoose": true,
+     "word": "Ils sont plus dramatiques que "
+    },
+    {
+     "alwaysChoose": true,
+     "word": "Ils sont plus drôles que "
+    },
+    {
+     "alwaysChoose": true,
+     "word": "Ils ressemblent beaucoup "
+    },
+    {
+     "alwaysChoose": true,
+     "word": "Ils ressemblent un peu à "
+    },
+    {
+     "alwaysChoose": true,
+     "word": "Ils ne ressemblent en rien "
+    },
+    {
+     "alwaysChoose": true,
+     "word": "Ils sont plus célèbres que "
+    },
+    {
+     "alwaysChoose": true,
+     "word": "Ils ont la même ambiance que "
+    },
+    {
+     "alwaysChoose": true,
+     "word": "Ils sont plus grands que "
+    },
+    {
+     "alwaysChoose": true,
+     "word": "Ils sont plus jeunes que "
+    },
+    {
+     "alwaysChoose": true,
+     "word": "Ils seraient amis avec "
+    }
+   ]
+  },
+  {
+   "amount": "",
+   "id": "74473",
+   "maxChoices": "1",
+   "name": "response-sentence-person-athlete",
+   "optional": false,
+   "placeholder": "blanky",
+   "words": [
+    {
+     "alwaysChoose": true,
+     "word": "Ils pratiquent un sport différent de celui "
+    },
+    {
+     "alwaysChoose": true,
+     "word": "Ils pratiquent le même sport que "
+    },
+    {
+     "alwaysChoose": true,
+     "word": "Ils rivalisent avec "
+    },
+    {
+     "alwaysChoose": true,
+     "word": "Ils sont devenus célèbres avant "
+    },
+    {
+     "alwaysChoose": true,
+     "word": "Ils ressemblent beaucoup "
+    },
+    {
+     "alwaysChoose": true,
+     "word": "Ils ressemblent un peu à "
+    },
+    {
+     "alwaysChoose": true,
+     "word": "Ils ne ressemblent en rien "
+    },
+    {
+     "alwaysChoose": true,
+     "word": "Ils sont plus célèbres que "
+    },
+    {
+     "alwaysChoose": true,
+     "word": "Ils ont la même ambiance que "
+    },
+    {
+     "alwaysChoose": true,
+     "word": "Ils sont plus grands que "
+    },
+    {
+     "alwaysChoose": true,
+     "word": "Ils sont plus jeunes que "
+    },
+    {
+     "alwaysChoose": true,
+     "word": "Ils seraient amis avec "
+    }
+   ]
+  },
+  {
+   "amount": "",
+   "id": "74474",
+   "maxChoices": "1",
+   "name": "response-sentence-person-fictional",
+   "optional": false,
+   "placeholder": "blanky",
+   "words": [
+    {
+     "alwaysChoose": true,
+     "word": "Ils sont comme une version fictive de "
+    },
+    {
+     "alwaysChoose": true,
+     "word": "Ils sont dans le même genre que "
+    },
+    {
+     "alwaysChoose": true,
+     "word": "C'est une version dessinée de "
+    },
+    {
+     "alwaysChoose": true,
+     "word": "Ils sont joués par quelqu'un comme "
+    },
+    {
+     "alwaysChoose": true,
+     "word": "Ils ressemblent beaucoup "
+    },
+    {
+     "alwaysChoose": true,
+     "word": "Ils ressemblent un peu à"
+    },
+    {
+     "alwaysChoose": true,
+     "word": "Ils ne ressemblent en rien "
+    },
+    {
+     "alwaysChoose": true,
+     "word": "Ils sont plus célèbres que "
+    },
+    {
+     "alwaysChoose": true,
+     "word": "Ils ont la même ambiance que "
+    },
+    {
+     "alwaysChoose": true,
+     "word": "Ils sont plus grands que "
+    },
+    {
+     "alwaysChoose": true,
+     "word": "Ils sont plus jeunes que "
+    },
+    {
+     "alwaysChoose": true,
+     "word": "Ils seraient amis avec "
+    }
+   ]
+  },
+  {
+   "amount": "",
+   "id": "74475",
+   "maxChoices": "1",
+   "name": "response-sentence-person-historical",
+   "optional": false,
+   "placeholder": "blanky",
+   "words": [
+    {
+     "alwaysChoose": true,
+     "word": "Ils ne datent pas de la même époque que "
+    },
+    {
+     "alwaysChoose": true,
+     "word": "Ils datent de la même époque que "
+    },
+    {
+     "alwaysChoose": true,
+     "word": "Ils sont plus puissants que "
+    },
+    {
+     "alwaysChoose": true,
+     "word": "Ils sont plus intelligents que "
+    },
+    {
+     "alwaysChoose": true,
+     "word": "Ils étaient célèbres bien avant "
+    },
+    {
+     "alwaysChoose": true,
+     "word": "Ils ressemblent beaucoup "
+    },
+    {
+     "alwaysChoose": true,
+     "word": "Ils ressemblent un peu à "
+    },
+    {
+     "alwaysChoose": true,
+     "word": "Ils ne ressemblent en rien "
+    },
+    {
+     "alwaysChoose": true,
+     "word": "Ils sont plus célèbres que "
+    },
+    {
+     "alwaysChoose": true,
+     "word": "Ils ont la même ambiance que "
+    },
+    {
+     "alwaysChoose": true,
+     "word": "Ils sont plus grands que "
+    },
+    {
+     "alwaysChoose": true,
+     "word": "Ils sont plus jeunes que "
+    },
+    {
+     "alwaysChoose": true,
+     "word": "Ils seraient amis avec "
+    }
+   ]
+  },
+  {
+   "amount": "",
+   "id": "74476",
+   "maxChoices": "1",
+   "name": "response-sentence-story-tv",
+   "optional": false,
+   "placeholder": "blanky",
+   "words": [
+    {
+     "alwaysChoose": true,
+     "word": "Certains épisodes ressemblent un peu à "
+    },
+    {
+     "alwaysChoose": true,
+     "word": "C'est la version TV de "
+    },
+    {
+     "alwaysChoose": true,
+     "word": "Il met en scène le même acteur que "
+    },
+    {
+     "alwaysChoose": true,
+     "word": "C'est un peu comme "
+    },
+    {
+     "alwaysChoose": true,
+     "word": "C'est un peu similaire à "
+    },
+    {
+     "alwaysChoose": true,
+     "word": "Cela n'a rien à voir avec "
+    },
+    {
+     "alwaysChoose": true,
+     "word": "Il a la même ambiance que "
+    },
+    {
+     "alwaysChoose": true,
+     "word": "C'est un genre différent de celui "
+    },
+    {
+     "alwaysChoose": true,
+     "word": "Ce n'est pas la même forme que "
+    }
+   ]
+  },
+  {
+   "amount": "",
+   "id": "74477",
+   "maxChoices": "1",
+   "name": "response-sentence-story-movie",
+   "optional": false,
+   "placeholder": "blanky",
+   "words": [
+    {
+     "alwaysChoose": true,
+     "word": "C'est le même genre de film que "
+    },
+    {
+     "alwaysChoose": true,
+     "word": "C'est un budget plus important que "
+    },
+    {
+     "alwaysChoose": true,
+     "word": "Il met en scène le même acteur que "
+    },
+    {
+     "alwaysChoose": true,
+     "word": "C'est un peu comme "
+    },
+    {
+     "alwaysChoose": true,
+     "word": "C'est un peu similaire à "
+    },
+    {
+     "alwaysChoose": true,
+     "word": "Cela n'a rien à voir avec "
+    },
+    {
+     "alwaysChoose": true,
+     "word": "Il a la même ambiance que "
+    },
+    {
+     "alwaysChoose": true,
+     "word": "C'est un genre différent de celui "
+    },
+    {
+     "alwaysChoose": true,
+     "word": "Ce n'est pas la même forme que "
+    }
+   ]
+  },
+  {
+   "amount": "",
+   "id": "74478",
+   "maxChoices": "1",
+   "name": "response-sentence-story-animation",
+   "optional": false,
+   "placeholder": "blanky",
+   "words": [
+    {
+     "alwaysChoose": true,
+     "word": "C'est comme une version animée de "
+    },
+    {
+     "alwaysChoose": true,
+     "word": "C'est comme une version pour enfants de "
+    },
+    {
+     "alwaysChoose": true,
+     "word": "C'est un peu comme "
+    },
+    {
+     "alwaysChoose": true,
+     "word": "C'est un peu similaire à "
+    },
+    {
+     "alwaysChoose": true,
+     "word": "Cela n'a rien à voir avec "
+    },
+    {
+     "alwaysChoose": true,
+     "word": "Il a la même ambiance que "
+    },
+    {
+     "alwaysChoose": true,
+     "word": "C'est un genre différent de celui "
+    },
+    {
+     "alwaysChoose": true,
+     "word": "Ce n'est pas la même forme que "
+    }
+   ]
+  },
+  {
+   "amount": "",
+   "id": "74479",
+   "maxChoices": "1",
+   "name": "response-sentence-story-book",
+   "optional": false,
+   "placeholder": "blanky",
+   "words": [
+    {
+     "alwaysChoose": true,
+     "word": "C'est un livre plus ancien que "
+    },
+    {
+     "alwaysChoose": true,
+     "word": "C'est le même genre de livre que "
+    },
+    {
+     "alwaysChoose": true,
+     "word": "C'est un peu comme "
+    },
+    {
+     "alwaysChoose": true,
+     "word": "C'est un peu similaire à "
+    },
+    {
+     "alwaysChoose": true,
+     "word": "Cela n'a rien à voir avec "
+    },
+    {
+     "alwaysChoose": true,
+     "word": "Il a la même ambiance que "
+    },
+    {
+     "alwaysChoose": true,
+     "word": "C'est un genre différent de celui "
+    },
+    {
+     "alwaysChoose": true,
+     "word": "Ce n'est pas la même forme que "
+    }
+   ]
+  },
+  {
+   "amount": "",
+   "id": "74480",
+   "maxChoices": "1",
+   "name": "response-sentence-story-comic",
+   "optional": false,
+   "placeholder": "blanky",
+   "words": [
+    {
+     "alwaysChoose": true,
+     "word": "C'est comme une version illustrée de "
+    },
+    {
+     "alwaysChoose": true,
+     "word": "C'est plus basé sur l'image que "
+    },
+    {
+     "alwaysChoose": true,
+     "word": "C'est un peu comme "
+    },
+    {
+     "alwaysChoose": true,
+     "word": "C'est un peu similaire à "
+    },
+    {
+     "alwaysChoose": true,
+     "word": "Cela n'a rien à voir avec "
+    },
+    {
+     "alwaysChoose": true,
+     "word": "Il a la même ambiance que "
+    },
+    {
+     "alwaysChoose": true,
+     "word": "C'est un genre différent de celui "
+    },
+    {
+     "alwaysChoose": true,
+     "word": "Ce n'est pas la même forme que "
+    }
+   ]
+  },
+  {
+   "amount": "",
+   "id": "74481",
+   "maxChoices": "1",
+   "name": "response-sentence-story-musical",
+   "optional": false,
+   "placeholder": "blanky",
+   "words": [
+    {
+     "alwaysChoose": true,
+     "word": "C'est comme une version musicale de "
+    },
+    {
+     "alwaysChoose": true,
+     "word": "Il y a plus de chant que "
+    },
+    {
+     "alwaysChoose": true,
+     "word": "C'est un peu comme "
+    },
+    {
+     "alwaysChoose": true,
+     "word": "C'est un peu similaire à "
+    },
+    {
+     "alwaysChoose": true,
+     "word": "Cela n'a rien à voir avec "
+    },
+    {
+     "alwaysChoose": true,
+     "word": "Il a la même ambiance que "
+    },
+    {
+     "alwaysChoose": true,
+     "word": "C'est un genre différent de celui "
+    },
+    {
+     "alwaysChoose": true,
+     "word": "Ce n'est pas la même forme que "
+    }
+   ]
+  },
+  {
+   "amount": "",
+   "id": "74482",
+   "maxChoices": "1",
+   "name": "response-sentence-place-state",
+   "optional": false,
+   "placeholder": "blanky",
+   "words": [
+    {
+     "alwaysChoose": true,
+     "word": "C'est la version américaine de "
+    },
+    {
+     "alwaysChoose": true,
+     "word": "C'est plus conservateur que "
+    },
+    {
+     "alwaysChoose": true,
+     "word": "C'est moins peuplé que "
+    },
+    {
+     "alwaysChoose": true,
+     "word": "C'est un peu comme "
+    },
+    {
+     "alwaysChoose": true,
+     "word": "C'est un peu similaire à "
+    },
+    {
+     "alwaysChoose": true,
+     "word": "Cela n'a rien à voir avec "
+    },
+    {
+     "alwaysChoose": true,
+     "word": "Il a la même ambiance que "
+    },
+    {
+     "alwaysChoose": true,
+     "word": "C'est proche de "
+    },
+    {
+     "alwaysChoose": true,
+     "word": "C'est plus grand que "
+    },
+    {
+     "alwaysChoose": true,
+     "word": "C'est plus petit que "
+    },
+    {
+     "alwaysChoose": true,
+     "word": "C'est plus général que "
+    },
+    {
+     "alwaysChoose": true,
+     "word": "C'est plus précis que "
+    }
+   ]
+  },
+  {
+   "amount": "",
+   "id": "74483",
+   "maxChoices": "1",
+   "name": "response-sentence-place-city",
+   "optional": false,
+   "placeholder": "blanky",
+   "words": [
+    {
+     "alwaysChoose": true,
+     "word": "C'est sur le même continent que "
+    },
+    {
+     "alwaysChoose": true,
+     "word": "C'est dans un pays différent de celui "
+    },
+    {
+     "alwaysChoose": true,
+     "word": "C'est plus métropolitain que "
+    },
+    {
+     "alwaysChoose": true,
+     "word": "C'est un peu comme"
+    },
+    {
+     "alwaysChoose": true,
+     "word": "C'est un peu similaire à "
+    },
+    {
+     "alwaysChoose": true,
+     "word": "Cela n'a rien à voir avec "
+    },
+    {
+     "alwaysChoose": true,
+     "word": "Il a la même ambiance que "
+    },
+    {
+     "alwaysChoose": true,
+     "word": "C'est proche de "
+    },
+    {
+     "alwaysChoose": true,
+     "word": "C'est plus grand que "
+    },
+    {
+     "alwaysChoose": true,
+     "word": "C'est plus petit que "
+    },
+    {
+     "alwaysChoose": true,
+     "word": "C'est plus général que "
+    },
+    {
+     "alwaysChoose": true,
+     "word": "C'est plus précis que "
+    }
+   ]
+  },
+  {
+   "amount": "",
+   "id": "74484",
+   "maxChoices": "1",
+   "name": "response-sentence-place-country",
+   "optional": false,
+   "placeholder": "blanky",
+   "words": [
+    {
+     "alwaysChoose": true,
+     "word": "Il borde "
+    },
+    {
+     "alwaysChoose": true,
+     "word": "C'est sur le même continent que "
+    },
+    {
+     "alwaysChoose": true,
+     "word": "C'est un peu comme "
+    },
+    {
+     "alwaysChoose": true,
+     "word": "C'est un peu similaire à "
+    },
+    {
+     "alwaysChoose": true,
+     "word": "Cela n'a rien à voir avec "
+    },
+    {
+     "alwaysChoose": true,
+     "word": "Il a la même ambiance que "
+    },
+    {
+     "alwaysChoose": true,
+     "word": "C'est proche de "
+    },
+    {
+     "alwaysChoose": true,
+     "word": "C'est plus grand que "
+    },
+    {
+     "alwaysChoose": true,
+     "word": "C'est plus petit que "
+    },
+    {
+     "alwaysChoose": true,
+     "word": "C'est plus général que "
+    },
+    {
+     "alwaysChoose": true,
+     "word": "C'est plus précis que "
+    }
+   ]
+  },
+  {
+   "amount": "",
+   "id": "74485",
+   "maxChoices": "1",
+   "name": "response-sentence-place-cultural",
+   "optional": false,
+   "placeholder": "blanky",
+   "words": [
+    {
+     "alwaysChoose": true,
+     "word": "C'est un endroit très spécifique comme "
+    },
+    {
+     "alwaysChoose": true,
+     "word": "C'est plus important culturellement que "
+    },
+    {
+     "alwaysChoose": true,
+     "word": "C'est plus vieux que "
+    },
+    {
+     "alwaysChoose": true,
+     "word": "C'est un peu comme "
+    },
+    {
+     "alwaysChoose": true,
+     "word": "C'est un peu similaire à "
+    },
+    {
+     "alwaysChoose": true,
+     "word": "Cela n'a rien à voir avec "
+    },
+    {
+     "alwaysChoose": true,
+     "word": "Il a la même ambiance que "
+    },
+    {
+     "alwaysChoose": true,
+     "word": "C'est proche de "
+    },
+    {
+     "alwaysChoose": true,
+     "word": "C'est plus grand que "
+    },
+    {
+     "alwaysChoose": true,
+     "word": "C'est plus petit que "
+    },
+    {
+     "alwaysChoose": true,
+     "word": "C'est plus général que "
+    },
+    {
+     "alwaysChoose": true,
+     "word": "C'est plus précis que "
+    }
+   ]
+  },
+  {
+   "amount": "",
+   "id": "74486",
+   "maxChoices": "1",
+   "name": "response-sentence-place-brand",
+   "optional": false,
+   "placeholder": "blanky",
+   "words": [
+    {
+     "alwaysChoose": true,
+     "word": "C'est une version de marque de "
+    },
+    {
+     "alwaysChoose": true,
+     "word": "C'est pour les gens qui aiment aussi "
+    },
+    {
+     "alwaysChoose": true,
+     "word": "C'est plus tendance que "
+    },
+    {
+     "alwaysChoose": true,
+     "word": "C'est plus cher que "
+    },
+    {
+     "alwaysChoose": true,
+     "word": "C'est écrasant comme "
+    },
+    {
+     "alwaysChoose": true,
+     "word": "C'est un peu comme "
+    },
+    {
+     "alwaysChoose": true,
+     "word": "C'est un peu similaire à "
+    },
+    {
+     "alwaysChoose": true,
+     "word": "Cela n'a rien à voir avec "
+    },
+    {
+     "alwaysChoose": true,
+     "word": "Il a la même ambiance que "
+    },
+    {
+     "alwaysChoose": true,
+     "word": "C'est proche de "
+    },
+    {
+     "alwaysChoose": true,
+     "word": "C'est plus grand que "
+    },
+    {
+     "alwaysChoose": true,
+     "word": "C'est plus petit que "
+    },
+    {
+     "alwaysChoose": true,
+     "word": "C'est plus général que "
+    },
+    {
+     "alwaysChoose": true,
+     "word": "C'est plus précis que "
+    }
+   ]
+  },
+  {
+   "amount": "",
+   "id": "74487",
+   "maxChoices": "1",
+   "name": "response-sentence-place-nature",
+   "optional": false,
+   "placeholder": "blanky",
+   "words": [
+    {
+     "alwaysChoose": true,
+     "word": "C'est beaucoup plus gros que "
+    },
+    {
+     "alwaysChoose": true,
+     "word": "C'est plus humide que "
+    },
+    {
+     "alwaysChoose": true,
+     "word": "Il fait plus froid que "
+    },
+    {
+     "alwaysChoose": true,
+     "word": "C'est plus touristique que "
+    },
+    {
+     "alwaysChoose": true,
+     "word": "C'est un peu comme "
+    },
+    {
+     "alwaysChoose": true,
+     "word": "C'est un peu similaire à "
+    },
+    {
+     "alwaysChoose": true,
+     "word": "Cela n'a rien à voir avec "
+    },
+    {
+     "alwaysChoose": true,
+     "word": "Il a la même ambiance que "
+    },
+    {
+     "alwaysChoose": true,
+     "word": "C'est proche de "
+    },
+    {
+     "alwaysChoose": true,
+     "word": "C'est plus grand que "
+    },
+    {
+     "alwaysChoose": true,
+     "word": "C'est plus petit que "
+    },
+    {
+     "alwaysChoose": true,
+     "word": "C'est plus général que "
+    },
+    {
+     "alwaysChoose": true,
+     "word": "C'est plus précis que "
+    }
+   ]
+  },
+  {
+   "amount": "",
+   "id": "74488",
+   "maxChoices": "1",
+   "name": "response-sentence-place-fictional",
+   "optional": false,
+   "placeholder": "blanky",
+   "words": [
+    {
+     "alwaysChoose": true,
+     "word": "C'est la version fictive de "
+    },
+    {
+     "alwaysChoose": true,
+     "word": "C'est une version magique de "
+    },
+    {
+     "alwaysChoose": true,
+     "word": "C'est plus célèbre que "
+    },
+    {
+     "alwaysChoose": true,
+     "word": "C'est un peu comme "
+    },
+    {
+     "alwaysChoose": true,
+     "word": "C'est un peu similaire à "
+    },
+    {
+     "alwaysChoose": true,
+     "word": "Cela n'a rien à voir avec "
+    },
+    {
+     "alwaysChoose": true,
+     "word": "Il a la même ambiance que "
+    },
+    {
+     "alwaysChoose": true,
+     "word": "C'est proche de "
+    },
+    {
+     "alwaysChoose": true,
+     "word": "C'est plus grand que "
+    },
+    {
+     "alwaysChoose": true,
+     "word": "C'est plus petit que "
+    },
+    {
+     "alwaysChoose": true,
+     "word": "C'est plus général que "
+    },
+    {
+     "alwaysChoose": true,
+     "word": "C'est plus précis que"
+    }
+   ]
+  },
+  {
+   "amount": "",
+   "id": "74572",
+   "maxChoices": "2",
+   "name": "story-noun-s3",
+   "optional": false,
+   "placeholder": "blank",
+   "words": [
+    {
+     "alwaysChoose": true,
+     "word": "<media-type>"
+    },
+    {
+     "alwaysChoose": true,
+     "word": "<genre>"
+    },
+    {
+     "alwaysChoose": false,
+     "word": "<media-sensation>"
+    },
+    {
+     "alwaysChoose": false,
+     "word": "<general-career-sector>"
+    },
+    {
+     "alwaysChoose": false,
+     "word": "<person-complex>"
+    },
+    {
+     "alwaysChoose": false,
+     "word": "<place-complex>"
+    },
+    {
+     "alwaysChoose": false,
+     "word": "<period-of-time>"
+    },
+    {
+     "alwaysChoose": false,
+     "word": "<shape-complex>"
+    },
+    {
+     "alwaysChoose": false,
+     "word": "<abstract-concept>"
+    },
+    {
+     "alwaysChoose": false,
+     "word": "<event-complex>"
+    },
+    {
+     "alwaysChoose": false,
+     "word": "<issues>"
+    },
+    {
+     "alwaysChoose": false,
+     "word": "<place-complex>"
+    },
+    {
+     "alwaysChoose": false,
+     "word": "<general-noun-dump>"
+    }
+   ]
+  },
+  {
+   "amount": "",
+   "id": "74573",
+   "maxChoices": "",
+   "name": "media-sensation",
+   "optional": false,
+   "placeholder": "",
+   "words": [
+    {
+     "alwaysChoose": false,
+     "word": "flop "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "superproduction "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "succès "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "échec "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "best-seller "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "lauréat "
+    }
+   ]
+  },
+  {
+   "amount": "",
+   "id": "74574",
+   "maxChoices": "",
+   "name": "media-style-adjective",
+   "optional": false,
+   "placeholder": "",
+   "words": [
+    {
+     "alwaysChoose": false,
+     "word": "bande dessinée "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "tragique "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "historique "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "animé "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "illustré "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "action réelle "
+    },
+    {
+     "alwaysChoose": false,
+     "word": "comédie musicale "
+    }
+   ]
+  },
+  {
+   "amount": "",
+   "id": "74586",
+   "maxChoices": "1",
+   "name": "response-sentence-person-celebrity",
+   "optional": false,
+   "placeholder": "blanky",
+   "words": [
+    {
+     "alwaysChoose": true,
+     "word": "Ils ressemblent beaucoup "
+    },
+    {
+     "alwaysChoose": true,
+     "word": "Ils ressemblent un peu à "
+    },
+    {
+     "alwaysChoose": true,
+     "word": "Ils ne ressemblent en rien "
+    },
+    {
+     "alwaysChoose": true,
+     "word": "Ils sont plus célèbres que "
+    },
+    {
+     "alwaysChoose": true,
+     "word": "Ils ont la même ambiance que "
+    },
+    {
+     "alwaysChoose": true,
+     "word": "Ils sont plus grands que "
+    },
+    {
+     "alwaysChoose": true,
+     "word": "Ils sont plus jeunes que "
+    },
+    {
+     "alwaysChoose": true,
+     "word": "Ils seraient amis avec "
+    }
+   ]
+  },
+  {
+   "amount": "",
+   "id": "74587",
+   "maxChoices": "1",
+   "name": "response-sentence-person-famous",
+   "optional": false,
+   "placeholder": "blanky",
+   "words": [
+    {
+     "alwaysChoose": true,
+     "word": "Ils sont plus courants que "
+    },
+    {
+     "alwaysChoose": true,
+     "word": "Ils sont moins actuels que "
+    },
+    {
+     "alwaysChoose": true,
+     "word": "Ils sont plus talentueux que "
+    },
+    {
+     "alwaysChoose": true,
+     "word": "Ils sont plus intelligents que "
+    },
+    {
+     "alwaysChoose": true,
+     "word": "Ils ressemblent beaucoup "
+    },
+    {
+     "alwaysChoose": true,
+     "word": "Ils ressemblent un peu à "
+    },
+    {
+     "alwaysChoose": true,
+     "word": "Ils ne ressemblent en rien "
+    },
+    {
+     "alwaysChoose": true,
+     "word": "Ils sont plus célèbres que "
+    },
+    {
+     "alwaysChoose": true,
+     "word": "Ils ont la même ambiance que "
+    },
+    {
+     "alwaysChoose": true,
+     "word": "Ils sont plus grands que "
+    },
+    {
+     "alwaysChoose": true,
+     "word": "Ils sont plus jeunes que "
+    },
+    {
+     "alwaysChoose": true,
+     "word": "Ils seraient amis avec "
+    }
+   ]
+  },
+  {
+   "amount": "",
+   "id": "74588",
+   "maxChoices": "1",
+   "name": "response-sentence-person-artist",
+   "optional": false,
+   "placeholder": "blanky",
+   "words": [
+    {
+     "alwaysChoose": true,
+     "word": "Ils sont nés avant "
+    },
+    {
+     "alwaysChoose": true,
+     "word": "C'est une version créative de "
+    },
+    {
+     "alwaysChoose": true,
+     "word": "Ils font de l'art sur "
+    },
+    {
+     "alwaysChoose": true,
+     "word": "Ils peignent mieux que "
+    },
+    {
+     "alwaysChoose": true,
+     "word": "Ils ressemblent beaucoup "
+    },
+    {
+     "alwaysChoose": true,
+     "word": "Ils ressemblent un peu à "
+    },
+    {
+     "alwaysChoose": true,
+     "word": "Ils ne ressemblent en rien "
+    },
+    {
+     "alwaysChoose": true,
+     "word": "Ils sont plus célèbres que "
+    },
+    {
+     "alwaysChoose": true,
+     "word": "Ils ont la même ambiance que "
+    },
+    {
+     "alwaysChoose": true,
+     "word": "Ils sont plus grands que "
+    },
+    {
+     "alwaysChoose": true,
+     "word": "Ils sont plus jeunes que "
+    },
+    {
+     "alwaysChoose": true,
+     "word": "Ils seraient amis avec "
+    }
+   ]
+  },
+  {
+   "amount": "",
+   "id": "74589",
+   "maxChoices": "1",
+   "name": "response-sentence-person-musician",
+   "optional": false,
+   "placeholder": "blanky",
+   "words": [
+    {
+     "alwaysChoose": true,
+     "word": "C'est une version musicale de "
+    },
+    {
+     "alwaysChoose": true,
+     "word": "Ils chantent mieux que "
+    },
+    {
+     "alwaysChoose": true,
+     "word": "Ils font une musique pire que "
+    },
+    {
+     "alwaysChoose": true,
+     "word": "Ils sont plus old-school que "
+    },
+    {
+     "alwaysChoose": true,
+     "word": "Ils sont plus actuels que "
+    },
+    {
+     "alwaysChoose": true,
+     "word": "Ils ressemblent beaucoup "
+    },
+    {
+     "alwaysChoose": true,
+     "word": "Ils ressemblent un peu à "
+    },
+    {
+     "alwaysChoose": true,
+     "word": "Ils ne ressemblent en rien "
+    },
+    {
+     "alwaysChoose": true,
+     "word": "Ils sont plus célèbres que "
+    },
+    {
+     "alwaysChoose": true,
+     "word": "Ils ont la même ambiance que "
+    },
+    {
+     "alwaysChoose": true,
+     "word": "Ils sont plus grands que "
+    },
+    {
+     "alwaysChoose": true,
+     "word": "Ils sont plus jeunes que "
+    },
+    {
+     "alwaysChoose": true,
+     "word": "Ils seraient amis avec "
+    }
+   ]
+  },
+  {
+   "amount": "",
+   "id": "74590",
+   "maxChoices": "1",
+   "name": "response-sentence-story-play",
+   "optional": false,
+   "placeholder": "blanky",
+   "words": [
+    {
+     "alwaysChoose": true,
+     "word": "C'est plus célèbre que "
+    },
+    {
+     "alwaysChoose": true,
+     "word": "C’est joué plus souvent que "
+    },
+    {
+     "alwaysChoose": true,
+     "word": "C'est une histoire plus ancienne que "
+    },
+    {
+     "alwaysChoose": true,
+     "word": "C'est un peu comme "
+    },
+    {
+     "alwaysChoose": true,
+     "word": "C'est un peu similaire à "
+    },
+    {
+     "alwaysChoose": true,
+     "word": "Cela n'a rien à voir avec"
+    },
+    {
+     "alwaysChoose": true,
+     "word": "Il a la même ambiance que "
+    },
+    {
+     "alwaysChoose": true,
+     "word": "C'est un genre différent de celui "
+    },
+    {
+     "alwaysChoose": true,
+     "word": "Ce n'est pas la même forme que "
+    }
+   ]
+  },
+  {
+   "amount": "",
+   "id": "74591",
+   "maxChoices": "1",
+   "name": "response-sentence-place-water",
+   "optional": false,
+   "placeholder": "blanky",
+   "words": [
+    {
+     "alwaysChoose": true,
+     "word": "C'est beaucoup plus gros que "
+    },
+    {
+     "alwaysChoose": true,
+     "word": "C'est plus humide que "
+    },
+    {
+     "alwaysChoose": true,
+     "word": "Il fait plus froid que "
+    },
+    {
+     "alwaysChoose": true,
+     "word": "C'est plus touristique que "
+    },
+    {
+     "alwaysChoose": true,
+     "word": "C'est un peu comme "
+    },
+    {
+     "alwaysChoose": true,
+     "word": "C'est un peu similaire à "
+    },
+    {
+     "alwaysChoose": true,
+     "word": "Cela n'a rien à voir avec "
+    },
+    {
+     "alwaysChoose": true,
+     "word": "Il a la même ambiance que "
+    },
+    {
+     "alwaysChoose": true,
+     "word": "C'est proche de "
+    },
+    {
+     "alwaysChoose": true,
+     "word": "C'est plus grand que "
+    },
+    {
+     "alwaysChoose": true,
+     "word": "C'est plus petit que "
+    },
+    {
+     "alwaysChoose": true,
+     "word": "C'est plus général que "
+    },
+    {
+     "alwaysChoose": true,
+     "word": "C'est plus précis que "
+    }
+   ]
+  },
+  {
+   "amount": "",
+   "id": "74592",
+   "maxChoices": "1",
+   "name": "response-sentence-person-author",
+   "optional": false,
+   "placeholder": "blanky",
+   "words": [
+    {
+     "alwaysChoose": true,
+     "word": "Leurs livres sont plus populaires que "
+    },
+    {
+     "alwaysChoose": true,
+     "word": "Ils sont plus mystérieux que "
+    },
+    {
+     "alwaysChoose": true,
+     "word": "Ils écrivent sur des sujets comme "
+    },
+    {
+     "alwaysChoose": true,
+     "word": "Ils ressemblent beaucoup "
+    },
+    {
+     "alwaysChoose": true,
+     "word": "Ils ressemblent un peu à "
+    },
+    {
+     "alwaysChoose": true,
+     "word": "Ils ne ressemblent en rien "
+    },
+    {
+     "alwaysChoose": true,
+     "word": "Ils sont plus célèbres que "
+    },
+    {
+     "alwaysChoose": true,
+     "word": "Ils ont la même ambiance que "
+    },
+    {
+     "alwaysChoose": true,
+     "word": "Ils sont plus grands que "
+    },
+    {
+     "alwaysChoose": true,
+     "word": "Ils sont plus jeunes que "
+    },
+    {
+     "alwaysChoose": true,
+     "word": "Ils seraient amis avec "
+    }
+   ]
+  },
+  {
+   "amount": "",
+   "id": "74607",
+   "maxChoices": "1",
+   "name": "response-sentence-person-leader",
+   "optional": false,
+   "placeholder": "blanky",
+   "words": [
+    {
+     "alwaysChoose": true,
+     "word": "Ils ont plus de pouvoir que "
+    },
+    {
+     "alwaysChoose": true,
+     "word": "Ils sont comme la version politique de "
+    },
+    {
+     "alwaysChoose": true,
+     "word": "Ils ressemblent beaucoup "
+    },
+    {
+     "alwaysChoose": true,
+     "word": "Ils ressemblent un peu à "
+    },
+    {
+     "alwaysChoose": true,
+     "word": "Ils sont plus célèbres que "
+    },
+    {
+     "alwaysChoose": true,
+     "word": "Ils ont la même ambiance que "
+    },
+    {
+     "alwaysChoose": true,
+     "word": "Ils sont plus grands que "
+    },
+    {
+     "alwaysChoose": true,
+     "word": "Ils sont plus jeunes que "
+    },
+    {
+     "alwaysChoose": true,
+     "word": "Ils seraient amis avec "
+    }
+   ]
+  },
+  {
+   "amount": "",
+   "id": "75282",
+   "maxChoices": "1",
+   "name": "response-sentence-person-mascot",
+   "optional": false,
+   "placeholder": "blanky",
+   "words": [
+    {
+     "alwaysChoose": true,
+     "word": "Ils sont comme une version animée de "
+    },
+    {
+     "alwaysChoose": true,
+     "word": "Ils sont dans des publicités pour "
+    },
+    {
+     "alwaysChoose": true,
+     "word": "Ils sont moins humains que "
+    },
+    {
+     "alwaysChoose": true,
+     "word": "Ils sont plus effrayants que "
+    },
+    {
+     "alwaysChoose": true,
+     "word": "Ils ressemblent beaucoup "
+    },
+    {
+     "alwaysChoose": true,
+     "word": "Ils ressemblent un peu à "
+    },
+    {
+     "alwaysChoose": true,
+     "word": "Ils ne ressemblent en rien "
+    },
+    {
+     "alwaysChoose": true,
+     "word": "Ils sont plus célèbres que "
+    },
+    {
+     "alwaysChoose": true,
+     "word": "Ils ont la même ambiance que "
+    },
+    {
+     "alwaysChoose": true,
+     "word": "Ils sont plus grands que "
+    },
+    {
+     "alwaysChoose": true,
+     "word": "Ils sont plus jeunes que "
+    },
+    {
+     "alwaysChoose": true,
+     "word": "Ils seraient amis avec "
+    }
+   ]
+  },
+  {
+   "amount": "",
+   "id": "75306",
+   "maxChoices": "1",
+   "name": "response-sentence-story-myth",
+   "optional": false,
+   "placeholder": "blanky",
+   "words": [
+    {
+     "alwaysChoose": true,
+     "word": "C'est une histoire plus ancienne que "
+    },
+    {
+     "alwaysChoose": true,
+     "word": "C'est plus emblématique que "
+    },
+    {
+     "alwaysChoose": true,
+     "word": "C'est un peu comme "
+    },
+    {
+     "alwaysChoose": true,
+     "word": "C'est un peu similaire à "
+    },
+    {
+     "alwaysChoose": true,
+     "word": "Cela n'a rien à voir avec "
+    },
+    {
+     "alwaysChoose": true,
+     "word": "Il a la même ambiance que "
+    },
+    {
+     "alwaysChoose": true,
+     "word": "C'est un genre différent de celui "
+    },
+    {
+     "alwaysChoose": true,
+     "word": "Ce n'est pas la même forme que "
+    }
+   ]
+  },
+  {
+   "amount": "",
+   "id": "75307",
+   "maxChoices": "1",
+   "name": "response-sentence-place-website",
+   "optional": false,
+   "placeholder": "blanky",
+   "words": [
+    {
+     "alwaysChoose": true,
+     "word": "C'est plus numérique que "
+    },
+    {
+     "alwaysChoose": true,
+     "word": "C'est pour les gens qui aiment aussi "
+    },
+    {
+     "alwaysChoose": true,
+     "word": "C'est un peu comme "
+    },
+    {
+     "alwaysChoose": true,
+     "word": "C'est un peu similaire à"
+    },
+    {
+     "alwaysChoose": true,
+     "word": "Cela n'a rien à voir avec "
+    },
+    {
+     "alwaysChoose": true,
+     "word": "Il a la même ambiance que "
+    },
+    {
+     "alwaysChoose": true,
+     "word": "C'est proche de "
+    },
+    {
+     "alwaysChoose": true,
+     "word": "C'est plus grand que "
+    },
+    {
+     "alwaysChoose": true,
+     "word": "C'est plus petit que "
+    },
+    {
+     "alwaysChoose": true,
+     "word": "C'est plus général que "
+    },
+    {
+     "alwaysChoose": true,
+     "word": "C'est plus précis que "
+    }
+   ]
+  },
+  {
+   "amount": "",
+   "id": "75513",
+   "maxChoices": "1",
+   "name": "response-sentence-story-boovie",
+   "optional": false,
+   "placeholder": "blanky",
+   "words": [
+    {
+     "alwaysChoose": true,
+     "word": "C'est le même genre de film que "
+    },
+    {
+     "alwaysChoose": true,
+     "word": "C'est un livre plus ancien que "
+    },
+    {
+     "alwaysChoose": true,
+     "word": "C'est un budget plus important que "
+    },
+    {
+     "alwaysChoose": true,
+     "word": "C'est le même genre de livre que "
+    },
+    {
+     "alwaysChoose": true,
+     "word": "Il met en scène le même acteur que "
+    },
+    {
+     "alwaysChoose": true,
+     "word": "C'est un peu comme "
+    },
+    {
+     "alwaysChoose": true,
+     "word": "C'est un peu similaire à "
+    },
+    {
+     "alwaysChoose": true,
+     "word": "Cela n'a rien à voir avec "
+    },
+    {
+     "alwaysChoose": true,
+     "word": "Il a la même ambiance que "
+    },
+    {
+     "alwaysChoose": true,
+     "word": "C'est un genre différent de celui "
+    },
+    {
+     "alwaysChoose": true,
+     "word": "Ce n'est pas la même forme que "
+    }
+   ]
+  },
+  {
+   "amount": "",
+   "id": "75514",
+   "maxChoices": "1",
+   "name": "response-sentence-thing-toy",
+   "optional": false,
+   "placeholder": "blanky",
+   "words": [
+    {
+     "alwaysChoose": true,
+     "word": "C'est la version adaptée aux enfants de "
+    },
+    {
+     "alwaysChoose": true,
+     "word": "C'est plus rétro que "
+    },
+    {
+     "alwaysChoose": true,
+     "word": "C'est un peu comme une version de marque de "
+    },
+    {
+     "alwaysChoose": true,
+     "word": "Les enfants aiment ça plus que "
+    },
+    {
+     "alwaysChoose": true,
+     "word": "C'est un peu comme "
+    },
+    {
+     "alwaysChoose": true,
+     "word": "C'est un peu similaire à "
+    },
+    {
+     "alwaysChoose": true,
+     "word": "Cela n'a rien à voir avec "
+    },
+    {
+     "alwaysChoose": true,
+     "word": "Il a la même ambiance que "
+    },
+    {
+     "alwaysChoose": true,
+     "word": "C'est plus grand que "
+    },
+    {
+     "alwaysChoose": true,
+     "word": "C'est plus petit que "
+    },
+    {
+     "alwaysChoose": true,
+     "word": "C'est plus général que "
+    },
+    {
+     "alwaysChoose": true,
+     "word": "C'est plus précis que "
+    }
+   ]
+  },
+  {
+   "amount": "",
+   "id": "75515",
+   "maxChoices": "1",
+   "name": "response-sentence-thing-game",
+   "optional": false,
+   "placeholder": "blanky",
+   "words": [
+    {
+     "alwaysChoose": true,
+     "word": "C'est la version jeu vidéo de "
+    },
+    {
+     "alwaysChoose": true,
+     "word": "C'est la version jeu de société de "
+    },
+    {
+     "alwaysChoose": true,
+     "word": "Les enfants aiment ça plus que "
+    },
+    {
+     "alwaysChoose": true,
+     "word": "C'est un peu comme "
+    },
+    {
+     "alwaysChoose": true,
+     "word": "C'est un peu similaire à "
+    },
+    {
+     "alwaysChoose": true,
+     "word": "Cela n'a rien à voir avec "
+    },
+    {
+     "alwaysChoose": true,
+     "word": "Il a la même ambiance que "
+    },
+    {
+     "alwaysChoose": true,
+     "word": "C'est plus grand que "
+    },
+    {
+     "alwaysChoose": true,
+     "word": "C'est plus petit que "
+    },
+    {
+     "alwaysChoose": true,
+     "word": "C'est plus général que "
+    },
+    {
+     "alwaysChoose": true,
+     "word": "C'est plus précis que "
+    }
+   ]
+  },
+  {
+   "amount": "",
+   "id": "75516",
+   "maxChoices": "1",
+   "name": "response-sentence-thing-edible",
+   "optional": false,
+   "placeholder": "blanky",
+   "words": [
+    {
+     "alwaysChoose": true,
+     "word": "C'est plus délicieux que "
+    },
+    {
+     "alwaysChoose": true,
+     "word": "C'est plus cher que "
+    },
+    {
+     "alwaysChoose": true,
+     "word": "Il est vendu au même endroit que "
+    },
+    {
+     "alwaysChoose": true,
+     "word": "C'est une version buvable de "
+    },
+    {
+     "alwaysChoose": true,
+     "word": "C'est un peu comme "
+    },
+    {
+     "alwaysChoose": true,
+     "word": "C'est un peu similaire à "
+    },
+    {
+     "alwaysChoose": true,
+     "word": "Cela n'a rien à voir avec "
+    },
+    {
+     "alwaysChoose": true,
+     "word": "Il a la même ambiance que "
+    },
+    {
+     "alwaysChoose": true,
+     "word": "C'est plus grand que "
+    },
+    {
+     "alwaysChoose": true,
+     "word": "C'est plus petit que "
+    },
+    {
+     "alwaysChoose": true,
+     "word": "C'est plus général que "
+    },
+    {
+     "alwaysChoose": true,
+     "word": "C'est plus précis que "
+    }
+   ]
+  },
+  {
+   "amount": "",
+   "id": "75517",
+   "maxChoices": "1",
+   "name": "response-sentence-thing-animal",
+   "optional": false,
+   "placeholder": "blanky",
+   "words": [
+    {
+     "alwaysChoose": true,
+     "word": "C'est plus vivant que "
+    },
+    {
+     "alwaysChoose": true,
+     "word": "Les humains aiment ça plus que "
+    },
+    {
+     "alwaysChoose": true,
+     "word": "Il vit au même endroit que "
+    },
+    {
+     "alwaysChoose": true,
+     "word": "C'est un peu comme "
+    },
+    {
+     "alwaysChoose": true,
+     "word": "C'est un peu similaire à "
+    },
+    {
+     "alwaysChoose": true,
+     "word": "Cela n'a rien à voir avec "
+    },
+    {
+     "alwaysChoose": true,
+     "word": "Il a la même ambiance que "
+    },
+    {
+     "alwaysChoose": true,
+     "word": "C'est plus grand que "
+    },
+    {
+     "alwaysChoose": true,
+     "word": "C'est plus petit que "
+    },
+    {
+     "alwaysChoose": true,
+     "word": "C'est plus général que "
+    },
+    {
+     "alwaysChoose": true,
+     "word": "C'est plus précis que"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,44 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Keywords"
+    },
+    {
+      "t": "A",
+      "v": "response",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponseText"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPromptAudio"
+    },
+    {
+      "t": "A",
+      "v": "prompt",
+      "n": "PromptAudio"
+    },
+    {
+      "t": "S",
+      "v": "Dites trois belles choses à propos de <ANYPLAYER> ",
+      "n": "PromptText"
+    },
+    {
+      "t": "S",
+      "v": "Je ne peux pas|Je ne suis pas|en fait ici |personne sympa|je n'ai pas d'exemples précis|mais je suppose que oui|je joue à Quiplash 3|je ne gagne pas|mais je n'ai pas abandonné ",
+      "n": "SafetyQuips"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "fields": [
+    {
+      "t": "S",
+      "v": "papier bulle ",
+      "n": "Password"
+    },
+    {
+      "t": "S",
+      "v": "chose",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "moyen",
+      "n": "Difficulty"
+    },
+    {
+      "t": "S",
+      "v": "wrap|bubble",
+      "n": "ForbiddenWords"
+    },
+    {
+      "t": "S",
+      "v": "bubble pack|air bubble wrapping|bubblewrap|bubble wrapping|bubblewrapping|bubblepack",
+      "n": "AlternateSpellings"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "fields": [
+    {
+      "t": "S",
+      "v": "Tranchée des Mariannes ",
+      "n": "Password"
+    },
+    {
+      "t": "S",
+      "v": "lieu",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "eau",
+      "n": "Subcategory"
+    },
+    {
+      "t": "S",
+      "v": "moyen",
+      "n": "Difficulty"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "ForbiddenWords"
+    },
+    {
+      "t": "S",
+      "v": "Tranchée des Mariannes|Trouvée des Mariannes|la tranchée des Mariannes|la tranchée des Mariannes|La tranchée des Mariannes|la tranchée des Mariannes ",
+      "n": "AlternateSpellings"
+    }
+  ]
+}

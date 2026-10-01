@@ -1,0 +1,44 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Keywords"
+    },
+    {
+      "t": "A",
+      "v": "response",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponseText"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPromptAudio"
+    },
+    {
+      "t": "A",
+      "v": "prompt",
+      "n": "PromptAudio"
+    },
+    {
+      "t": "S",
+      "v": "La phrase d’ouverture du spectacle solo de <ANYPLAYER> ",
+      "n": "PromptText"
+    },
+    {
+      "t": "S",
+      "v": "Ah, salut ! Je ne vous ai pas remarqué.|Vous vous demandez comment je me suis retrouvé dans cette situation.|Combien de poulets PEUVENT tenir dans une voiture ? ",
+      "n": "SafetyQuips"
+    }
+  ]
+}

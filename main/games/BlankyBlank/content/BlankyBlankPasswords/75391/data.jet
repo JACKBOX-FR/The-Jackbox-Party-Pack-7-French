@@ -1,0 +1,34 @@
+{
+  "fields": [
+    {
+      "t": "S",
+      "v": "Marin Lune ",
+      "n": "Password"
+    },
+    {
+      "t": "S",
+      "v": "histoire",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "tv",
+      "n": "Subcategory"
+    },
+    {
+      "t": "S",
+      "v": "moyen",
+      "n": "Difficulty"
+    },
+    {
+      "t": "S",
+      "v": "moon",
+      "n": "ForbiddenWords"
+    },
+    {
+      "t": "S",
+      "v": "Saylor Moon|Sailer Moon|Joli soldat Sailor Moon|Joli gardien Sailor Moon ",
+      "n": "AlternateSpellings"
+    }
+  ]
+}

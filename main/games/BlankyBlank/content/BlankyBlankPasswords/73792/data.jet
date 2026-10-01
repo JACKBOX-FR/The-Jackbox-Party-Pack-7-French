@@ -1,0 +1,34 @@
+{
+  "fields": [
+    {
+      "t": "S",
+      "v": "Bureau Ovale ",
+      "n": "Password"
+    },
+    {
+      "t": "S",
+      "v": "lieu",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "cuturel",
+      "n": "Subcategory"
+    },
+    {
+      "t": "S",
+      "v": "moyen",
+      "n": "Difficulty"
+    },
+    {
+      "t": "S",
+      "v": "office",
+      "n": "ForbiddenWords"
+    },
+    {
+      "t": "S",
+      "v": "le bureau ovale|Bureau Ovel|le bureau ovale ",
+      "n": "AlternateSpellings"
+    }
+  ]
+}

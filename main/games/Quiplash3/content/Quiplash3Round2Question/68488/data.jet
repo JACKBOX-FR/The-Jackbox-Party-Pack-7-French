@@ -1,0 +1,44 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Keywords"
+    },
+    {
+      "t": "A",
+      "v": "response",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponseText"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPromptAudio"
+    },
+    {
+      "t": "A",
+      "v": "prompt",
+      "n": "PromptAudio"
+    },
+    {
+      "t": "S",
+      "v": "Il devrait y avoir un emoji qui exprime le sentiment de <BLANK> ",
+      "n": "PromptText"
+    },
+    {
+      "t": "S",
+      "v": "faim, mais pas si faim | en colère contre Greg | se remettre d'une rupture ",
+      "n": "SafetyQuips"
+    }
+  ]
+}

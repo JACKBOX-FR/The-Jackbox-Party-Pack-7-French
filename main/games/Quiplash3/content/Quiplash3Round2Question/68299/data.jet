@@ -1,0 +1,44 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Keywords"
+    },
+    {
+      "t": "A",
+      "v": "response",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponseText"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPromptAudio"
+    },
+    {
+      "t": "A",
+      "v": "prompt",
+      "n": "PromptAudio"
+    },
+    {
+      "t": "S",
+      "v": "Un slogan politique décevant de la part d'un candidat centriste ",
+      "n": "PromptText"
+    },
+    {
+      "t": "S",
+      "v": "le pain blanc compte | rendez Peoria à nouveau formidable | lisez sur mes lèvres : pas de nouveaux titres ! ",
+      "n": "SafetyQuips"
+    }
+  ]
+}

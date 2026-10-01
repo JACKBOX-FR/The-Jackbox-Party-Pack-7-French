@@ -1,0 +1,34 @@
+{
+  "fields": [
+    {
+      "t": "S",
+      "v": "Britney Spears ",
+      "n": "Password"
+    },
+    {
+      "t": "S",
+      "v": "personne",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "musicien",
+      "n": "Subcategory"
+    },
+    {
+      "t": "S",
+      "v": "facile",
+      "n": "Difficulty"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "ForbiddenWords"
+    },
+    {
+      "t": "S",
+      "v": "Brittany Spears|Spears|Britney|Britney Jean Spears|Bretagne|C'est Britney, salope|C'est Britney, salope|C'est Britney salope|Britney Spear|Brittany Spear ",
+      "n": "AlternateSpellings"
+    }
+  ]
+}

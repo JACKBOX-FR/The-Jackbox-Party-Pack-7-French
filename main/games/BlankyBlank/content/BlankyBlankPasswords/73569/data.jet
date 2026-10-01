@@ -1,0 +1,34 @@
+{
+  "fields": [
+    {
+      "t": "S",
+      "v": "Tatooine ",
+      "n": "Password"
+    },
+    {
+      "t": "S",
+      "v": "lieu",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "fictif",
+      "n": "Subcategory"
+    },
+    {
+      "t": "S",
+      "v": "difficile",
+      "n": "Difficulty"
+    },
+    {
+      "t": "S",
+      "v": "star wars|jedi|lightsaber|luke|force|hut",
+      "n": "ForbiddenWords"
+    },
+    {
+      "t": "S",
+      "v": "tattoine|tattooine|planète tatooine|tatoene|tattoene|tatooene ",
+      "n": "AlternateSpellings"
+    }
+  ]
+}

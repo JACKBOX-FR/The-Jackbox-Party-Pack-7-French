@@ -1,0 +1,44 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Keywords"
+    },
+    {
+      "t": "A",
+      "v": "response",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponseText"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPromptAudio"
+    },
+    {
+      "t": "A",
+      "v": "prompt",
+      "n": "PromptAudio"
+    },
+    {
+      "t": "S",
+      "v": "Trois choses qui vous endormiront ",
+      "n": "PromptText"
+    },
+    {
+      "t": "S",
+      "v": "du lait chaud|musique apaisante|cinq secondes de radio publique|un lit chaud|un oreiller moelleux|un dessin animé qui frappe à la tête|un hypnotiseur|un trajet en voiture|un doc en 12 parties sur la Seconde Guerre mondiale ",
+      "n": "SafetyQuips"
+    }
+  ]
+}

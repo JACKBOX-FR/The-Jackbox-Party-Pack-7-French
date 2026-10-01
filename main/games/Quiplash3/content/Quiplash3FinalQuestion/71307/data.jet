@@ -1,0 +1,44 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Keywords"
+    },
+    {
+      "t": "A",
+      "v": "response",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponseText"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPromptAudio"
+    },
+    {
+      "t": "A",
+      "v": "prompt",
+      "n": "PromptAudio"
+    },
+    {
+      "t": "S",
+      "v": "Trois choses qui ruinent instantanément une chemise ",
+      "n": "PromptText"
+    },
+    {
+      "t": "S",
+      "v": "chocolat|jus de raisin|prenant feu|encre|peinture|probablement de l'uranium|séchage à haute température|eau de Javel|création dans Tee K.O. ",
+      "n": "SafetyQuips"
+    }
+  ]
+}

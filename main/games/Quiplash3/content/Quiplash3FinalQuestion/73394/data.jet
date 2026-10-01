@@ -1,0 +1,44 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Keywords"
+    },
+    {
+      "t": "A",
+      "v": "response",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponseText"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPromptAudio"
+    },
+    {
+      "t": "A",
+      "v": "prompt",
+      "n": "PromptAudio"
+    },
+    {
+      "t": "S",
+      "v": "Les trois meilleures choses qu'Internet nous a offertes ",
+      "n": "PromptText"
+    },
+    {
+      "t": "S",
+      "v": "vidéos de chiots | nouvelles instantanées | oncles en colère | conseils boursiers | banque en ligne | conseils en cas de faillite | nouvelles constantes | opinions constantes | stress constant ",
+      "n": "SafetyQuips"
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Keywords"
+    },
+    {
+      "t": "A",
+      "v": "response",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponseText"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPromptAudio"
+    },
+    {
+      "t": "A",
+      "v": "prompt",
+      "n": "PromptAudio"
+    },
+    {
+      "t": "S",
+      "v": "Si vous n'avez pas de chien... pourquoi avez-vous cette niche ? ",
+      "n": "PromptText"
+    },
+    {
+      "t": "S",
+      "v": "bonne affaire immobilière|C'est une porcherie !|chambre à coucher après une soirée de jeu de société tendue ",
+      "n": "SafetyQuips"
+    }
+  ]
+}

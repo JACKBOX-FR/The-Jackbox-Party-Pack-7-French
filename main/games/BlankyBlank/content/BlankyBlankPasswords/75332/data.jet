@@ -1,0 +1,34 @@
+{
+  "fields": [
+    {
+      "t": "S",
+      "v": "Lapin énergisant ",
+      "n": "Password"
+    },
+    {
+      "t": "S",
+      "v": "personne",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "mascotte",
+      "n": "Subcategory"
+    },
+    {
+      "t": "S",
+      "v": "difficile",
+      "n": "Difficulty"
+    },
+    {
+      "t": "S",
+      "v": "energetic|electric",
+      "n": "ForbiddenWords"
+    },
+    {
+      "t": "S",
+      "v": "le lapin énergisant|lapin énergétique|lapin batterie ",
+      "n": "AlternateSpellings"
+    }
+  ]
+}

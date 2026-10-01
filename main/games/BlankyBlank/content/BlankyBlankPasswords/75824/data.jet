@@ -1,0 +1,34 @@
+{
+  "fields": [
+    {
+      "t": "S",
+      "v": "Taco Bell ",
+      "n": "Password"
+    },
+    {
+      "t": "S",
+      "v": "lieu",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "marque",
+      "n": "Subcategory"
+    },
+    {
+      "t": "S",
+      "v": "moyen",
+      "n": "Difficulty"
+    },
+    {
+      "t": "S",
+      "v": "taco|bell",
+      "n": "ForbiddenWords"
+    },
+    {
+      "t": "S",
+      "v": "La cloche|tacobell|Taco Bell |Taco Bell Cantina|Taco Bel|La Taco Bell|Tacobel ",
+      "n": "AlternateSpellings"
+    }
+  ]
+}

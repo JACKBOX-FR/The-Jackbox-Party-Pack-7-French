@@ -1,0 +1,34 @@
+{
+  "fields": [
+    {
+      "t": "S",
+      "v": "Empire State Building ",
+      "n": "Password"
+    },
+    {
+      "t": "S",
+      "v": "lieu",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "cuturel",
+      "n": "Subcategory"
+    },
+    {
+      "t": "S",
+      "v": "moyen",
+      "n": "Difficulty"
+    },
+    {
+      "t": "S",
+      "v": "skyscraper|state",
+      "n": "ForbiddenWords"
+    },
+    {
+      "t": "S",
+      "v": "ESB|Empire State|L'Empire State Building ",
+      "n": "AlternateSpellings"
+    }
+  ]
+}

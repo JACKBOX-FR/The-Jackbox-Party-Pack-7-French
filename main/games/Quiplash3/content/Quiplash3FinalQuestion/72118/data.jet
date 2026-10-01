@@ -1,0 +1,44 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Keywords"
+    },
+    {
+      "t": "A",
+      "v": "response",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponseText"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPromptAudio"
+    },
+    {
+      "t": "A",
+      "v": "prompt",
+      "n": "PromptAudio"
+    },
+    {
+      "t": "S",
+      "v": "Lorsque vous passez le contrôle de sécurité de l'aéroport, assurez-vous de retirer vos <BLANK>, <BLANK> et <BLANK> ",
+      "n": "PromptText"
+    },
+    {
+      "t": "S",
+      "v": "anneaux|boucles d'oreilles|vers à anneaux|chaussures|chapeaux|marionnettes à main|liquides|gels|tout ce qui se trouve entre les deux ",
+      "n": "SafetyQuips"
+    }
+  ]
+}

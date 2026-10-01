@@ -1,0 +1,44 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Keywords"
+    },
+    {
+      "t": "A",
+      "v": "response",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponseText"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPromptAudio"
+    },
+    {
+      "t": "A",
+      "v": "prompt",
+      "n": "PromptAudio"
+    },
+    {
+      "t": "S",
+      "v": "Trois mots qui pourraient décrire le cirque ou ton père",
+      "n": "PromptText"
+    },
+    {
+      "t": "S",
+      "v": "intense | cauchemardesque | rempli de tigres | amoureux des tentes | parfumé aux arachides | trop cher | archaïque | cruel | rempli d'orgues ",
+      "n": "SafetyQuips"
+    }
+  ]
+}

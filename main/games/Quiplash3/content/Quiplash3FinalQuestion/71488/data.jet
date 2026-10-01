@@ -1,0 +1,44 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Keywords"
+    },
+    {
+      "t": "A",
+      "v": "response",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponseText"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPromptAudio"
+    },
+    {
+      "t": "A",
+      "v": "prompt",
+      "n": "PromptAudio"
+    },
+    {
+      "t": "S",
+      "v": "Les trois leçons que nous avons apprises aujourd'hui ",
+      "n": "PromptText"
+    },
+    {
+      "t": "S",
+      "v": "mangez bien|dormez 8 heures|réponses stupides gagnez|lavez-vous le visage|brossez-vous les dents|cachez l'argent dans la cour|Rappels|toujours|gagnez ",
+      "n": "SafetyQuips"
+    }
+  ]
+}

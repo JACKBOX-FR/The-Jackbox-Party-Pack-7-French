@@ -1,0 +1,34 @@
+{
+  "fields": [
+    {
+      "t": "S",
+      "v": "tremblement de terre ",
+      "n": "Password"
+    },
+    {
+      "t": "S",
+      "v": "chose",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "choses",
+      "n": "Subcategory"
+    },
+    {
+      "t": "S",
+      "v": "moyen",
+      "n": "Difficulty"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "ForbiddenWords"
+    },
+    {
+      "t": "S",
+      "v": "tremblement de terre | tremblements de terre | tremblements de terre | tremblement de terre | tremblements de terre | tremblements | tremblements | tremblement de terre | tremblements de terre | tremblements de terre | événement sismique | activité sismique ",
+      "n": "AlternateSpellings"
+    }
+  ]
+}

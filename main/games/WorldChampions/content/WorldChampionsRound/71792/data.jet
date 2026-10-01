@@ -1,0 +1,39 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasContestAudio"
+    },
+    {
+      "t": "A",
+      "v": "contest",
+      "n": "ContestAudio"
+    },
+    {
+      "t": "S",
+      "v": "Le champion d'être ignoré par ses collègues en public ",
+      "n": "ContestText"
+    },
+    {
+      "t": "S",
+      "v": "Être ignoré par ses collègues en public",
+      "n": "GameText"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasResponseAudio"
+    },
+    {
+      "t": "A",
+      "v": "response",
+      "n": "ResponseAudio"
+    },
+    {
+      "t": "S",
+      "v": "Oh, hé, je ne t'ai pas vu là-bas. ",
+      "n": "ResponseText"
+    }
+  ]
+}

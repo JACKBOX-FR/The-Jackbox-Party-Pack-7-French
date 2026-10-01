@@ -1,0 +1,44 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Keywords"
+    },
+    {
+      "t": "A",
+      "v": "response",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponseText"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPromptAudio"
+    },
+    {
+      "t": "A",
+      "v": "prompt",
+      "n": "PromptAudio"
+    },
+    {
+      "t": "S",
+      "v": "Qu’arrive-t-il réellement à cette moitié de beignet non consommée dans la salle de repos du bureau ? ",
+      "n": "PromptText"
+    },
+    {
+      "t": "S",
+      "v": "Sacrifié aux dieux de la mise en page ouverte | Broyé pour le toner d'imprimante | Offre à la reine des souris du bureau ",
+      "n": "SafetyQuips"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "fields": [
+    {
+      "t": "S",
+      "v": "Histoire de jouets ",
+      "n": "Password"
+    },
+    {
+      "t": "S",
+      "v": "histoire",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "film d'animation",
+      "n": "Subcategory"
+    },
+    {
+      "t": "S",
+      "v": "facile",
+      "n": "Difficulty"
+    },
+    {
+      "t": "S",
+      "v": "toy|story",
+      "n": "ForbiddenWords"
+    },
+    {
+      "t": "S",
+      "v": "Histoire de jouets 2|Histoire de jouets 3|Histoire de jouets 4|Histoire de jouets ",
+      "n": "AlternateSpellings"
+    }
+  ]
+}

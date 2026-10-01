@@ -1,0 +1,44 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Keywords"
+    },
+    {
+      "t": "A",
+      "v": "response",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponseText"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPromptAudio"
+    },
+    {
+      "t": "A",
+      "v": "prompt",
+      "n": "PromptAudio"
+    },
+    {
+      "t": "S",
+      "v": "Trois choses que le pire couple que vous connaissez apporte toujours aux dîners ",
+      "n": "PromptText"
+    },
+    {
+      "t": "S",
+      "v": "fourchettes|bons vœux|leur poésie|les enfants de quelqu'un d'autre|grippe intestinale|une opportunité de multipropriété|vin sans alcool|bière sans alcool|Jagermeister sans alcool ",
+      "n": "SafetyQuips"
+    }
+  ]
+}

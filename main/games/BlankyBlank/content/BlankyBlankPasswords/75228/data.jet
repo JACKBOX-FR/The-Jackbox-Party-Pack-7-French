@@ -1,0 +1,34 @@
+{
+  "fields": [
+    {
+      "t": "S",
+      "v": "L'anatomie de Grey ",
+      "n": "Password"
+    },
+    {
+      "t": "S",
+      "v": "histoire",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "tv",
+      "n": "Subcategory"
+    },
+    {
+      "t": "S",
+      "v": "moyen",
+      "n": "Difficulty"
+    },
+    {
+      "t": "S",
+      "v": "grey|anatomy|gray",
+      "n": "ForbiddenWords"
+    },
+    {
+      "t": "S",
+      "v": "Grey's Anatomy|Greys Anatomy|Grays Anatomy|Gray Anatomy|Grey Anatomy|Grey's Anatemy|Gray's Anatemy|Grays Anatomy|Greys Anatemy ",
+      "n": "AlternateSpellings"
+    }
+  ]
+}

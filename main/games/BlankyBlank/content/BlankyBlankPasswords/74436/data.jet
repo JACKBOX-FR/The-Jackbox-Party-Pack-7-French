@@ -1,0 +1,34 @@
+{
+  "fields": [
+    {
+      "t": "S",
+      "v": "Les Mondes de Ralph ",
+      "n": "Password"
+    },
+    {
+      "t": "S",
+      "v": "histoire",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "film d'animation",
+      "n": "Subcategory"
+    },
+    {
+      "t": "S",
+      "v": "moyen",
+      "n": "Difficulty"
+    },
+    {
+      "t": "S",
+      "v": "wreck",
+      "n": "ForbiddenWords"
+    },
+    {
+      "t": "S",
+      "v": "Les Mondes de Ralph|Les Mondes de Ralph|Les Mondes de Rlaph|Ralph brise Internet|Les Mondes de Ralph|Les Mondes de Ralph|Les Mondes de Ralph|Les Mondes de Ralph| Ralf|Reck It Ralf",
+      "n": "AlternateSpellings"
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Keywords"
+    },
+    {
+      "t": "A",
+      "v": "response",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponseText"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPromptAudio"
+    },
+    {
+      "t": "A",
+      "v": "prompt",
+      "n": "PromptAudio"
+    },
+    {
+      "t": "S",
+      "v": "Trois choses que vous ne devriez JAMAIS laisser dans les toilettes de quelqu'un ",
+      "n": "PromptText"
+    },
+    {
+      "t": "S",
+      "v": "un avis|votre... vous savez|votre numéro de téléphone|Cadeaux de Noël|Cadeaux d'anniversaire|à moins qu'ils n'y regardent jamais|poils égarés|ongles égarés|dents égarées ",
+      "n": "SafetyQuips"
+    }
+  ]
+}

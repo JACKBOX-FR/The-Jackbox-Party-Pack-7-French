@@ -1,0 +1,34 @@
+{
+  "fields": [
+    {
+      "t": "S",
+      "v": "fromage à ficelle ",
+      "n": "Password"
+    },
+    {
+      "t": "S",
+      "v": "chose",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "comestible",
+      "n": "Subcategory"
+    },
+    {
+      "t": "S",
+      "v": "facile",
+      "n": "Difficulty"
+    },
+    {
+      "t": "S",
+      "v": "cheesy|cheese|stringy|string",
+      "n": "ForbiddenWords"
+    },
+    {
+      "t": "S",
+      "v": "bâtonnet de fromage à ficelle|fromage à ficelle|fromage filant|fromages à ficelle|bâtonnets de fromage à ficelle|bâton de fromage|bâtonnets de fromage ",
+      "n": "AlternateSpellings"
+    }
+  ]
+}

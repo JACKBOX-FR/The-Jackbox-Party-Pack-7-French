@@ -1,0 +1,44 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "S",
+      "v": "<ARTICLE> chocolate | chocolate|a chocolate bar|chocolate candy",
+      "n": "Keywords"
+    },
+    {
+      "t": "A",
+      "v": "response",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "t": "S",
+      "v": "Yeah right, of course you’re getting chocolate! You’re twelve! And, ya know, maybe Skittles.",
+      "n": "KeywordResponseText"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPromptAudio"
+    },
+    {
+      "t": "A",
+      "v": "prompt",
+      "n": "PromptAudio"
+    },
+    {
+      "t": "S",
+      "v": "Vous avez douze ans et vous venez de recevoir un chèque en blanc ! Quelle est la première chose que vous achetez ? ",
+      "n": "PromptText"
+    },
+    {
+      "t": "S",
+      "v": "toboggan aquatique, duh|parents attentifs ",
+      "n": "SafetyQuips"
+    }
+  ]
+}

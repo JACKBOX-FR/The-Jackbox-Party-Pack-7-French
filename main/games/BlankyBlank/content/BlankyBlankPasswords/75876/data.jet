@@ -1,0 +1,34 @@
+{
+  "fields": [
+    {
+      "t": "S",
+      "v": "Le magasin de conteneurs ",
+      "n": "Password"
+    },
+    {
+      "t": "S",
+      "v": "lieu",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "marque",
+      "n": "Subcategory"
+    },
+    {
+      "t": "S",
+      "v": "difficile",
+      "n": "Difficulty"
+    },
+    {
+      "t": "S",
+      "v": "contain|container|store",
+      "n": "ForbiddenWords"
+    },
+    {
+      "t": "S",
+      "v": "Magasin de conteneurs|Le magasin de conteneurs|Magasin de conteneurs ",
+      "n": "AlternateSpellings"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "fields": [
+    {
+      "t": "S",
+      "v": "John F. Kennedy ",
+      "n": "Password"
+    },
+    {
+      "t": "S",
+      "v": "personne",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "historique",
+      "n": "Subcategory"
+    },
+    {
+      "t": "S",
+      "v": "moyen",
+      "n": "Difficulty"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "ForbiddenWords"
+    },
+    {
+      "t": "S",
+      "v": "JFK|Kennedy|John F Kennedy|John Fitzgerald Kennedy|J.F.K.|J F K|John Kennedy|Président Kennedy|Président JFK|Kenndy|Jon F Kennedy ",
+      "n": "AlternateSpellings"
+    }
+  ]
+}

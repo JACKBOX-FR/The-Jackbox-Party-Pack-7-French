@@ -1,0 +1,44 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Keywords"
+    },
+    {
+      "t": "A",
+      "v": "response",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponseText"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPromptAudio"
+    },
+    {
+      "t": "A",
+      "v": "prompt",
+      "n": "PromptAudio"
+    },
+    {
+      "t": "S",
+      "v": "Évitez tout restaurant avec une pancarte indiquant « Comme vu sur <BLANK> » ",
+      "n": "PromptText"
+    },
+    {
+      "t": "S",
+      "v": "Images des caméras de sécurité|Top Gear|dos du bulletin paroissial ",
+      "n": "SafetyQuips"
+    }
+  ]
+}

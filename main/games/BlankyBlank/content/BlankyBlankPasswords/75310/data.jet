@@ -1,0 +1,34 @@
+{
+  "fields": [
+    {
+      "t": "S",
+      "v": "Invasion des voleurs de corps ",
+      "n": "Password"
+    },
+    {
+      "t": "S",
+      "v": "histoire",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "film",
+      "n": "Subcategory"
+    },
+    {
+      "t": "S",
+      "v": "difficile",
+      "n": "Difficulty"
+    },
+    {
+      "t": "S",
+      "v": "invasion|invades",
+      "n": "ForbiddenWords"
+    },
+    {
+      "t": "S",
+      "v": "envahir les voleurs de corps|les voleurs de corps|L'invasion des voleurs de corps|Les voleurs de corps|L'invasion des voleurs de corps|L'invasion des voleurs de corps ",
+      "n": "AlternateSpellings"
+    }
+  ]
+}

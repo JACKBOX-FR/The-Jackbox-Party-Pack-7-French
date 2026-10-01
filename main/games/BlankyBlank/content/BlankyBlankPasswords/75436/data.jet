@@ -1,0 +1,34 @@
+{
+  "fields": [
+    {
+      "t": "S",
+      "v": "Le Songe d'une nuit d'été ",
+      "n": "Password"
+    },
+    {
+      "t": "S",
+      "v": "histoire",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "théâtre",
+      "n": "Subcategory"
+    },
+    {
+      "t": "S",
+      "v": "difficile",
+      "n": "Difficulty"
+    },
+    {
+      "t": "S",
+      "v": "night|dream",
+      "n": "ForbiddenWords"
+    },
+    {
+      "t": "S",
+      "v": "Le Songe d'une nuit d'été|Un rêve d'une nuit d'été|Le Songe d'une nuit d'été|Le milieu de l'été ",
+      "n": "AlternateSpellings"
+    }
+  ]
+}

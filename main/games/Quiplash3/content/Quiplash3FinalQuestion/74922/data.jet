@@ -1,0 +1,44 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Keywords"
+    },
+    {
+      "t": "A",
+      "v": "response",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponseText"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPromptAudio"
+    },
+    {
+      "t": "A",
+      "v": "prompt",
+      "n": "PromptAudio"
+    },
+    {
+      "t": "S",
+      "v": "Trois fois bizarres pour commencer à crier \"Vroom! Vroom! Vroom!\" ",
+      "n": "PromptText"
+    },
+    {
+      "t": "S",
+      "v": "pendant vos vœux de mariage|lors d'un récital de classe|après une grande course|en caressant un chat|en mangeant un taco|pendant l'animation de NPR|lors de l'épicerie|lorsque vous faites un lit|à tout moment lorsque vous n'êtes pas dans une voiture ",
+      "n": "SafetyQuips"
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Keywords"
+    },
+    {
+      "t": "A",
+      "v": "response",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponseText"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPromptAudio"
+    },
+    {
+      "t": "A",
+      "v": "prompt",
+      "n": "PromptAudio"
+    },
+    {
+      "t": "S",
+      "v": "Trois avertissements à mettre sur le côté des canettes de bière ",
+      "n": "PromptText"
+    },
+    {
+      "t": "S",
+      "v": "peut provoquer des maux de tête|peut provoquer une estime de soi gonflée|peut provoquer des conversations décousues|peut provoquer la gueule de bois|peut provoquer des achats impulsifs|peut provoquer des SMS tard dans la nuit ",
+      "n": "SafetyQuips"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "fields": [
+    {
+      "t": "S",
+      "v": "Buffy contre les vampires ",
+      "n": "Password"
+    },
+    {
+      "t": "S",
+      "v": "histoire",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "tv",
+      "n": "Subcategory"
+    },
+    {
+      "t": "S",
+      "v": "moyen",
+      "n": "Difficulty"
+    },
+    {
+      "t": "S",
+      "v": "vampire",
+      "n": "ForbiddenWords"
+    },
+    {
+      "t": "S",
+      "v": "Buffy ",
+      "n": "AlternateSpellings"
+    }
+  ]
+}

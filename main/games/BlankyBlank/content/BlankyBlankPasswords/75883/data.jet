@@ -1,0 +1,34 @@
+{
+  "fields": [
+    {
+      "t": "S",
+      "v": "OVNI ",
+      "n": "Password"
+    },
+    {
+      "t": "S",
+      "v": "chose",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "choses",
+      "n": "Subcategory"
+    },
+    {
+      "t": "S",
+      "v": "difficile",
+      "n": "Difficulty"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "ForbiddenWords"
+    },
+    {
+      "t": "S",
+      "v": "soucoupe volante|OVNI|vaisseau spatial extraterrestre|objet volant non identifié|soucoupe extraterrestre|vaisseau spatial extraterrestre|objets volants non identifiés|un OVNI|un OVNI|OVNIS|objet volant|soucoupes volantes|soucoupe|soucoupes ",
+      "n": "AlternateSpellings"
+    }
+  ]
+}

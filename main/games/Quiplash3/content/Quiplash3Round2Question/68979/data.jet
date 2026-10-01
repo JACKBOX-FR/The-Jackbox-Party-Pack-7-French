@@ -1,0 +1,44 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Keywords"
+    },
+    {
+      "t": "A",
+      "v": "response",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponseText"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPromptAudio"
+    },
+    {
+      "t": "A",
+      "v": "prompt",
+      "n": "PromptAudio"
+    },
+    {
+      "t": "S",
+      "v": "La bibliothèque locale ne veut pas de votre don de ce livre ",
+      "n": "PromptText"
+    },
+    {
+      "t": "S",
+      "v": "Les idées à moitié cuites de Kenneth sur le socialisme | Fan fiction My Little Pony de 2003 ",
+      "n": "SafetyQuips"
+    }
+  ]
+}

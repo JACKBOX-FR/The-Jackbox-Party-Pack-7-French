@@ -1,0 +1,34 @@
+{
+  "fields": [
+    {
+      "t": "S",
+      "v": "Canal de Panama ",
+      "n": "Password"
+    },
+    {
+      "t": "S",
+      "v": "lieu",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "eau",
+      "n": "Subcategory"
+    },
+    {
+      "t": "S",
+      "v": "moyen",
+      "n": "Difficulty"
+    },
+    {
+      "t": "S",
+      "v": "waterway",
+      "n": "ForbiddenWords"
+    },
+    {
+      "t": "S",
+      "v": "Canal de Panama|Le canal de Panama|Canal de Panama|Canal de Panama|Le canal de Panama|Le canal de Panama|Canal de Panama|Canal de Panama|Le canal de Panama ",
+      "n": "AlternateSpellings"
+    }
+  ]
+}

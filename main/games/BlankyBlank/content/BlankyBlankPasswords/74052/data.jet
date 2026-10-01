@@ -1,0 +1,34 @@
+{
+  "fields": [
+    {
+      "t": "S",
+      "v": "Mère Teresa ",
+      "n": "Password"
+    },
+    {
+      "t": "S",
+      "v": "personne",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "célèbre",
+      "n": "Subcategory"
+    },
+    {
+      "t": "S",
+      "v": "moyen",
+      "n": "Difficulty"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "ForbiddenWords"
+    },
+    {
+      "t": "S",
+      "v": "Teresa|Mère Thérèse|Thérèse|Mary Teresa Bojaxhiu|Mère Marie|Mère Marie Teresa Bojaxhiu|Mère Marie Teresa|Sainte Thérèse de Calcutta|Anjezë Gonxhe Bojaxhiu|Sainte Thérèse ",
+      "n": "AlternateSpellings"
+    }
+  ]
+}

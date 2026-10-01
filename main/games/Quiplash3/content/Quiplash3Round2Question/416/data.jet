@@ -1,0 +1,44 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Keywords"
+    },
+    {
+      "t": "A",
+      "v": "response",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponseText"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPromptAudio"
+    },
+    {
+      "t": "A",
+      "v": "prompt",
+      "n": "PromptAudio"
+    },
+    {
+      "t": "S",
+      "v": "Non, vraiment... qu'est-ce que l'amour ? ",
+      "n": "PromptText"
+    },
+    {
+      "t": "S",
+      "v": "la raison pour laquelle j'ai perdu ma maison|un défaut de conception fatal|pourquoi ma mère ne me mettra jamais dehors ",
+      "n": "SafetyQuips"
+    }
+  ]
+}

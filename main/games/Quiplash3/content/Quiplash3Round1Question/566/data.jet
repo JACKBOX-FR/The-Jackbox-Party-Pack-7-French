@@ -1,0 +1,44 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Keywords"
+    },
+    {
+      "t": "A",
+      "v": "response",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponseText"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPromptAudio"
+    },
+    {
+      "t": "A",
+      "v": "prompt",
+      "n": "PromptAudio"
+    },
+    {
+      "t": "S",
+      "v": "La catégorie la plus mémorable que vous ayez jamais vue sur <i>Jeopardy !</i> ",
+      "n": "PromptText"
+    },
+    {
+      "t": "S",
+      "v": "Potables impuissants|Les confitures préférées d'Alex Trebek|Ne doivent pas recevoir de réponse sous forme de question ",
+      "n": "SafetyQuips"
+    }
+  ]
+}

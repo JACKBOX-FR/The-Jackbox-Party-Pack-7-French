@@ -1,0 +1,34 @@
+{
+  "fields": [
+    {
+      "t": "S",
+      "v": "Charles Darwin ",
+      "n": "Password"
+    },
+    {
+      "t": "S",
+      "v": "personne",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "historique",
+      "n": "Subcategory"
+    },
+    {
+      "t": "S",
+      "v": "facile",
+      "n": "Difficulty"
+    },
+    {
+      "t": "S",
+      "v": "genetic",
+      "n": "ForbiddenWords"
+    },
+    {
+      "t": "S",
+      "v": "Darwin|Charels Darwin|Charels Darwinn|Charels Darwinn|Darwinn",
+      "n": "AlternateSpellings"
+    }
+  ]
+}

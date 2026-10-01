@@ -1,0 +1,34 @@
+{
+  "fields": [
+    {
+      "t": "S",
+      "v": "Margaritaville ",
+      "n": "Password"
+    },
+    {
+      "t": "S",
+      "v": "lieu",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "marque",
+      "n": "Subcategory"
+    },
+    {
+      "t": "S",
+      "v": "moyen",
+      "n": "Difficulty"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "ForbiddenWords"
+    },
+    {
+      "t": "S",
+      "v": "Jimmy Buffett's|Jimmy Buffetts|Jimmy Buffett's Margaritaville|Jimmy Buffetts Margaritaville|Jimmy Buffett Margaritaville| Cafés à Margaritaville| Café Margaritaville|Margaritavile|Margaritaville de Jimmy Bufett|Jimmy Bufetts Margaritaville|Jimmy Bufett's|Jimmy Bufetts|Margaritaville de Jimmy Buffet|Jimmy Buffets Margaritaville|Jimmy Buffets|Jimmy Buffet's ",
+      "n": "AlternateSpellings"
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Keywords"
+    },
+    {
+      "t": "A",
+      "v": "response",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponseText"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPromptAudio"
+    },
+    {
+      "t": "A",
+      "v": "prompt",
+      "n": "PromptAudio"
+    },
+    {
+      "t": "S",
+      "v": "Trois secrets que ce groupe, vous, ici, vous cachez les uns aux autres ",
+      "n": "PromptText"
+    },
+    {
+      "t": "S",
+      "v": "nous sommes allergiques aux noix|nous sommes allergiques au fromage|nous sommes allergiques les uns aux autres|rien|nous sommes des livres ouverts|sauf que je suis un espion infiltré|nous sommes en fait des ours|dans des vêtements humains|rugissement ",
+      "n": "SafetyQuips"
+    }
+  ]
+}

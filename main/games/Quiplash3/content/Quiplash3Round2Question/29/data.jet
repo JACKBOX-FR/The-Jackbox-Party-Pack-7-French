@@ -1,0 +1,44 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Keywords"
+    },
+    {
+      "t": "A",
+      "v": "response",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponseText"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPromptAudio"
+    },
+    {
+      "t": "A",
+      "v": "prompt",
+      "n": "PromptAudio"
+    },
+    {
+      "t": "S",
+      "v": "Un signe que votre instructeur de spin vous déteste ",
+      "n": "PromptText"
+    },
+    {
+      "t": "S",
+      "v": "Pas de siège sur votre vélo|Nouveau cours \"Nothing But Hills\"|Tout le monde se rafraîchit sauf vous ",
+      "n": "SafetyQuips"
+    }
+  ]
+}

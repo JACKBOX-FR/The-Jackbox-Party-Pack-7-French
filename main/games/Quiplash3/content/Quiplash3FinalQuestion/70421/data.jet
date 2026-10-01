@@ -1,0 +1,44 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Keywords"
+    },
+    {
+      "t": "A",
+      "v": "response",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponseText"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPromptAudio"
+    },
+    {
+      "t": "A",
+      "v": "prompt",
+      "n": "PromptAudio"
+    },
+    {
+      "t": "S",
+      "v": "Les trois choses que vous feriez immédiatement si vous héritiez d’un milliard de dollars ",
+      "n": "PromptText"
+    },
+    {
+      "t": "S",
+      "v": "ramener des dinosaures | mais vraiment petits | je veux dire en format de poche | éliminer les maladies | éliminer la faim | mais ensuite acheter des montagnes russes | mettre le cerveau dans le corps du robot | conquérir le monde | réaliser que j'étais heureux avant :( ",
+      "n": "SafetyQuips"
+    }
+  ]
+}
